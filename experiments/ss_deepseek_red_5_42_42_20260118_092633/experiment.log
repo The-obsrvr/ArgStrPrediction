@@ -1,0 +1,935 @@
+2026-01-18 09:26:33,694 - INFO - Experiment directory created at: experiments/ss_deepseek_red_5_42_42_20260118_092633 with seed: 42
+2026-01-18 09:26:33,695 - INFO - Loaded config: {'experiment': {'name': 'ms_llm', 'seed': 42, 'log_level': 'INFO', 'debug_llm_io': True, 'do_inference': True, 'do_train': False, 'run_name': 'ss_deepseek_red_5_42_42_20260118_092633'}, 'model': {'do_fine_tuning': False, 'model_name_or_path': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-14B', 'args_model_name_or_path': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-14B', 'rels_model_name_or_path': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-14B'}, 'finetuning': {'data_path': '', 'epochs': 50, 'batch_size': 32, 'learning_rate': 0.001}, 'inference': {'data_path': '/app/Data/US2016reddit.csv', 'model_name_or_path': 'openai/gpt-oss-20b', 'context_examples_path': '/app/Data/qt30_context_examples.json', 'num_context_examples': 5, 'max_attempts': 2, 'max_tokens': 4096, 'temperature': 0.1, 'repetition_penalty': 1.0, 'repeat_instructions': False}}
+2026-01-18 09:26:33,695 - INFO - Loaded 5 structure examples for in-context learning
+2026-01-18 09:26:34,096 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2026-01-18 09:26:42,284 - INFO - Loaded model: deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+2026-01-18 09:26:42,292 - INFO - Inference file loaded with length: 152
+2026-01-18 09:26:42,293 - INFO - --- [Conversation 10385] START ---
+2026-01-18 09:26:42,293 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:26:42,334 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:27:29,786 - INFO - SUCCESS on attempt 1. Total tokens: 4946
+2026-01-18 09:27:29,786 - INFO - Prediction 0 took 47.4938 seconds
+2026-01-18 09:27:29,787 - INFO - --- [Conversation 10388] START ---
+2026-01-18 09:27:29,787 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:27:29,820 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:27:54,058 - INFO - SUCCESS on attempt 1. Total tokens: 4496
+2026-01-18 09:27:54,058 - INFO - Prediction 1 took 24.2712 seconds
+2026-01-18 09:27:54,059 - INFO - --- [Conversation 10284] START ---
+2026-01-18 09:27:54,059 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:27:54,092 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:28:38,515 - INFO - SUCCESS on attempt 1. Total tokens: 4928
+2026-01-18 09:28:38,516 - INFO - Prediction 2 took 44.4569 seconds
+2026-01-18 09:28:38,517 - INFO - --- [Conversation 10303] START ---
+2026-01-18 09:28:38,517 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:28:38,555 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:29:48,938 - INFO - SUCCESS on attempt 1. Total tokens: 5602
+2026-01-18 09:29:48,938 - INFO - Prediction 3 took 70.4218 seconds
+2026-01-18 09:29:48,939 - INFO - --- [Conversation 10665] START ---
+2026-01-18 09:29:48,939 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:29:48,974 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:30:22,050 - INFO - SUCCESS on attempt 1. Total tokens: 4666
+2026-01-18 09:30:22,050 - INFO - Prediction 4 took 33.1111 seconds
+2026-01-18 09:30:22,050 - INFO - --- [Conversation 10491] START ---
+2026-01-18 09:30:22,050 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:30:22,082 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:31:05,366 - INFO - SUCCESS on attempt 1. Total tokens: 4953
+2026-01-18 09:31:05,366 - INFO - Prediction 5 took 43.3158 seconds
+2026-01-18 09:31:05,367 - INFO - --- [Conversation 10661] START ---
+2026-01-18 09:31:05,367 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:31:05,404 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:31:34,129 - INFO - SUCCESS on attempt 1. Total tokens: 4557
+2026-01-18 09:31:34,130 - INFO - Prediction 6 took 28.763 seconds
+2026-01-18 09:31:34,130 - INFO - --- [Conversation 10384] START ---
+2026-01-18 09:31:34,130 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:31:34,162 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:31:54,001 - INFO - SUCCESS on attempt 1. Total tokens: 4488
+2026-01-18 09:31:54,001 - INFO - Prediction 7 took 19.8708 seconds
+2026-01-18 09:31:54,002 - INFO - --- [Conversation 10419] START ---
+2026-01-18 09:31:54,002 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:31:54,035 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:32:22,838 - INFO - SUCCESS on attempt 1. Total tokens: 4573
+2026-01-18 09:32:22,838 - INFO - Prediction 8 took 28.8368 seconds
+2026-01-18 09:32:22,839 - INFO - --- [Conversation 10599] START ---
+2026-01-18 09:32:22,839 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:32:22,874 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:32:41,532 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 09:32:41,551 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-18 09:33:00,302 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 09:33:00,302 - ERROR - All attempts failed; returning None.
+2026-01-18 09:33:00,302 - INFO - No structure predicted. Proceed to next discussion.
+2026-01-18 09:33:00,303 - INFO - --- [Conversation 10556] START ---
+2026-01-18 09:33:00,303 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:33:00,336 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:33:31,135 - INFO - SUCCESS on attempt 1. Total tokens: 4619
+2026-01-18 09:33:31,135 - INFO - Prediction 10 took 30.832 seconds
+2026-01-18 09:33:31,135 - INFO - --- [Conversation 10235] START ---
+2026-01-18 09:33:31,135 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:33:31,170 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:34:08,264 - INFO - SUCCESS on attempt 1. Total tokens: 4848
+2026-01-18 09:34:08,264 - INFO - Prediction 11 took 37.1288 seconds
+2026-01-18 09:34:08,265 - INFO - --- [Conversation 10057] START ---
+2026-01-18 09:34:08,265 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:34:08,301 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:34:44,601 - INFO - SUCCESS on attempt 1. Total tokens: 4773
+2026-01-18 09:34:44,602 - INFO - Prediction 12 took 36.3369 seconds
+2026-01-18 09:34:44,602 - INFO - --- [Conversation 10570] START ---
+2026-01-18 09:34:44,602 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:34:44,634 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:35:08,476 - INFO - SUCCESS on attempt 1. Total tokens: 4542
+2026-01-18 09:35:08,476 - INFO - Prediction 13 took 23.8745 seconds
+2026-01-18 09:35:08,477 - INFO - --- [Conversation 10371] START ---
+2026-01-18 09:35:08,477 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:35:08,511 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:35:24,064 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 09:35:24,084 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-18 09:35:43,884 - INFO - SUCCESS on attempt 2. Total tokens: 9211
+2026-01-18 09:35:43,885 - INFO - Prediction 14 took 35.4077 seconds
+2026-01-18 09:35:43,885 - INFO - --- [Conversation 10413] START ---
+2026-01-18 09:35:43,885 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:35:43,920 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:36:28,312 - INFO - SUCCESS on attempt 1. Total tokens: 4926
+2026-01-18 09:36:28,312 - INFO - Prediction 15 took 44.4275 seconds
+2026-01-18 09:36:28,313 - INFO - --- [Conversation 10232] START ---
+2026-01-18 09:36:28,313 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:36:28,346 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:37:51,394 - INFO - SUCCESS on attempt 1. Total tokens: 5773
+2026-01-18 09:37:51,394 - INFO - Prediction 16 took 83.0813 seconds
+2026-01-18 09:37:51,395 - INFO - --- [Conversation 10306] START ---
+2026-01-18 09:37:51,395 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:37:51,435 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:39:21,255 - INFO - SUCCESS on attempt 1. Total tokens: 5860
+2026-01-18 09:39:21,255 - INFO - Prediction 17 took 89.8604 seconds
+2026-01-18 09:39:21,256 - INFO - --- [Conversation 10594] START ---
+2026-01-18 09:39:21,256 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:39:21,291 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:39:57,465 - INFO - SUCCESS on attempt 1. Total tokens: 4729
+2026-01-18 09:39:57,465 - INFO - Prediction 18 took 36.2093 seconds
+2026-01-18 09:39:57,466 - INFO - --- [Conversation 10229] START ---
+2026-01-18 09:39:57,466 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:39:57,500 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:40:40,084 - INFO - SUCCESS on attempt 1. Total tokens: 4860
+2026-01-18 09:40:40,085 - INFO - Prediction 19 took 42.6186 seconds
+2026-01-18 09:40:40,085 - INFO - --- [Conversation 10416] START ---
+2026-01-18 09:40:40,085 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:40:40,120 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:42:00,195 - INFO - SUCCESS on attempt 1. Total tokens: 5673
+2026-01-18 09:42:00,196 - INFO - Prediction 20 took 80.1106 seconds
+2026-01-18 09:42:00,196 - INFO - --- [Conversation 10313] START ---
+2026-01-18 09:42:00,196 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:42:00,229 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:42:24,803 - INFO - SUCCESS on attempt 1. Total tokens: 4473
+2026-01-18 09:42:24,804 - INFO - Prediction 21 took 24.6074 seconds
+2026-01-18 09:42:24,804 - INFO - --- [Conversation 10055] START ---
+2026-01-18 09:42:24,804 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:42:24,836 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:42:53,624 - INFO - SUCCESS on attempt 1. Total tokens: 4614
+2026-01-18 09:42:53,624 - INFO - Prediction 22 took 28.82 seconds
+2026-01-18 09:42:53,624 - INFO - --- [Conversation 10246] START ---
+2026-01-18 09:42:53,624 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:42:53,657 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:43:34,914 - INFO - SUCCESS on attempt 1. Total tokens: 4972
+2026-01-18 09:43:34,914 - INFO - Prediction 23 took 41.2899 seconds
+2026-01-18 09:43:34,915 - INFO - --- [Conversation 10227] START ---
+2026-01-18 09:43:34,915 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:43:34,951 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:44:23,645 - INFO - SUCCESS on attempt 1. Total tokens: 5329
+2026-01-18 09:44:23,646 - INFO - Prediction 24 took 48.731 seconds
+2026-01-18 09:44:23,646 - INFO - --- [Conversation 10415] START ---
+2026-01-18 09:44:23,647 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:44:23,679 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:44:35,131 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 09:44:35,151 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-18 09:44:46,470 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 09:44:46,470 - ERROR - All attempts failed; returning None.
+2026-01-18 09:44:46,470 - INFO - No structure predicted. Proceed to next discussion.
+2026-01-18 09:44:46,470 - INFO - --- [Conversation 9848] START ---
+2026-01-18 09:44:46,470 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:44:46,504 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:45:43,519 - INFO - SUCCESS on attempt 1. Total tokens: 5269
+2026-01-18 09:45:43,520 - INFO - Prediction 26 took 57.0495 seconds
+2026-01-18 09:45:43,520 - INFO - --- [Conversation 10417] START ---
+2026-01-18 09:45:43,521 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:45:43,553 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:46:12,845 - INFO - SUCCESS on attempt 1. Total tokens: 4647
+2026-01-18 09:46:12,845 - INFO - Prediction 27 took 29.3249 seconds
+2026-01-18 09:46:12,846 - INFO - --- [Conversation 10564] START ---
+2026-01-18 09:46:12,846 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:46:12,878 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:46:58,934 - INFO - SUCCESS on attempt 1. Total tokens: 4911
+2026-01-18 09:46:58,934 - INFO - Prediction 28 took 46.0883 seconds
+2026-01-18 09:46:58,935 - INFO - --- [Conversation 10614] START ---
+2026-01-18 09:46:58,935 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:46:58,972 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:47:42,496 - INFO - SUCCESS on attempt 1. Total tokens: 4843
+2026-01-18 09:47:42,496 - INFO - Prediction 29 took 43.5617 seconds
+2026-01-18 09:47:42,497 - INFO - --- [Conversation 10231] START ---
+2026-01-18 09:47:42,497 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:47:42,529 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:48:15,615 - INFO - SUCCESS on attempt 1. Total tokens: 4817
+2026-01-18 09:48:15,616 - INFO - Prediction 30 took 33.1188 seconds
+2026-01-18 09:48:15,616 - INFO - --- [Conversation 10390] START ---
+2026-01-18 09:48:15,616 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:48:15,648 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:48:35,720 - INFO - SUCCESS on attempt 1. Total tokens: 4398
+2026-01-18 09:48:35,720 - INFO - Prediction 31 took 20.1041 seconds
+2026-01-18 09:48:35,720 - INFO - --- [Conversation 10391] START ---
+2026-01-18 09:48:35,720 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:48:35,751 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:49:05,591 - INFO - SUCCESS on attempt 1. Total tokens: 4591
+2026-01-18 09:49:05,591 - INFO - Prediction 32 took 29.871 seconds
+2026-01-18 09:49:05,592 - INFO - --- [Conversation 10508] START ---
+2026-01-18 09:49:05,592 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:49:05,625 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:49:25,446 - INFO - SUCCESS on attempt 1. Total tokens: 4396
+2026-01-18 09:49:25,446 - INFO - Prediction 33 took 19.8544 seconds
+2026-01-18 09:49:25,447 - INFO - --- [Conversation 10593] START ---
+2026-01-18 09:49:25,447 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:49:25,480 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:50:12,346 - INFO - SUCCESS on attempt 1. Total tokens: 4909
+2026-01-18 09:50:12,347 - INFO - Prediction 34 took 46.9 seconds
+2026-01-18 09:50:12,347 - INFO - --- [Conversation 10274] START ---
+2026-01-18 09:50:12,347 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:50:12,379 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:50:49,078 - INFO - SUCCESS on attempt 1. Total tokens: 4761
+2026-01-18 09:50:49,078 - INFO - Prediction 35 took 36.7311 seconds
+2026-01-18 09:50:49,079 - INFO - --- [Conversation 10590] START ---
+2026-01-18 09:50:49,079 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:50:49,110 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:51:20,999 - INFO - SUCCESS on attempt 1. Total tokens: 4743
+2026-01-18 09:51:20,999 - INFO - Prediction 36 took 31.9207 seconds
+2026-01-18 09:51:21,000 - INFO - --- [Conversation 10496] START ---
+2026-01-18 09:51:21,000 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:51:21,034 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:52:03,200 - INFO - SUCCESS on attempt 1. Total tokens: 4925
+2026-01-18 09:52:03,200 - INFO - Prediction 37 took 42.2003 seconds
+2026-01-18 09:52:03,201 - INFO - --- [Conversation 9679] START ---
+2026-01-18 09:52:03,201 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:52:03,234 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:52:40,424 - INFO - SUCCESS on attempt 1. Total tokens: 4932
+2026-01-18 09:52:40,425 - INFO - Prediction 38 took 37.2239 seconds
+2026-01-18 09:52:40,425 - INFO - --- [Conversation 9846] START ---
+2026-01-18 09:52:40,425 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:52:40,458 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:53:27,455 - INFO - SUCCESS on attempt 1. Total tokens: 5025
+2026-01-18 09:53:27,456 - INFO - Prediction 39 took 47.0308 seconds
+2026-01-18 09:53:27,456 - INFO - --- [Conversation 10510] START ---
+2026-01-18 09:53:27,456 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:53:27,489 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:53:48,059 - INFO - SUCCESS on attempt 1. Total tokens: 4421
+2026-01-18 09:53:48,059 - INFO - Prediction 40 took 20.603 seconds
+2026-01-18 09:53:48,060 - INFO - --- [Conversation 10272] START ---
+2026-01-18 09:53:48,060 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:53:48,093 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:54:12,242 - INFO - SUCCESS on attempt 1. Total tokens: 4502
+2026-01-18 09:54:12,243 - INFO - Prediction 41 took 24.183 seconds
+2026-01-18 09:54:12,243 - INFO - --- [Conversation 10250] START ---
+2026-01-18 09:54:12,243 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:54:12,281 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:55:35,933 - INFO - SUCCESS on attempt 1. Total tokens: 5720
+2026-01-18 09:55:35,934 - INFO - Prediction 42 took 83.6909 seconds
+2026-01-18 09:55:35,935 - INFO - --- [Conversation 10406] START ---
+2026-01-18 09:55:35,935 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:55:35,969 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:56:02,879 - INFO - SUCCESS on attempt 1. Total tokens: 4543
+2026-01-18 09:56:02,879 - INFO - Prediction 43 took 26.9445 seconds
+2026-01-18 09:56:02,879 - INFO - --- [Conversation 10574] START ---
+2026-01-18 09:56:02,879 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:56:02,918 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:56:58,842 - INFO - SUCCESS on attempt 1. Total tokens: 5120
+2026-01-18 09:56:58,843 - INFO - Prediction 44 took 55.9636 seconds
+2026-01-18 09:56:58,844 - INFO - --- [Conversation 10512] START ---
+2026-01-18 09:56:58,844 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:56:58,876 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:57:23,064 - INFO - SUCCESS on attempt 1. Total tokens: 4515
+2026-01-18 09:57:23,065 - INFO - Prediction 45 took 24.221 seconds
+2026-01-18 09:57:23,065 - INFO - --- [Conversation 10566] START ---
+2026-01-18 09:57:23,065 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:57:23,097 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:57:49,309 - INFO - SUCCESS on attempt 1. Total tokens: 4595
+2026-01-18 09:57:49,310 - INFO - Prediction 46 took 26.2448 seconds
+2026-01-18 09:57:49,310 - INFO - --- [Conversation 10517] START ---
+2026-01-18 09:57:49,310 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:57:49,342 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:58:14,715 - INFO - SUCCESS on attempt 1. Total tokens: 4514
+2026-01-18 09:58:14,715 - INFO - Prediction 47 took 25.4052 seconds
+2026-01-18 09:58:14,716 - INFO - --- [Conversation 10243] START ---
+2026-01-18 09:58:14,716 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:58:14,749 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:59:04,172 - INFO - SUCCESS on attempt 1. Total tokens: 5010
+2026-01-18 09:59:04,172 - INFO - Prediction 48 took 49.4566 seconds
+2026-01-18 09:59:04,173 - INFO - --- [Conversation 10062] START ---
+2026-01-18 09:59:04,173 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:59:04,204 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 09:59:25,934 - INFO - SUCCESS on attempt 1. Total tokens: 4455
+2026-01-18 09:59:25,934 - INFO - Prediction 49 took 21.7609 seconds
+2026-01-18 09:59:25,934 - INFO - --- [Conversation 10575] START ---
+2026-01-18 09:59:25,934 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 09:59:25,967 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:00:05,025 - INFO - SUCCESS on attempt 1. Total tokens: 4791
+2026-01-18 10:00:05,025 - INFO - Prediction 50 took 39.0909 seconds
+2026-01-18 10:00:05,026 - INFO - --- [Conversation 10051] START ---
+2026-01-18 10:00:05,026 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:00:05,059 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:00:32,327 - INFO - SUCCESS on attempt 1. Total tokens: 4653
+2026-01-18 10:00:32,328 - INFO - Prediction 51 took 27.302 seconds
+2026-01-18 10:00:32,328 - INFO - --- [Conversation 10314] START ---
+2026-01-18 10:00:32,328 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:00:32,361 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:01:18,957 - INFO - SUCCESS on attempt 1. Total tokens: 4912
+2026-01-18 10:01:18,958 - INFO - Prediction 52 took 46.6296 seconds
+2026-01-18 10:01:18,958 - INFO - --- [Conversation 10373] START ---
+2026-01-18 10:01:18,958 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:01:18,991 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:02:01,252 - INFO - SUCCESS on attempt 1. Total tokens: 4939
+2026-01-18 10:02:01,252 - INFO - Prediction 53 took 42.2937 seconds
+2026-01-18 10:02:01,252 - INFO - --- [Conversation 10323] START ---
+2026-01-18 10:02:01,252 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:02:01,285 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:02:34,427 - INFO - SUCCESS on attempt 1. Total tokens: 4657
+2026-01-18 10:02:34,427 - INFO - Prediction 54 took 33.175 seconds
+2026-01-18 10:02:34,428 - INFO - --- [Conversation 10663] START ---
+2026-01-18 10:02:34,428 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:02:34,464 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:03:46,991 - INFO - SUCCESS on attempt 1. Total tokens: 5468
+2026-01-18 10:03:46,991 - INFO - Prediction 55 took 72.5635 seconds
+2026-01-18 10:03:46,992 - INFO - --- [Conversation 10659] START ---
+2026-01-18 10:03:46,992 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:03:47,026 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:04:26,510 - INFO - SUCCESS on attempt 1. Total tokens: 4809
+2026-01-18 10:04:26,511 - INFO - Prediction 56 took 39.5187 seconds
+2026-01-18 10:04:26,511 - INFO - --- [Conversation 10322] START ---
+2026-01-18 10:04:26,511 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:04:26,543 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:05:07,568 - INFO - SUCCESS on attempt 1. Total tokens: 4859
+2026-01-18 10:05:07,568 - INFO - Prediction 57 took 41.0568 seconds
+2026-01-18 10:05:07,568 - INFO - --- [Conversation 10500] START ---
+2026-01-18 10:05:07,568 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:05:07,602 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:05:36,504 - INFO - SUCCESS on attempt 1. Total tokens: 4594
+2026-01-18 10:05:36,504 - INFO - Prediction 58 took 28.9359 seconds
+2026-01-18 10:05:36,505 - INFO - --- [Conversation 9841] START ---
+2026-01-18 10:05:36,505 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:05:36,536 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:05:54,019 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 10:05:54,037 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-18 10:06:12,052 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentGraph
+2026-01-18 10:06:12,053 - ERROR - All attempts failed; returning None.
+2026-01-18 10:06:12,053 - INFO - No structure predicted. Proceed to next discussion.
+2026-01-18 10:06:12,053 - INFO - --- [Conversation 10378] START ---
+2026-01-18 10:06:12,053 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:06:12,088 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:06:50,071 - INFO - SUCCESS on attempt 1. Total tokens: 4908
+2026-01-18 10:06:50,071 - INFO - Prediction 60 took 38.018 seconds
+2026-01-18 10:06:50,072 - INFO - --- [Conversation 10591] START ---
+2026-01-18 10:06:50,072 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:06:50,104 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:07:19,491 - INFO - SUCCESS on attempt 1. Total tokens: 4727
+2026-01-18 10:07:19,492 - INFO - Prediction 61 took 29.42 seconds
+2026-01-18 10:07:19,492 - INFO - --- [Conversation 10588] START ---
+2026-01-18 10:07:19,492 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:07:19,525 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:07:45,565 - INFO - SUCCESS on attempt 1. Total tokens: 4509
+2026-01-18 10:07:45,565 - INFO - Prediction 62 took 26.0733 seconds
+2026-01-18 10:07:45,566 - INFO - --- [Conversation 10584] START ---
+2026-01-18 10:07:45,566 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:07:45,598 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:08:14,349 - INFO - SUCCESS on attempt 1. Total tokens: 4658
+2026-01-18 10:08:14,349 - INFO - Prediction 63 took 28.7837 seconds
+2026-01-18 10:08:14,350 - INFO - --- [Conversation 10252] START ---
+2026-01-18 10:08:14,350 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:08:14,381 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:08:46,830 - INFO - SUCCESS on attempt 1. Total tokens: 4738
+2026-01-18 10:08:46,831 - INFO - Prediction 64 took 32.4809 seconds
+2026-01-18 10:08:46,831 - INFO - --- [Conversation 9847] START ---
+2026-01-18 10:08:46,831 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:08:46,863 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:09:09,603 - INFO - SUCCESS on attempt 1. Total tokens: 4457
+2026-01-18 10:09:09,603 - INFO - Prediction 65 took 22.7724 seconds
+2026-01-18 10:09:09,604 - INFO - --- [Conversation 10557] START ---
+2026-01-18 10:09:09,604 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:09:09,636 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:09:47,435 - INFO - SUCCESS on attempt 1. Total tokens: 4872
+2026-01-18 10:09:47,435 - INFO - Prediction 66 took 37.8315 seconds
+2026-01-18 10:09:47,436 - INFO - --- [Conversation 10498] START ---
+2026-01-18 10:09:47,436 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:09:47,470 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:10:34,295 - INFO - SUCCESS on attempt 1. Total tokens: 4978
+2026-01-18 10:10:34,296 - INFO - Prediction 67 took 46.86 seconds
+2026-01-18 10:10:34,296 - INFO - --- [Conversation 9706] START ---
+2026-01-18 10:10:34,297 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:10:34,330 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:11:34,137 - INFO - SUCCESS on attempt 1. Total tokens: 5177
+2026-01-18 10:11:34,138 - INFO - Prediction 68 took 59.8411 seconds
+2026-01-18 10:11:34,138 - INFO - --- [Conversation 10337] START ---
+2026-01-18 10:11:34,138 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:11:34,172 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:12:19,895 - INFO - SUCCESS on attempt 1. Total tokens: 4968
+2026-01-18 10:12:19,895 - INFO - Prediction 69 took 45.757 seconds
+2026-01-18 10:12:19,896 - INFO - --- [Conversation 10660] START ---
+2026-01-18 10:12:19,896 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:12:19,930 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:13:05,296 - INFO - SUCCESS on attempt 1. Total tokens: 4906
+2026-01-18 10:13:05,297 - INFO - Prediction 70 took 45.4013 seconds
+2026-01-18 10:13:05,298 - INFO - --- [Conversation 10033] START ---
+2026-01-18 10:13:05,298 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:13:05,333 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:14:14,172 - INFO - SUCCESS on attempt 1. Total tokens: 5611
+2026-01-18 10:14:14,172 - INFO - Prediction 71 took 68.875 seconds
+2026-01-18 10:14:14,173 - INFO - --- [Conversation 10667] START ---
+2026-01-18 10:14:14,173 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:14:14,207 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:15:15,315 - INFO - SUCCESS on attempt 1. Total tokens: 5238
+2026-01-18 10:15:15,315 - INFO - Prediction 72 took 61.142 seconds
+2026-01-18 10:15:15,316 - INFO - --- [Conversation 10311] START ---
+2026-01-18 10:15:15,316 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:15:15,348 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:15:41,339 - INFO - SUCCESS on attempt 1. Total tokens: 4527
+2026-01-18 10:15:41,339 - INFO - Prediction 73 took 26.0233 seconds
+2026-01-18 10:15:41,339 - INFO - --- [Conversation 10495] START ---
+2026-01-18 10:15:41,339 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:15:41,371 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:15:59,233 - INFO - SUCCESS on attempt 1. Total tokens: 4457
+2026-01-18 10:15:59,233 - INFO - Prediction 74 took 17.8937 seconds
+2026-01-18 10:15:59,233 - INFO - --- [Conversation 10365] START ---
+2026-01-18 10:15:59,234 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:15:59,265 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:16:41,303 - INFO - SUCCESS on attempt 1. Total tokens: 4854
+2026-01-18 10:16:41,304 - INFO - Prediction 75 took 42.0703 seconds
+2026-01-18 10:16:41,304 - INFO - --- [Conversation 10634] START ---
+2026-01-18 10:16:41,304 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:16:41,338 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:17:04,431 - INFO - SUCCESS on attempt 1. Total tokens: 4626
+2026-01-18 10:17:04,431 - INFO - Prediction 76 took 23.1267 seconds
+2026-01-18 10:17:04,431 - INFO - --- [Conversation 10502] START ---
+2026-01-18 10:17:04,431 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:17:04,462 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:17:28,453 - INFO - SUCCESS on attempt 1. Total tokens: 4495
+2026-01-18 10:17:28,453 - INFO - Prediction 77 took 24.0218 seconds
+2026-01-18 10:17:28,454 - INFO - --- [Conversation 9844] START ---
+2026-01-18 10:17:28,454 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:17:28,490 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:18:40,059 - INFO - SUCCESS on attempt 1. Total tokens: 5634
+2026-01-18 10:18:40,060 - INFO - Prediction 78 took 71.6063 seconds
+2026-01-18 10:18:40,060 - INFO - --- [Conversation 10499] START ---
+2026-01-18 10:18:40,061 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:18:40,094 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:19:18,256 - INFO - SUCCESS on attempt 1. Total tokens: 4763
+2026-01-18 10:19:18,256 - INFO - Prediction 79 took 38.1958 seconds
+2026-01-18 10:19:18,257 - INFO - --- [Conversation 10596] START ---
+2026-01-18 10:19:18,257 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:19:18,288 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:19:45,406 - INFO - SUCCESS on attempt 1. Total tokens: 4574
+2026-01-18 10:19:45,407 - INFO - Prediction 80 took 27.15 seconds
+2026-01-18 10:19:45,407 - INFO - --- [Conversation 9678] START ---
+2026-01-18 10:19:45,407 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:19:45,441 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:20:19,233 - INFO - SUCCESS on attempt 1. Total tokens: 4755
+2026-01-18 10:20:19,233 - INFO - Prediction 81 took 33.8262 seconds
+2026-01-18 10:20:19,233 - INFO - --- [Conversation 10013] START ---
+2026-01-18 10:20:19,233 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:20:19,266 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:21:07,972 - INFO - SUCCESS on attempt 1. Total tokens: 5060
+2026-01-18 10:21:07,973 - INFO - Prediction 82 took 48.7392 seconds
+2026-01-18 10:21:07,973 - INFO - --- [Conversation 10503] START ---
+2026-01-18 10:21:07,973 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:21:08,011 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:22:51,964 - INFO - SUCCESS on attempt 1. Total tokens: 6380
+2026-01-18 10:22:51,964 - INFO - Prediction 83 took 103.9909 seconds
+2026-01-18 10:22:51,965 - INFO - --- [Conversation 10405] START ---
+2026-01-18 10:22:51,965 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:22:51,997 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:23:12,336 - INFO - SUCCESS on attempt 1. Total tokens: 4450
+2026-01-18 10:23:12,337 - INFO - Prediction 84 took 20.3719 seconds
+2026-01-18 10:23:12,337 - INFO - --- [Conversation 9842] START ---
+2026-01-18 10:23:12,337 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:23:12,370 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:23:40,294 - INFO - SUCCESS on attempt 1. Total tokens: 4589
+2026-01-18 10:23:40,294 - INFO - Prediction 85 took 27.9574 seconds
+2026-01-18 10:23:40,295 - INFO - --- [Conversation 10061] START ---
+2026-01-18 10:23:40,295 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:23:40,329 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:24:44,819 - INFO - SUCCESS on attempt 1. Total tokens: 5410
+2026-01-18 10:24:44,820 - INFO - Prediction 86 took 64.525 seconds
+2026-01-18 10:24:44,820 - INFO - --- [Conversation 10281] START ---
+2026-01-18 10:24:44,821 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:24:44,855 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:25:27,308 - INFO - SUCCESS on attempt 1. Total tokens: 5034
+2026-01-18 10:25:27,309 - INFO - Prediction 87 took 42.4884 seconds
+2026-01-18 10:25:27,309 - INFO - --- [Conversation 10309] START ---
+2026-01-18 10:25:27,309 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:25:27,348 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:27:21,777 - INFO - SUCCESS on attempt 1. Total tokens: 6530
+2026-01-18 10:27:21,777 - INFO - Prediction 88 took 114.4677 seconds
+2026-01-18 10:27:21,778 - INFO - --- [Conversation 10587] START ---
+2026-01-18 10:27:21,778 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:27:21,810 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:27:47,042 - INFO - SUCCESS on attempt 1. Total tokens: 4487
+2026-01-18 10:27:47,042 - INFO - Prediction 89 took 25.2647 seconds
+2026-01-18 10:27:47,043 - INFO - --- [Conversation 10568] START ---
+2026-01-18 10:27:47,043 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:27:47,076 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:28:09,482 - INFO - SUCCESS on attempt 1. Total tokens: 4518
+2026-01-18 10:28:09,482 - INFO - Prediction 90 took 22.4396 seconds
+2026-01-18 10:28:09,483 - INFO - --- [Conversation 10283] START ---
+2026-01-18 10:28:09,483 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:28:09,514 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:28:30,574 - INFO - SUCCESS on attempt 1. Total tokens: 4474
+2026-01-18 10:28:30,574 - INFO - Prediction 91 took 21.0913 seconds
+2026-01-18 10:28:30,574 - INFO - --- [Conversation 9810] START ---
+2026-01-18 10:28:30,574 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:28:30,611 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:29:09,014 - INFO - SUCCESS on attempt 1. Total tokens: 4945
+2026-01-18 10:29:09,014 - INFO - Prediction 92 took 38.44 seconds
+2026-01-18 10:29:09,015 - INFO - --- [Conversation 10481] START ---
+2026-01-18 10:29:09,015 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:29:09,048 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:29:50,973 - INFO - SUCCESS on attempt 1. Total tokens: 4892
+2026-01-18 10:29:50,973 - INFO - Prediction 93 took 41.9583 seconds
+2026-01-18 10:29:50,974 - INFO - --- [Conversation 10066] START ---
+2026-01-18 10:29:50,974 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:29:51,006 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:30:15,957 - INFO - SUCCESS on attempt 1. Total tokens: 4493
+2026-01-18 10:30:15,957 - INFO - Prediction 94 took 24.9836 seconds
+2026-01-18 10:30:15,958 - INFO - --- [Conversation 10418] START ---
+2026-01-18 10:30:15,958 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:30:15,991 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:30:47,811 - INFO - SUCCESS on attempt 1. Total tokens: 4662
+2026-01-18 10:30:47,811 - INFO - Prediction 95 took 31.8535 seconds
+2026-01-18 10:30:47,811 - INFO - --- [Conversation 9812] START ---
+2026-01-18 10:30:47,812 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:30:47,844 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:31:30,214 - INFO - SUCCESS on attempt 1. Total tokens: 4853
+2026-01-18 10:31:30,215 - INFO - Prediction 96 took 42.4031 seconds
+2026-01-18 10:31:30,215 - INFO - --- [Conversation 10597] START ---
+2026-01-18 10:31:30,215 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:31:30,250 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:32:42,901 - INFO - SUCCESS on attempt 1. Total tokens: 5526
+2026-01-18 10:32:42,901 - INFO - Prediction 97 took 72.6859 seconds
+2026-01-18 10:32:42,902 - INFO - --- [Conversation 10319] START ---
+2026-01-18 10:32:42,902 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:32:42,935 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:33:21,109 - INFO - SUCCESS on attempt 1. Total tokens: 4825
+2026-01-18 10:33:21,110 - INFO - Prediction 98 took 38.208 seconds
+2026-01-18 10:33:21,110 - INFO - --- [Conversation 10595] START ---
+2026-01-18 10:33:21,110 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:33:21,142 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:34:01,062 - INFO - SUCCESS on attempt 1. Total tokens: 4841
+2026-01-18 10:34:01,063 - INFO - Prediction 99 took 39.9528 seconds
+2026-01-18 10:34:01,063 - INFO - --- [Conversation 10581] START ---
+2026-01-18 10:34:01,064 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:34:01,097 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:34:20,891 - INFO - SUCCESS on attempt 1. Total tokens: 4387
+2026-01-18 10:34:20,891 - INFO - Prediction 100 took 19.8275 seconds
+2026-01-18 10:34:20,891 - INFO - --- [Conversation 10407] START ---
+2026-01-18 10:34:20,891 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:34:20,923 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:34:51,898 - INFO - SUCCESS on attempt 1. Total tokens: 4613
+2026-01-18 10:34:51,898 - INFO - Prediction 101 took 31.0068 seconds
+2026-01-18 10:34:51,899 - INFO - --- [Conversation 10396] START ---
+2026-01-18 10:34:51,899 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:34:51,931 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:35:13,323 - INFO - SUCCESS on attempt 1. Total tokens: 4451
+2026-01-18 10:35:13,323 - INFO - Prediction 102 took 21.4248 seconds
+2026-01-18 10:35:13,324 - INFO - --- [Conversation 10567] START ---
+2026-01-18 10:35:13,324 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:35:13,356 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:35:36,617 - INFO - SUCCESS on attempt 1. Total tokens: 4504
+2026-01-18 10:35:36,618 - INFO - Prediction 103 took 23.2938 seconds
+2026-01-18 10:35:36,618 - INFO - --- [Conversation 10270] START ---
+2026-01-18 10:35:36,618 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:35:36,651 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:36:05,566 - INFO - SUCCESS on attempt 1. Total tokens: 4595
+2026-01-18 10:36:05,566 - INFO - Prediction 104 took 28.9483 seconds
+2026-01-18 10:36:05,567 - INFO - --- [Conversation 10573] START ---
+2026-01-18 10:36:05,567 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:36:05,600 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:36:48,991 - INFO - SUCCESS on attempt 1. Total tokens: 5057
+2026-01-18 10:36:48,992 - INFO - Prediction 105 took 43.4249 seconds
+2026-01-18 10:36:48,992 - INFO - --- [Conversation 10583] START ---
+2026-01-18 10:36:48,992 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:36:49,025 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:37:13,336 - INFO - SUCCESS on attempt 1. Total tokens: 4544
+2026-01-18 10:37:13,336 - INFO - Prediction 106 took 24.3443 seconds
+2026-01-18 10:37:13,336 - INFO - --- [Conversation 10561] START ---
+2026-01-18 10:37:13,336 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:37:13,368 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:37:36,975 - INFO - SUCCESS on attempt 1. Total tokens: 4495
+2026-01-18 10:37:36,976 - INFO - Prediction 107 took 23.6391 seconds
+2026-01-18 10:37:36,976 - INFO - --- [Conversation 10304] START ---
+2026-01-18 10:37:36,976 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:37:37,008 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:38:06,105 - INFO - SUCCESS on attempt 1. Total tokens: 4647
+2026-01-18 10:38:06,105 - INFO - Prediction 108 took 29.1288 seconds
+2026-01-18 10:38:06,105 - INFO - --- [Conversation 10386] START ---
+2026-01-18 10:38:06,105 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:38:06,138 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:38:27,710 - INFO - SUCCESS on attempt 1. Total tokens: 4463
+2026-01-18 10:38:27,711 - INFO - Prediction 109 took 21.6054 seconds
+2026-01-18 10:38:27,711 - INFO - --- [Conversation 10411] START ---
+2026-01-18 10:38:27,711 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:38:27,743 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:39:05,408 - INFO - SUCCESS on attempt 1. Total tokens: 4740
+2026-01-18 10:39:05,409 - INFO - Prediction 110 took 37.6978 seconds
+2026-01-18 10:39:05,409 - INFO - --- [Conversation 10254] START ---
+2026-01-18 10:39:05,409 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:39:05,444 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:39:54,342 - INFO - SUCCESS on attempt 1. Total tokens: 5054
+2026-01-18 10:39:54,343 - INFO - Prediction 111 took 48.9335 seconds
+2026-01-18 10:39:54,343 - INFO - --- [Conversation 10540] START ---
+2026-01-18 10:39:54,343 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:39:54,377 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:40:28,875 - INFO - SUCCESS on attempt 1. Total tokens: 4766
+2026-01-18 10:40:28,875 - INFO - Prediction 112 took 34.5319 seconds
+2026-01-18 10:40:28,876 - INFO - --- [Conversation 10335] START ---
+2026-01-18 10:40:28,876 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:40:28,909 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:40:59,400 - INFO - SUCCESS on attempt 1. Total tokens: 4609
+2026-01-18 10:40:59,400 - INFO - Prediction 113 took 30.5245 seconds
+2026-01-18 10:40:59,400 - INFO - --- [Conversation 10277] START ---
+2026-01-18 10:40:59,400 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:40:59,434 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:41:46,951 - INFO - SUCCESS on attempt 1. Total tokens: 5023
+2026-01-18 10:41:46,951 - INFO - Prediction 114 took 47.5511 seconds
+2026-01-18 10:41:46,952 - INFO - --- [Conversation 10621] START ---
+2026-01-18 10:41:46,952 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:41:46,986 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:42:30,612 - INFO - SUCCESS on attempt 1. Total tokens: 4963
+2026-01-18 10:42:30,612 - INFO - Prediction 115 took 43.6604 seconds
+2026-01-18 10:42:30,613 - INFO - --- [Conversation 10558] START ---
+2026-01-18 10:42:30,613 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:42:30,647 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:43:09,833 - INFO - SUCCESS on attempt 1. Total tokens: 4908
+2026-01-18 10:43:09,833 - INFO - Prediction 116 took 39.2201 seconds
+2026-01-18 10:43:09,834 - INFO - --- [Conversation 10578] START ---
+2026-01-18 10:43:09,834 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:43:09,868 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:43:29,801 - INFO - SUCCESS on attempt 1. Total tokens: 4464
+2026-01-18 10:43:29,801 - INFO - Prediction 117 took 19.9679 seconds
+2026-01-18 10:43:29,802 - INFO - --- [Conversation 10506] START ---
+2026-01-18 10:43:29,802 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:43:29,834 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:44:00,458 - INFO - SUCCESS on attempt 1. Total tokens: 4603
+2026-01-18 10:44:00,459 - INFO - Prediction 118 took 30.657 seconds
+2026-01-18 10:44:00,459 - INFO - --- [Conversation 10576] START ---
+2026-01-18 10:44:00,459 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:44:00,493 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:44:51,740 - INFO - SUCCESS on attempt 1. Total tokens: 4987
+2026-01-18 10:44:51,740 - INFO - Prediction 119 took 51.281 seconds
+2026-01-18 10:44:51,741 - INFO - --- [Conversation 9675] START ---
+2026-01-18 10:44:51,741 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:44:51,776 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:45:21,166 - INFO - SUCCESS on attempt 1. Total tokens: 4585
+2026-01-18 10:45:21,166 - INFO - Prediction 120 took 29.4256 seconds
+2026-01-18 10:45:21,167 - INFO - --- [Conversation 10056] START ---
+2026-01-18 10:45:21,167 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:45:21,206 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:45:50,944 - INFO - SUCCESS on attempt 1. Total tokens: 4691
+2026-01-18 10:45:50,944 - INFO - Prediction 121 took 29.7775 seconds
+2026-01-18 10:45:50,945 - INFO - --- [Conversation 10565] START ---
+2026-01-18 10:45:50,945 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:45:50,980 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:47:09,666 - INFO - SUCCESS on attempt 1. Total tokens: 5713
+2026-01-18 10:47:09,667 - INFO - Prediction 122 took 78.7221 seconds
+2026-01-18 10:47:09,667 - INFO - --- [Conversation 10324] START ---
+2026-01-18 10:47:09,667 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:47:09,702 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:47:42,353 - INFO - SUCCESS on attempt 1. Total tokens: 4655
+2026-01-18 10:47:42,353 - INFO - Prediction 123 took 32.6857 seconds
+2026-01-18 10:47:42,354 - INFO - --- [Conversation 10063] START ---
+2026-01-18 10:47:42,354 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:47:42,388 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:48:24,109 - INFO - SUCCESS on attempt 1. Total tokens: 4858
+2026-01-18 10:48:24,109 - INFO - Prediction 124 took 41.7556 seconds
+2026-01-18 10:48:24,110 - INFO - --- [Conversation 10247] START ---
+2026-01-18 10:48:24,110 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:48:24,143 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:48:43,705 - INFO - SUCCESS on attempt 1. Total tokens: 4484
+2026-01-18 10:48:43,705 - INFO - Prediction 125 took 19.5958 seconds
+2026-01-18 10:48:43,706 - INFO - --- [Conversation 10255] START ---
+2026-01-18 10:48:43,706 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:48:43,738 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:49:29,259 - INFO - SUCCESS on attempt 1. Total tokens: 4899
+2026-01-18 10:49:29,259 - INFO - Prediction 126 took 45.5534 seconds
+2026-01-18 10:49:29,260 - INFO - --- [Conversation 10387] START ---
+2026-01-18 10:49:29,260 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:49:29,295 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:50:19,560 - INFO - SUCCESS on attempt 1. Total tokens: 4955
+2026-01-18 10:50:19,560 - INFO - Prediction 127 took 50.3006 seconds
+2026-01-18 10:50:19,561 - INFO - --- [Conversation 10042] START ---
+2026-01-18 10:50:19,561 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:50:19,600 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:52:29,393 - INFO - SUCCESS on attempt 1. Total tokens: 6603
+2026-01-18 10:52:29,393 - INFO - Prediction 128 took 129.8324 seconds
+2026-01-18 10:52:29,394 - INFO - --- [Conversation 10238] START ---
+2026-01-18 10:52:29,394 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:52:29,428 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:53:37,047 - INFO - SUCCESS on attempt 1. Total tokens: 5399
+2026-01-18 10:53:37,047 - INFO - Prediction 129 took 67.6534 seconds
+2026-01-18 10:53:37,048 - INFO - --- [Conversation 10334] START ---
+2026-01-18 10:53:37,048 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:53:37,081 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:54:01,987 - INFO - SUCCESS on attempt 1. Total tokens: 4558
+2026-01-18 10:54:01,987 - INFO - Prediction 130 took 24.9389 seconds
+2026-01-18 10:54:01,987 - INFO - --- [Conversation 10421] START ---
+2026-01-18 10:54:01,987 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:54:02,020 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:54:55,632 - INFO - SUCCESS on attempt 1. Total tokens: 5169
+2026-01-18 10:54:55,632 - INFO - Prediction 131 took 53.645 seconds
+2026-01-18 10:54:55,633 - INFO - --- [Conversation 10585] START ---
+2026-01-18 10:54:55,633 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:54:55,669 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:56:17,605 - INFO - SUCCESS on attempt 1. Total tokens: 5698
+2026-01-18 10:56:17,605 - INFO - Prediction 132 took 81.9727 seconds
+2026-01-18 10:56:17,606 - INFO - --- [Conversation 10058] START ---
+2026-01-18 10:56:17,606 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:56:17,639 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:56:55,409 - INFO - SUCCESS on attempt 1. Total tokens: 4789
+2026-01-18 10:56:55,409 - INFO - Prediction 133 took 37.8029 seconds
+2026-01-18 10:56:55,409 - INFO - --- [Conversation 10579] START ---
+2026-01-18 10:56:55,409 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:56:55,441 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:57:15,053 - INFO - SUCCESS on attempt 1. Total tokens: 4464
+2026-01-18 10:57:15,053 - INFO - Prediction 134 took 19.644 seconds
+2026-01-18 10:57:15,054 - INFO - --- [Conversation 10316] START ---
+2026-01-18 10:57:15,054 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:57:15,092 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:57:48,885 - INFO - SUCCESS on attempt 1. Total tokens: 4697
+2026-01-18 10:57:48,885 - INFO - Prediction 135 took 33.8314 seconds
+2026-01-18 10:57:48,886 - INFO - --- [Conversation 9897] START ---
+2026-01-18 10:57:48,886 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:57:48,920 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:59:07,212 - INFO - SUCCESS on attempt 1. Total tokens: 5570
+2026-01-18 10:59:07,212 - INFO - Prediction 136 took 78.3266 seconds
+2026-01-18 10:59:07,213 - INFO - --- [Conversation 10598] START ---
+2026-01-18 10:59:07,213 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:59:07,249 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 10:59:49,037 - INFO - SUCCESS on attempt 1. Total tokens: 5145
+2026-01-18 10:59:49,038 - INFO - Prediction 137 took 41.8252 seconds
+2026-01-18 10:59:49,039 - INFO - --- [Conversation 10548] START ---
+2026-01-18 10:59:49,039 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 10:59:49,099 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:00:36,292 - INFO - SUCCESS on attempt 1. Total tokens: 4925
+2026-01-18 11:00:36,293 - INFO - Prediction 138 took 47.2539 seconds
+2026-01-18 11:00:36,293 - INFO - --- [Conversation 10400] START ---
+2026-01-18 11:00:36,293 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:00:36,326 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:01:11,455 - INFO - SUCCESS on attempt 1. Total tokens: 4710
+2026-01-18 11:01:11,456 - INFO - Prediction 139 took 35.1625 seconds
+2026-01-18 11:01:11,456 - INFO - --- [Conversation 10559] START ---
+2026-01-18 11:01:11,456 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:01:11,489 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:01:25,622 - INFO - SUCCESS on attempt 1. Total tokens: 4346
+2026-01-18 11:01:25,622 - INFO - Prediction 140 took 14.166 seconds
+2026-01-18 11:01:25,622 - INFO - --- [Conversation 9801] START ---
+2026-01-18 11:01:25,622 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:01:25,658 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:01:51,968 - INFO - SUCCESS on attempt 1. Total tokens: 4530
+2026-01-18 11:01:51,968 - INFO - Prediction 141 took 26.3458 seconds
+2026-01-18 11:01:51,969 - INFO - --- [Conversation 10064] START ---
+2026-01-18 11:01:51,969 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:01:52,002 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:02:40,105 - INFO - SUCCESS on attempt 1. Total tokens: 5001
+2026-01-18 11:02:40,106 - INFO - Prediction 142 took 48.1369 seconds
+2026-01-18 11:02:40,106 - INFO - --- [Conversation 10230] START ---
+2026-01-18 11:02:40,106 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:02:40,140 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:03:08,750 - INFO - SUCCESS on attempt 1. Total tokens: 4612
+2026-01-18 11:03:08,750 - INFO - Prediction 143 took 28.6443 seconds
+2026-01-18 11:03:08,751 - INFO - --- [Conversation 10363] START ---
+2026-01-18 11:03:08,751 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:03:08,784 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:04:00,592 - INFO - SUCCESS on attempt 1. Total tokens: 5087
+2026-01-18 11:04:00,593 - INFO - Prediction 144 took 51.842 seconds
+2026-01-18 11:04:00,593 - INFO - --- [Conversation 10592] START ---
+2026-01-18 11:04:00,593 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:04:00,627 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:04:35,845 - INFO - SUCCESS on attempt 1. Total tokens: 4697
+2026-01-18 11:04:35,845 - INFO - Prediction 145 took 35.252 seconds
+2026-01-18 11:04:35,846 - INFO - --- [Conversation 10501] START ---
+2026-01-18 11:04:35,846 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:04:35,885 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:05:19,732 - INFO - SUCCESS on attempt 1. Total tokens: 4901
+2026-01-18 11:05:19,733 - INFO - Prediction 146 took 43.887 seconds
+2026-01-18 11:05:19,733 - INFO - --- [Conversation 9840] START ---
+2026-01-18 11:05:19,733 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:05:19,770 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:05:48,967 - INFO - SUCCESS on attempt 1. Total tokens: 4631
+2026-01-18 11:05:48,967 - INFO - Prediction 147 took 29.2343 seconds
+2026-01-18 11:05:48,968 - INFO - --- [Conversation 10317] START ---
+2026-01-18 11:05:48,968 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:05:49,000 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:06:18,061 - INFO - SUCCESS on attempt 1. Total tokens: 4597
+2026-01-18 11:06:18,061 - INFO - Prediction 148 took 29.0936 seconds
+2026-01-18 11:06:18,062 - INFO - --- [Conversation 10410] START ---
+2026-01-18 11:06:18,062 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:06:18,097 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:07:02,044 - INFO - SUCCESS on attempt 1. Total tokens: 4903
+2026-01-18 11:07:02,044 - INFO - Prediction 149 took 43.9826 seconds
+2026-01-18 11:07:02,045 - INFO - --- [Conversation 10607] START ---
+2026-01-18 11:07:02,045 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:07:02,077 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:07:32,049 - INFO - SUCCESS on attempt 1. Total tokens: 4595
+2026-01-18 11:07:32,049 - INFO - Prediction 150 took 30.0041 seconds
+2026-01-18 11:07:32,049 - INFO - --- [Conversation 10402] START ---
+2026-01-18 11:07:32,050 - INFO - [DEBUG] current_task=ASP, model_name=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B, model_family=deepseek_r1
+2026-01-18 11:07:32,085 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-18 11:08:39,431 - INFO - SUCCESS on attempt 1. Total tokens: 5436
+2026-01-18 11:08:39,432 - INFO - Prediction 151 took 67.3824 seconds
+2026-01-18 11:08:39,458 - INFO - Output graphs saved to experiments/ss_deepseek_red_5_42_42_20260118_092633/ss_deepseek_red_5_42_42_20260118_092633.json
+2026-01-18 11:08:39,458 - INFO - FINAL RUN STATS: Prompt: 639331, Completion: 89501, Total: 728832

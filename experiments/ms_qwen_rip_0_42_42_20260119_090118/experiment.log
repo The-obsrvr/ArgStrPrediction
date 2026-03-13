@@ -1,0 +1,802 @@
+2026-01-19 09:01:18,372 - INFO - Experiment directory created at: experiments/ms_qwen_rip_0_42_42_20260119_090118 with seed: 42
+2026-01-19 09:01:18,372 - INFO - Loaded config: {'experiment': {'name': 'ms_llm', 'seed': 42, 'log_level': 'INFO', 'data_path': '/app/Data/RIP1.csv', 'debug_llm_io': True, 'do_inference': True, 'do_train': False, 'run_name': 'ms_qwen_rip_0_42_42_20260119_090118'}, 'model': {'do_fine_tuning': False, 'save_model_path': '', 'args_model_name_or_path': 'Qwen/Qwen2.5-14B-Instruct', 'rels_model_name_or_path': 'Qwen/Qwen2.5-14B-Instruct', 'model_name_or_path': 'Qwen/Qwen2.5-14B-Instruct'}, 'inference': {'data_path': '/app/Data/RIP1.csv', 'context_examples_path': '/app/Data/qt30_context_examples.json', 'num_context_examples': 0, 'max_attempts': 2, 'max_tokens': 4096, 'temperature': 0.1, 'repetition_penalty': 1.0, 'repeat_instructions': False, 'model_name_or_path': 'Qwen/Qwen2.5-14B-Instruct'}}
+2026-01-19 09:01:18,372 - WARNING - num_context_examples > 0 but no context_examples_path provided; running zero-shot.
+2026-01-19 09:01:19,021 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2026-01-19 09:01:27,029 - INFO - AUE Model loaded successfully.
+2026-01-19 09:01:27,030 - INFO - Same Model for RTC.
+2026-01-19 09:01:27,037 - INFO - Inference file loaded with length: 79
+2026-01-19 09:01:27,037 - INFO - --- [Conversation 29832] START ---
+2026-01-19 09:01:27,037 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:01:27,064 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:01:39,407 - INFO - SUCCESS on attempt 1. Total tokens: 791
+2026-01-19 09:01:39,628 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:01:39,636 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:01:42,387 - INFO - SUCCESS on attempt 1. Total tokens: 926
+2026-01-19 09:01:42,387 - INFO - Prediction 0 took 15.3503 seconds
+2026-01-19 09:01:42,388 - INFO - --- [Conversation 29923] START ---
+2026-01-19 09:01:42,388 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:01:42,393 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:02:15,236 - INFO - SUCCESS on attempt 1. Total tokens: 1189
+2026-01-19 09:02:15,462 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:02:15,471 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:02:30,433 - INFO - SUCCESS on attempt 1. Total tokens: 1529
+2026-01-19 09:02:30,433 - INFO - Prediction 1 took 48.0451 seconds
+2026-01-19 09:02:30,434 - INFO - --- [Conversation 29804] START ---
+2026-01-19 09:02:30,434 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:02:30,440 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:02:38,936 - INFO - SUCCESS on attempt 1. Total tokens: 737
+2026-01-19 09:02:39,175 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:02:39,182 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:02:41,941 - INFO - SUCCESS on attempt 1. Total tokens: 872
+2026-01-19 09:02:41,941 - INFO - Prediction 2 took 11.5076 seconds
+2026-01-19 09:02:41,942 - INFO - --- [Conversation 29910] START ---
+2026-01-19 09:02:41,942 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:02:41,948 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:06,273 - INFO - SUCCESS on attempt 1. Total tokens: 1064
+2026-01-19 09:03:06,495 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:06,504 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:09,372 - INFO - SUCCESS on attempt 1. Total tokens: 1199
+2026-01-19 09:03:09,372 - INFO - Prediction 3 took 27.4308 seconds
+2026-01-19 09:03:09,373 - INFO - --- [Conversation 29913] START ---
+2026-01-19 09:03:09,373 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:09,378 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:20,015 - INFO - SUCCESS on attempt 1. Total tokens: 799
+2026-01-19 09:03:20,240 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:20,247 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:23,003 - INFO - SUCCESS on attempt 1. Total tokens: 934
+2026-01-19 09:03:23,004 - INFO - Prediction 4 took 13.6308 seconds
+2026-01-19 09:03:23,004 - INFO - --- [Conversation 29924] START ---
+2026-01-19 09:03:23,004 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:23,010 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:37,405 - INFO - SUCCESS on attempt 1. Total tokens: 892
+2026-01-19 09:03:37,629 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:37,637 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:42,744 - INFO - SUCCESS on attempt 1. Total tokens: 1067
+2026-01-19 09:03:42,744 - INFO - Prediction 5 took 19.74 seconds
+2026-01-19 09:03:42,744 - INFO - --- [Conversation 27906] START ---
+2026-01-19 09:03:42,744 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:42,750 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:48,966 - INFO - SUCCESS on attempt 1. Total tokens: 813
+2026-01-19 09:03:49,156 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:49,163 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:03:53,054 - INFO - SUCCESS on attempt 1. Total tokens: 968
+2026-01-19 09:03:53,054 - INFO - Prediction 6 took 10.3094 seconds
+2026-01-19 09:03:53,054 - INFO - --- [Conversation 29912] START ---
+2026-01-19 09:03:53,054 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:03:53,059 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:02,040 - INFO - SUCCESS on attempt 1. Total tokens: 720
+2026-01-19 09:04:02,250 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:02,257 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:04,952 - INFO - SUCCESS on attempt 1. Total tokens: 855
+2026-01-19 09:04:04,952 - INFO - Prediction 7 took 11.898 seconds
+2026-01-19 09:04:04,952 - INFO - --- [Conversation 29801] START ---
+2026-01-19 09:04:04,952 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:04,957 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:11,598 - INFO - SUCCESS on attempt 1. Total tokens: 688
+2026-01-19 09:04:11,781 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:11,788 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:14,465 - INFO - SUCCESS on attempt 1. Total tokens: 823
+2026-01-19 09:04:14,465 - INFO - Prediction 8 took 9.5124 seconds
+2026-01-19 09:04:14,465 - INFO - --- [Conversation 29885] START ---
+2026-01-19 09:04:14,465 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:14,470 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:33,555 - INFO - SUCCESS on attempt 1. Total tokens: 953
+2026-01-19 09:04:33,775 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:33,784 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:37,766 - INFO - SUCCESS on attempt 1. Total tokens: 1108
+2026-01-19 09:04:37,766 - INFO - Prediction 9 took 23.3009 seconds
+2026-01-19 09:04:37,766 - INFO - --- [Conversation 29793] START ---
+2026-01-19 09:04:37,766 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:37,771 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:44,686 - INFO - SUCCESS on attempt 1. Total tokens: 694
+2026-01-19 09:04:44,856 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:44,863 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:04:48,693 - INFO - SUCCESS on attempt 1. Total tokens: 849
+2026-01-19 09:04:48,694 - INFO - Prediction 10 took 10.9274 seconds
+2026-01-19 09:04:48,694 - INFO - --- [Conversation 29928] START ---
+2026-01-19 09:04:48,694 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:04:48,699 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:08,755 - INFO - SUCCESS on attempt 1. Total tokens: 922
+2026-01-19 09:05:08,974 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:08,982 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:14,074 - INFO - SUCCESS on attempt 1. Total tokens: 1097
+2026-01-19 09:05:14,074 - INFO - Prediction 11 took 25.3802 seconds
+2026-01-19 09:05:14,074 - INFO - --- [Conversation 29825] START ---
+2026-01-19 09:05:14,075 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:14,081 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:23,900 - INFO - SUCCESS on attempt 1. Total tokens: 830
+2026-01-19 09:05:24,070 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:24,077 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:26,796 - INFO - SUCCESS on attempt 1. Total tokens: 965
+2026-01-19 09:05:26,796 - INFO - Prediction 12 took 12.7216 seconds
+2026-01-19 09:05:26,796 - INFO - --- [Conversation 29934] START ---
+2026-01-19 09:05:26,796 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:26,804 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:39,446 - INFO - SUCCESS on attempt 1. Total tokens: 836
+2026-01-19 09:05:39,653 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:39,660 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:42,406 - INFO - SUCCESS on attempt 1. Total tokens: 971
+2026-01-19 09:05:42,406 - INFO - Prediction 13 took 15.6099 seconds
+2026-01-19 09:05:42,407 - INFO - --- [Conversation 29908] START ---
+2026-01-19 09:05:42,407 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:42,412 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:53,832 - INFO - SUCCESS on attempt 1. Total tokens: 741
+2026-01-19 09:05:54,007 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:54,014 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:05:57,899 - INFO - SUCCESS on attempt 1. Total tokens: 896
+2026-01-19 09:05:57,899 - INFO - Prediction 14 took 15.4923 seconds
+2026-01-19 09:05:57,899 - INFO - --- [Conversation 29802] START ---
+2026-01-19 09:05:57,899 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:05:57,905 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:06:05,530 - INFO - SUCCESS on attempt 1. Total tokens: 860
+2026-01-19 09:06:05,702 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:06:05,709 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:06:08,443 - INFO - SUCCESS on attempt 1. Total tokens: 995
+2026-01-19 09:06:08,443 - INFO - Prediction 15 took 10.5438 seconds
+2026-01-19 09:06:08,443 - INFO - --- [Conversation 29917] START ---
+2026-01-19 09:06:08,443 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:06:08,448 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:06:25,662 - INFO - SUCCESS on attempt 1. Total tokens: 887
+2026-01-19 09:06:25,847 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:06:25,855 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:06:32,107 - INFO - SUCCESS on attempt 1. Total tokens: 1082
+2026-01-19 09:06:32,107 - INFO - Prediction 16 took 23.6639 seconds
+2026-01-19 09:06:32,107 - INFO - --- [Conversation 29865] START ---
+2026-01-19 09:06:32,107 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:06:32,113 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:06:47,055 - INFO - SUCCESS on attempt 1. Total tokens: 841
+2026-01-19 09:06:47,253 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:06:47,260 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:06:52,331 - INFO - SUCCESS on attempt 1. Total tokens: 1016
+2026-01-19 09:06:52,331 - INFO - Prediction 17 took 20.2236 seconds
+2026-01-19 09:06:52,331 - INFO - --- [Conversation 29838] START ---
+2026-01-19 09:06:52,331 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:06:52,337 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:02,280 - INFO - SUCCESS on attempt 1. Total tokens: 823
+2026-01-19 09:07:02,471 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:02,479 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:05,254 - INFO - SUCCESS on attempt 1. Total tokens: 958
+2026-01-19 09:07:05,254 - INFO - Prediction 18 took 12.923 seconds
+2026-01-19 09:07:05,254 - INFO - --- [Conversation 29935] START ---
+2026-01-19 09:07:05,255 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:05,260 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:13,658 - INFO - SUCCESS on attempt 1. Total tokens: 745
+2026-01-19 09:07:13,830 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:13,837 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:16,551 - INFO - SUCCESS on attempt 1. Total tokens: 880
+2026-01-19 09:07:16,551 - INFO - Prediction 19 took 11.2967 seconds
+2026-01-19 09:07:16,551 - INFO - --- [Conversation 29914] START ---
+2026-01-19 09:07:16,552 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:16,557 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:32,109 - INFO - SUCCESS on attempt 1. Total tokens: 889
+2026-01-19 09:07:32,317 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:32,325 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:36,251 - INFO - SUCCESS on attempt 1. Total tokens: 1044
+2026-01-19 09:07:36,252 - INFO - Prediction 20 took 19.7001 seconds
+2026-01-19 09:07:36,252 - INFO - --- [Conversation 29830] START ---
+2026-01-19 09:07:36,252 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:36,257 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:47,182 - INFO - SUCCESS on attempt 1. Total tokens: 837
+2026-01-19 09:07:47,362 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:47,369 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:07:52,435 - INFO - SUCCESS on attempt 1. Total tokens: 1012
+2026-01-19 09:07:52,435 - INFO - Prediction 21 took 16.1835 seconds
+2026-01-19 09:07:52,436 - INFO - --- [Conversation 29900] START ---
+2026-01-19 09:07:52,436 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:07:52,440 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:08:15,824 - INFO - SUCCESS on attempt 1. Total tokens: 947
+2026-01-19 09:08:16,012 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:08:16,021 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:08:25,889 - INFO - SUCCESS on attempt 1. Total tokens: 1203
+2026-01-19 09:08:25,890 - INFO - Prediction 22 took 33.4539 seconds
+2026-01-19 09:08:25,890 - INFO - --- [Conversation 29797] START ---
+2026-01-19 09:08:25,890 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:08:25,895 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:08:35,058 - INFO - SUCCESS on attempt 1. Total tokens: 770
+2026-01-19 09:08:35,266 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:08:35,273 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:08:37,950 - INFO - SUCCESS on attempt 1. Total tokens: 905
+2026-01-19 09:08:37,950 - INFO - Prediction 23 took 12.0605 seconds
+2026-01-19 09:08:37,951 - INFO - --- [Conversation 29799] START ---
+2026-01-19 09:08:37,951 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:08:37,955 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:08:46,024 - INFO - SUCCESS on attempt 1. Total tokens: 679
+2026-01-19 09:08:46,191 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:08:46,198 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:08:48,871 - INFO - SUCCESS on attempt 1. Total tokens: 814
+2026-01-19 09:08:48,871 - INFO - Prediction 24 took 10.9205 seconds
+2026-01-19 09:08:48,871 - INFO - --- [Conversation 29901] START ---
+2026-01-19 09:08:48,871 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:08:48,877 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:09:14,153 - INFO - SUCCESS on attempt 1. Total tokens: 1041
+2026-01-19 09:09:14,338 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:09:14,348 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:09:23,050 - INFO - SUCCESS on attempt 1. Total tokens: 1277
+2026-01-19 09:09:23,050 - INFO - Prediction 25 took 34.1783 seconds
+2026-01-19 09:09:23,050 - INFO - --- [Conversation 29942] START ---
+2026-01-19 09:09:23,050 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:09:23,055 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:09:32,907 - INFO - SUCCESS on attempt 1. Total tokens: 705
+2026-01-19 09:09:33,114 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:09:33,120 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:09:36,992 - INFO - SUCCESS on attempt 1. Total tokens: 860
+2026-01-19 09:09:36,992 - INFO - Prediction 26 took 13.9425 seconds
+2026-01-19 09:09:36,993 - INFO - --- [Conversation 29876] START ---
+2026-01-19 09:09:36,993 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:09:36,998 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:09:55,103 - INFO - SUCCESS on attempt 1. Total tokens: 957
+2026-01-19 09:09:55,292 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:09:55,301 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:09:59,240 - INFO - SUCCESS on attempt 1. Total tokens: 1112
+2026-01-19 09:09:59,240 - INFO - Prediction 27 took 22.2477 seconds
+2026-01-19 09:09:59,241 - INFO - --- [Conversation 29930] START ---
+2026-01-19 09:09:59,241 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:09:59,246 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:10:09,699 - INFO - SUCCESS on attempt 1. Total tokens: 817
+2026-01-19 09:10:09,881 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:10:09,889 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:10:12,767 - INFO - SUCCESS on attempt 1. Total tokens: 952
+2026-01-19 09:10:12,767 - INFO - Prediction 28 took 13.5263 seconds
+2026-01-19 09:10:12,767 - INFO - --- [Conversation 29892] START ---
+2026-01-19 09:10:12,767 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:10:12,772 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:10:30,762 - INFO - SUCCESS on attempt 1. Total tokens: 881
+2026-01-19 09:10:30,947 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:10:30,954 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:10:39,529 - INFO - SUCCESS on attempt 1. Total tokens: 1116
+2026-01-19 09:10:39,529 - INFO - Prediction 29 took 26.7615 seconds
+2026-01-19 09:10:39,529 - INFO - --- [Conversation 29809] START ---
+2026-01-19 09:10:39,529 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:10:39,535 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:10:57,240 - INFO - SUCCESS on attempt 1. Total tokens: 1000
+2026-01-19 09:10:57,452 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:10:57,461 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:03,744 - INFO - SUCCESS on attempt 1. Total tokens: 1195
+2026-01-19 09:11:03,744 - INFO - Prediction 30 took 24.2151 seconds
+2026-01-19 09:11:03,745 - INFO - --- [Conversation 27713] START ---
+2026-01-19 09:11:03,745 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:03,751 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:10,655 - INFO - SUCCESS on attempt 1. Total tokens: 780
+2026-01-19 09:11:10,827 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:10,834 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:14,685 - INFO - SUCCESS on attempt 1. Total tokens: 935
+2026-01-19 09:11:14,685 - INFO - Prediction 31 took 10.9402 seconds
+2026-01-19 09:11:14,685 - INFO - --- [Conversation 27717] START ---
+2026-01-19 09:11:14,685 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:14,690 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:30,449 - INFO - SUCCESS on attempt 1. Total tokens: 909
+2026-01-19 09:11:30,634 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:30,643 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:36,893 - INFO - SUCCESS on attempt 1. Total tokens: 1104
+2026-01-19 09:11:36,894 - INFO - Prediction 32 took 22.2086 seconds
+2026-01-19 09:11:36,894 - INFO - --- [Conversation 29891] START ---
+2026-01-19 09:11:36,894 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:36,899 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:45,088 - INFO - SUCCESS on attempt 1. Total tokens: 781
+2026-01-19 09:11:45,282 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:45,289 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:11:47,997 - INFO - SUCCESS on attempt 1. Total tokens: 916
+2026-01-19 09:11:47,997 - INFO - Prediction 33 took 11.1032 seconds
+2026-01-19 09:11:47,998 - INFO - --- [Conversation 29805] START ---
+2026-01-19 09:11:47,998 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:11:48,004 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:01,375 - INFO - SUCCESS on attempt 1. Total tokens: 1119
+2026-01-19 09:12:01,564 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:01,573 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:05,569 - INFO - SUCCESS on attempt 1. Total tokens: 1274
+2026-01-19 09:12:05,569 - INFO - Prediction 34 took 17.5719 seconds
+2026-01-19 09:12:05,570 - INFO - --- [Conversation 29841] START ---
+2026-01-19 09:12:05,570 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:05,576 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:22,419 - INFO - SUCCESS on attempt 1. Total tokens: 944
+2026-01-19 09:12:22,593 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:22,602 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:26,551 - INFO - SUCCESS on attempt 1. Total tokens: 1099
+2026-01-19 09:12:26,552 - INFO - Prediction 35 took 20.9821 seconds
+2026-01-19 09:12:26,552 - INFO - --- [Conversation 29784] START ---
+2026-01-19 09:12:26,552 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:26,558 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:40,027 - INFO - SUCCESS on attempt 1. Total tokens: 936
+2026-01-19 09:12:40,233 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:40,241 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:43,017 - INFO - SUCCESS on attempt 1. Total tokens: 1071
+2026-01-19 09:12:43,017 - INFO - Prediction 36 took 16.465 seconds
+2026-01-19 09:12:43,017 - INFO - --- [Conversation 29883] START ---
+2026-01-19 09:12:43,017 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:43,023 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:52,256 - INFO - SUCCESS on attempt 1. Total tokens: 816
+2026-01-19 09:12:52,432 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:52,440 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:12:55,157 - INFO - SUCCESS on attempt 1. Total tokens: 951
+2026-01-19 09:12:55,158 - INFO - Prediction 37 took 12.1404 seconds
+2026-01-19 09:12:55,158 - INFO - --- [Conversation 29898] START ---
+2026-01-19 09:12:55,158 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:12:55,164 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:03,869 - INFO - SUCCESS on attempt 1. Total tokens: 782
+2026-01-19 09:13:04,055 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:04,063 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:06,758 - INFO - SUCCESS on attempt 1. Total tokens: 917
+2026-01-19 09:13:06,758 - INFO - Prediction 38 took 11.5999 seconds
+2026-01-19 09:13:06,758 - INFO - --- [Conversation 29919] START ---
+2026-01-19 09:13:06,758 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:06,763 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:14,515 - INFO - SUCCESS on attempt 1. Total tokens: 743
+2026-01-19 09:13:14,686 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:14,692 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:17,375 - INFO - SUCCESS on attempt 1. Total tokens: 878
+2026-01-19 09:13:17,375 - INFO - Prediction 39 took 10.6167 seconds
+2026-01-19 09:13:17,375 - INFO - --- [Conversation 29782] START ---
+2026-01-19 09:13:17,375 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:17,381 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:27,019 - INFO - SUCCESS on attempt 1. Total tokens: 945
+2026-01-19 09:13:27,204 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:27,214 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:29,998 - INFO - SUCCESS on attempt 1. Total tokens: 1080
+2026-01-19 09:13:29,999 - INFO - Prediction 40 took 12.6236 seconds
+2026-01-19 09:13:29,999 - INFO - --- [Conversation 29933] START ---
+2026-01-19 09:13:29,999 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:30,004 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:45,567 - INFO - SUCCESS on attempt 1. Total tokens: 938
+2026-01-19 09:13:45,760 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:45,769 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:13:48,543 - INFO - SUCCESS on attempt 1. Total tokens: 1073
+2026-01-19 09:13:48,544 - INFO - Prediction 41 took 18.5449 seconds
+2026-01-19 09:13:48,544 - INFO - --- [Conversation 27799] START ---
+2026-01-19 09:13:48,544 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:13:48,549 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:04,461 - INFO - SUCCESS on attempt 1. Total tokens: 839
+2026-01-19 09:14:04,651 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:04,659 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:10,875 - INFO - SUCCESS on attempt 1. Total tokens: 1034
+2026-01-19 09:14:10,875 - INFO - Prediction 42 took 22.3314 seconds
+2026-01-19 09:14:10,876 - INFO - --- [Conversation 29911] START ---
+2026-01-19 09:14:10,876 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:10,881 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:27,364 - INFO - SUCCESS on attempt 1. Total tokens: 814
+2026-01-19 09:14:27,551 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:27,559 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:32,640 - INFO - SUCCESS on attempt 1. Total tokens: 989
+2026-01-19 09:14:32,640 - INFO - Prediction 43 took 21.7642 seconds
+2026-01-19 09:14:32,640 - INFO - --- [Conversation 29842] START ---
+2026-01-19 09:14:32,641 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:32,646 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:39,677 - INFO - SUCCESS on attempt 1. Total tokens: 824
+2026-01-19 09:14:39,871 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:39,879 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:42,635 - INFO - SUCCESS on attempt 1. Total tokens: 959
+2026-01-19 09:14:42,635 - INFO - Prediction 44 took 9.995 seconds
+2026-01-19 09:14:42,636 - INFO - --- [Conversation 29820] START ---
+2026-01-19 09:14:42,636 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:42,641 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:51,787 - INFO - SUCCESS on attempt 1. Total tokens: 862
+2026-01-19 09:14:51,963 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:51,971 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:14:54,728 - INFO - SUCCESS on attempt 1. Total tokens: 997
+2026-01-19 09:14:54,729 - INFO - Prediction 45 took 12.0929 seconds
+2026-01-19 09:14:54,729 - INFO - --- [Conversation 29864] START ---
+2026-01-19 09:14:54,729 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:14:54,736 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:04,763 - INFO - SUCCESS on attempt 1. Total tokens: 884
+2026-01-19 09:15:04,950 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:04,958 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:07,706 - INFO - SUCCESS on attempt 1. Total tokens: 1019
+2026-01-19 09:15:07,706 - INFO - Prediction 46 took 12.9776 seconds
+2026-01-19 09:15:07,707 - INFO - --- [Conversation 27855] START ---
+2026-01-19 09:15:07,707 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:07,712 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:22,489 - INFO - SUCCESS on attempt 1. Total tokens: 836
+2026-01-19 09:15:22,665 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:22,673 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:28,913 - INFO - SUCCESS on attempt 1. Total tokens: 1031
+2026-01-19 09:15:28,913 - INFO - Prediction 47 took 21.2065 seconds
+2026-01-19 09:15:28,913 - INFO - --- [Conversation 29787] START ---
+2026-01-19 09:15:28,914 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:28,919 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:38,906 - INFO - SUCCESS on attempt 1. Total tokens: 834
+2026-01-19 09:15:39,111 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:39,119 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:43,021 - INFO - SUCCESS on attempt 1. Total tokens: 989
+2026-01-19 09:15:43,021 - INFO - Prediction 48 took 14.108 seconds
+2026-01-19 09:15:43,022 - INFO - --- [Conversation 29794] START ---
+2026-01-19 09:15:43,022 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:43,028 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:15:58,824 - INFO - SUCCESS on attempt 1. Total tokens: 1003
+2026-01-19 09:15:59,015 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:15:59,024 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:16:06,508 - INFO - SUCCESS on attempt 1. Total tokens: 1218
+2026-01-19 09:16:06,508 - INFO - Prediction 49 took 23.4867 seconds
+2026-01-19 09:16:06,509 - INFO - --- [Conversation 29925] START ---
+2026-01-19 09:16:06,509 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:16:06,515 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:16:23,941 - INFO - SUCCESS on attempt 1. Total tokens: 905
+2026-01-19 09:16:24,115 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:16:24,124 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:16:30,401 - INFO - SUCCESS on attempt 1. Total tokens: 1100
+2026-01-19 09:16:30,401 - INFO - Prediction 50 took 23.8921 seconds
+2026-01-19 09:16:30,401 - INFO - --- [Conversation 29789] START ---
+2026-01-19 09:16:30,401 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:16:30,406 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:16:38,912 - INFO - SUCCESS on attempt 1. Total tokens: 776
+2026-01-19 09:16:39,113 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:16:39,120 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:16:41,950 - INFO - SUCCESS on attempt 1. Total tokens: 911
+2026-01-19 09:16:41,950 - INFO - Prediction 51 took 11.5493 seconds
+2026-01-19 09:16:41,951 - INFO - --- [Conversation 29790] START ---
+2026-01-19 09:16:41,951 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:16:41,957 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:17:01,761 - INFO - SUCCESS on attempt 1. Total tokens: 1078
+2026-01-19 09:17:01,949 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:17:01,959 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:17:09,500 - INFO - SUCCESS on attempt 1. Total tokens: 1293
+2026-01-19 09:17:09,500 - INFO - Prediction 52 took 27.5495 seconds
+2026-01-19 09:17:09,500 - INFO - --- [Conversation 29881] START ---
+2026-01-19 09:17:09,500 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:17:09,506 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:17:23,005 - INFO - SUCCESS on attempt 1. Total tokens: 776
+2026-01-19 09:17:23,184 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:17:23,191 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:17:27,075 - INFO - SUCCESS on attempt 1. Total tokens: 931
+2026-01-19 09:17:27,076 - INFO - Prediction 53 took 17.5752 seconds
+2026-01-19 09:17:27,076 - INFO - --- [Conversation 29811] START ---
+2026-01-19 09:17:27,076 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:17:27,082 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:17:49,682 - INFO - SUCCESS on attempt 1. Total tokens: 1068
+2026-01-19 09:17:49,894 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:17:49,904 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:17:55,070 - INFO - SUCCESS on attempt 1. Total tokens: 1243
+2026-01-19 09:17:55,070 - INFO - Prediction 54 took 27.9944 seconds
+2026-01-19 09:17:55,071 - INFO - --- [Conversation 29929] START ---
+2026-01-19 09:17:55,071 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:17:55,077 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:04,049 - INFO - SUCCESS on attempt 1. Total tokens: 822
+2026-01-19 09:18:04,239 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:04,247 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:06,985 - INFO - SUCCESS on attempt 1. Total tokens: 957
+2026-01-19 09:18:06,985 - INFO - Prediction 55 took 11.9145 seconds
+2026-01-19 09:18:06,985 - INFO - --- [Conversation 29800] START ---
+2026-01-19 09:18:06,985 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:06,991 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:16,876 - INFO - SUCCESS on attempt 1. Total tokens: 793
+2026-01-19 09:18:17,048 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:17,056 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:20,959 - INFO - SUCCESS on attempt 1. Total tokens: 948
+2026-01-19 09:18:20,959 - INFO - Prediction 56 took 13.9742 seconds
+2026-01-19 09:18:20,960 - INFO - --- [Conversation 29931] START ---
+2026-01-19 09:18:20,960 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:20,964 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:34,517 - INFO - SUCCESS on attempt 1. Total tokens: 749
+2026-01-19 09:18:34,723 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:34,730 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:38,697 - INFO - SUCCESS on attempt 1. Total tokens: 904
+2026-01-19 09:18:38,697 - INFO - Prediction 57 took 17.7376 seconds
+2026-01-19 09:18:38,698 - INFO - --- [Conversation 29788] START ---
+2026-01-19 09:18:38,698 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:38,705 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:47,496 - INFO - SUCCESS on attempt 1. Total tokens: 1050
+2026-01-19 09:18:47,669 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:47,678 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:50,499 - INFO - SUCCESS on attempt 1. Total tokens: 1185
+2026-01-19 09:18:50,499 - INFO - Prediction 58 took 11.8019 seconds
+2026-01-19 09:18:50,500 - INFO - --- [Conversation 29843] START ---
+2026-01-19 09:18:50,500 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:50,505 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:18:57,545 - INFO - SUCCESS on attempt 1. Total tokens: 802
+2026-01-19 09:18:57,774 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:18:57,784 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:01,898 - INFO - SUCCESS on attempt 1. Total tokens: 957
+2026-01-19 09:19:01,898 - INFO - Prediction 59 took 11.3984 seconds
+2026-01-19 09:19:01,898 - INFO - --- [Conversation 29853] START ---
+2026-01-19 09:19:01,898 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:01,904 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:08,262 - INFO - SUCCESS on attempt 1. Total tokens: 711
+2026-01-19 09:19:08,438 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:08,446 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:11,166 - INFO - SUCCESS on attempt 1. Total tokens: 846
+2026-01-19 09:19:11,166 - INFO - Prediction 60 took 9.2674 seconds
+2026-01-19 09:19:11,166 - INFO - --- [Conversation 29848] START ---
+2026-01-19 09:19:11,166 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:11,172 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:24,290 - INFO - SUCCESS on attempt 1. Total tokens: 871
+2026-01-19 09:19:24,458 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:24,466 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:28,382 - INFO - SUCCESS on attempt 1. Total tokens: 1026
+2026-01-19 09:19:28,382 - INFO - Prediction 61 took 17.2161 seconds
+2026-01-19 09:19:28,382 - INFO - --- [Conversation 29824] START ---
+2026-01-19 09:19:28,382 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:28,388 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:40,930 - INFO - SUCCESS on attempt 1. Total tokens: 862
+2026-01-19 09:19:41,125 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:41,133 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:45,027 - INFO - SUCCESS on attempt 1. Total tokens: 1017
+2026-01-19 09:19:45,027 - INFO - Prediction 62 took 16.645 seconds
+2026-01-19 09:19:45,028 - INFO - --- [Conversation 29792] START ---
+2026-01-19 09:19:45,028 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:45,033 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:19:59,794 - INFO - SUCCESS on attempt 1. Total tokens: 881
+2026-01-19 09:19:59,980 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:19:59,988 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:05,049 - INFO - SUCCESS on attempt 1. Total tokens: 1056
+2026-01-19 09:20:05,049 - INFO - Prediction 63 took 20.0216 seconds
+2026-01-19 09:20:05,049 - INFO - --- [Conversation 29850] START ---
+2026-01-19 09:20:05,049 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:05,055 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:12,141 - INFO - SUCCESS on attempt 1. Total tokens: 720
+2026-01-19 09:20:12,311 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:12,318 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:15,003 - INFO - SUCCESS on attempt 1. Total tokens: 855
+2026-01-19 09:20:15,003 - INFO - Prediction 64 took 9.9535 seconds
+2026-01-19 09:20:15,003 - INFO - --- [Conversation 29840] START ---
+2026-01-19 09:20:15,003 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:15,009 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:25,980 - INFO - SUCCESS on attempt 1. Total tokens: 805
+2026-01-19 09:20:26,160 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:26,167 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:28,885 - INFO - SUCCESS on attempt 1. Total tokens: 940
+2026-01-19 09:20:28,885 - INFO - Prediction 65 took 13.8817 seconds
+2026-01-19 09:20:28,885 - INFO - --- [Conversation 29807] START ---
+2026-01-19 09:20:28,885 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:28,890 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:38,394 - INFO - SUCCESS on attempt 1. Total tokens: 793
+2026-01-19 09:20:38,586 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:38,593 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:20:43,627 - INFO - SUCCESS on attempt 1. Total tokens: 968
+2026-01-19 09:20:43,627 - INFO - Prediction 66 took 14.7418 seconds
+2026-01-19 09:20:43,627 - INFO - --- [Conversation 29827] START ---
+2026-01-19 09:20:43,627 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:20:43,633 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:02,684 - INFO - SUCCESS on attempt 1. Total tokens: 974
+2026-01-19 09:21:02,874 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:02,883 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:08,004 - INFO - SUCCESS on attempt 1. Total tokens: 1149
+2026-01-19 09:21:08,004 - INFO - Prediction 67 took 24.3769 seconds
+2026-01-19 09:21:08,004 - INFO - --- [Conversation 29846] START ---
+2026-01-19 09:21:08,004 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:08,010 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:15,057 - INFO - SUCCESS on attempt 1. Total tokens: 721
+2026-01-19 09:21:15,230 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:15,237 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:17,956 - INFO - SUCCESS on attempt 1. Total tokens: 856
+2026-01-19 09:21:17,956 - INFO - Prediction 68 took 9.9514 seconds
+2026-01-19 09:21:17,956 - INFO - --- [Conversation 29909] START ---
+2026-01-19 09:21:17,956 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:17,962 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:25,540 - INFO - SUCCESS on attempt 1. Total tokens: 756
+2026-01-19 09:21:25,724 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:25,731 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:28,447 - INFO - SUCCESS on attempt 1. Total tokens: 891
+2026-01-19 09:21:28,447 - INFO - Prediction 69 took 10.4908 seconds
+2026-01-19 09:21:28,447 - INFO - --- [Conversation 27899] START ---
+2026-01-19 09:21:28,447 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:28,453 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:40,484 - INFO - SUCCESS on attempt 1. Total tokens: 876
+2026-01-19 09:21:40,678 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:40,685 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:43,731 - INFO - SUCCESS on attempt 1. Total tokens: 1011
+2026-01-19 09:21:43,731 - INFO - Prediction 70 took 15.284 seconds
+2026-01-19 09:21:43,731 - INFO - --- [Conversation 29810] START ---
+2026-01-19 09:21:43,731 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:43,737 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:51,024 - INFO - SUCCESS on attempt 1. Total tokens: 708
+2026-01-19 09:21:51,198 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:51,204 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:21:52,804 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-19 09:21:52,809 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-19 09:21:55,391 - INFO - SUCCESS on attempt 2. Total tokens: 1852
+2026-01-19 09:21:55,391 - INFO - Prediction 71 took 11.6597 seconds
+2026-01-19 09:21:55,391 - INFO - --- [Conversation 29884] START ---
+2026-01-19 09:21:55,391 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:21:55,398 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:14,667 - INFO - SUCCESS on attempt 1. Total tokens: 963
+2026-01-19 09:22:14,839 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:14,848 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:19,967 - INFO - SUCCESS on attempt 1. Total tokens: 1138
+2026-01-19 09:22:19,967 - INFO - Prediction 72 took 24.5758 seconds
+2026-01-19 09:22:19,967 - INFO - --- [Conversation 29849] START ---
+2026-01-19 09:22:19,967 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:19,973 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:30,595 - INFO - SUCCESS on attempt 1. Total tokens: 809
+2026-01-19 09:22:30,781 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:30,788 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:34,690 - INFO - SUCCESS on attempt 1. Total tokens: 964
+2026-01-19 09:22:34,691 - INFO - Prediction 73 took 14.7232 seconds
+2026-01-19 09:22:34,691 - INFO - --- [Conversation 29834] START ---
+2026-01-19 09:22:34,691 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:34,697 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:43,467 - INFO - SUCCESS on attempt 1. Total tokens: 757
+2026-01-19 09:22:43,659 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:43,666 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:46,370 - INFO - SUCCESS on attempt 1. Total tokens: 892
+2026-01-19 09:22:46,370 - INFO - Prediction 74 took 11.679 seconds
+2026-01-19 09:22:46,370 - INFO - --- [Conversation 29893] START ---
+2026-01-19 09:22:46,370 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:46,376 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:53,564 - INFO - SUCCESS on attempt 1. Total tokens: 753
+2026-01-19 09:22:53,737 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:53,744 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:22:56,445 - INFO - SUCCESS on attempt 1. Total tokens: 888
+2026-01-19 09:22:56,445 - INFO - Prediction 75 took 10.0749 seconds
+2026-01-19 09:22:56,446 - INFO - --- [Conversation 29920] START ---
+2026-01-19 09:22:56,446 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:22:56,452 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:23:03,659 - INFO - SUCCESS on attempt 1. Total tokens: 766
+2026-01-19 09:23:03,849 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:23:03,857 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:23:06,643 - INFO - SUCCESS on attempt 1. Total tokens: 901
+2026-01-19 09:23:06,643 - INFO - Prediction 76 took 10.1971 seconds
+2026-01-19 09:23:06,643 - INFO - --- [Conversation 29927] START ---
+2026-01-19 09:23:06,643 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:23:06,648 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:23:20,840 - INFO - SUCCESS on attempt 1. Total tokens: 811
+2026-01-19 09:23:21,009 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:23:21,016 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:23:26,057 - INFO - SUCCESS on attempt 1. Total tokens: 986
+2026-01-19 09:23:26,057 - INFO - Prediction 77 took 19.4138 seconds
+2026-01-19 09:23:26,057 - INFO - --- [Conversation 29915] START ---
+2026-01-19 09:23:26,057 - INFO - [DEBUG] current_task=AUE, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:23:26,063 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:23:34,343 - INFO - SUCCESS on attempt 1. Total tokens: 728
+2026-01-19 09:23:34,547 - INFO - [DEBUG] current_task=RTC, model_name=Qwen/Qwen2.5-14B-Instruct, model_family=generic_chat
+2026-01-19 09:23:34,554 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-19 09:23:37,235 - INFO - SUCCESS on attempt 1. Total tokens: 863
+2026-01-19 09:23:37,235 - INFO - Prediction 78 took 11.1784 seconds
+2026-01-19 09:23:37,241 - INFO - Output graphs saved to experiments/ms_qwen_rip_0_42_42_20260119_090118/ms_qwen_rip_0_42_42_20260119_090118.json
+2026-01-19 09:23:37,241 - INFO - FINAL RUN STATS: Prompt: 51589, Completion: 15432, Rels Prompt: 76794, Rels Completion: 3748,  Total (collective): 147563

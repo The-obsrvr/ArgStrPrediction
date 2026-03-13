@@ -1,0 +1,4714 @@
+{
+    "10385": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "Hillary is so fucked now"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "These guys are so much more competent than here"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "Paul or Rubio would have a good chance"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "Rubio is the only one that really worries me"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "They would eat clinton for breakfast"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "you have to hand to the republicans they are a confident bunch"
+            },
+            {
+                "reason": "States a condition",
+                "id": 7,
+                "text": "Without her screwing up"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "it\u2019s always way more fun when they are convinced they are a shoe in to win when they are totally fucked"
+            },
+            {
+                "reason": "Provides an example",
+                "id": 9,
+                "text": "See [previous elections as examples]"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "10388": null,
+    "10284": null,
+    "10303": null,
+    "10665": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Cheering for Hillary is fine, but admonishment for cheering for Trump"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "There was no admonishment when Hillary got cheers/laughs earlier"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Only been one cheer and that was from trump supporters"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "She dissed him earlier during the first part and got cheers and laughs"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "There was no comment about it."
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "It' s astonishment for making noise"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Don' t be sensitive"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "That wasn' t biased"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "It' s a great rule, but it wasn' t applied equally"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Now, to your credit, she just got a pop and Lester hasn' t admonished the crowd yet"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "Don' t know what your watching"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "10491": null,
+    "10661": null,
+    "10384": {
+        "argument_units": [
+            {
+                "reason": "Offers a justification",
+                "id": 1,
+                "text": "To be fair"
+            },
+            {
+                "reason": "States a principle",
+                "id": 2,
+                "text": "Regardless of your political leaning"
+            },
+            {
+                "reason": "States a principle",
+                "id": 3,
+                "text": "you should always be for unbiased coverage"
+            },
+            {
+                "reason": "States a justification",
+                "id": 4,
+                "text": "she has had more air time then over half the candidates have"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "There\u2019s no need to link to The Democrats\u2019 and Hillary Clinton\u2019s twitter during a REPUBLICAN debate"
+            },
+            {
+                "reason": "States a justification",
+                "id": 6,
+                "text": "Clinton\u2019s name has come up a lot"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "it\u2019s horrible how biased the coverage is"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 8,
+                "text": "How many times has Clinton\u2019s name been brought up since then?"
+            },
+            {
+                "reason": "States a counterargument",
+                "id": 9,
+                "text": "That has nothing to do with /progress18 posting another The Democrats twitter post"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "10419": null,
+    "10599": null,
+    "10556": null,
+    "10235": null,
+    "10057": {
+        "argument_units": [
+            {
+                "reason": "Criticism/Opinion",
+                "id": 1,
+                "text": " I am really sad to see all these \"Hillary is killing it\" comments when most of what she said has been fluff and targeted rhetoric"
+            },
+            {
+                "reason": "Hope/Expectation",
+                "id": 2,
+                "text": " I hope the next hour changes that"
+            },
+            {
+                "reason": "Explanation/Justification",
+                "id": 3,
+                "text": "People just want to be a part of history in getting the first woman elected president"
+            },
+            {
+                "reason": "Comparison/Contrast",
+                "id": 4,
+                "text": "Sanders has just been full of platitudes with no specifics"
+            },
+            {
+                "reason": "Comparison/Contrast",
+                "id": 5,
+                "text": "Hillary actually has specifics, names names, etc"
+            },
+            {
+                "reason": "Explanation/Justification",
+                "id": 6,
+                "text": "redundant for me to say but there are people here who don\u2019t know what rhetoric means"
+            },
+            {
+                "reason": "Criticism/Opinion",
+                "id": 7,
+                "text": "not this one that is trying to be the High School president by talking over others and barely saying anything other than empty promises"
+            },
+            {
+                "reason": "Observation/Statement",
+                "id": 8,
+                "text": "she\u2019staying above the noise, which is all she has to do with a3% lead in the polls"
+            },
+            {
+                "reason": "Dismissal/Rejection",
+                "id": 9,
+                "text": "Take off your hilldawg glasses "
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "10570": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "when Trump starts talking I can not follow what the hell he is saying"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "He just makes me confused"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "My philosophy is basically this"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "And this is something that I live by"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "No matter... where"
+            },
+            {
+                "reason": "Expresses amusement",
+                "id": 6,
+                "text": "hahahahahaha."
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "This is accurate"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "His words don'tretranslate to any coherent idea in my head"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Don'tever, for any reason, do anything to anyone, for any reason, ever, no matter what"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "10371": null,
+    "10413": null,
+    "10232": null,
+    "10306": null,
+    "10594": null,
+    "10229": null,
+    "10416": null,
+    "10313": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Trump just lost the Latino vote"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "no one up there is going to get the Latino vote"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 3,
+                "text": "Didn't he lose it already?"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "He had a Latino vote?"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "That happened a while ago"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "10055": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "she ends up ahead because of split votes on Bernie and Webb"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Sanders has some good points but his delivery is not solid"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Clinton has pretty good delivery"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Bernie might drop and endorse Webb or vice versa"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "some jump to Webb because he\u2019\u2019\ud835\udc2c killing it"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Webbis as far right as you can go as a democrat and Bernie is as far left as the party allows"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Jim Webb isn\u2019\ud835\udc2d killing it, at least not in any way that would impress Bernie supporters"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "10246": {
+        "argument_units": [
+            {
+                "reason": "States an observation",
+                "id": 1,
+                "text": "Webb is not being given the same time as Clinton or Sanders."
+            },
+            {
+                "reason": "States an observation",
+                "id": 2,
+                "text": "Not too different from how the Republican debates went, which was all Trump, Bush, and Fiorina"
+            },
+            {
+                "reason": "Expresses concern",
+                "id": 3,
+                "text": "Does he deserve it after suggesting that we go to war with China over cyber crimes?"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Sorry, hate me all you want."
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "just want to see some equal time rather than this format."
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "The major media outlets should not be the ones dictating who wins the primaries."
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "all these campaigns agreed to the format"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "this is horseshit that Webb and the others aren\u2019 aren\u2019 given the same time."
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "but he\u2019s too far to the left"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "10227": null,
+    "10415": null,
+    "9848": null,
+    "10417": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the left ignores when Rubio, and others like him, talk about obamacare"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "The last two words are often left out"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Conservatives don't think there should be no public healthcare"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "they think it should be efficient, and basic"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "It shouldn't be a life support, it should be a stepping stone to getting better healthcare"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "none of those dickweeds actually come up with any ideas"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Conservatives also never have a good answer for what that 'replace' is"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "the republicans haven't been in a place of power for negotiating"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Consistently, he talks about \"repeal and replace\""
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "would be absolutely fine with hearing that argument if we ever get concrete ideas about what \"replacing\" would look like"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "10564": null,
+    "10614": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Trump is doing great"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "He answered how he will create jobs, raising import tax"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 3,
+                "text": "thus pushing manufacturers to use US plants instead because it is cheaper"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "He is also a stronger debater than Hilary"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Hilary is robotic and letting Trump own the conversation"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "If you raise import tax, making it more expensive to manufacturer out of the states than in the states, what do you think will happen?"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "That's what he said"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Plus he's funny"
+            },
+            {
+                "reason": "Predicts a consequence",
+                "id": 9,
+                "text": "A trade war"
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 10,
+                "text": "Lol."
+            },
+            {
+                "reason": "Challenges a claim",
+                "id": 11,
+                "text": "No, he didn'T"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "10231": null,
+    "10390": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "No ones debating anything"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "these aren\u2019t debates"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "they\u2019re simultaneous press conferences"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "they all agree on 90 percent of the issues"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "this isn\u2019t a debate"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "it\u2019s a culling of the herd"
+            },
+            {
+                "reason": "Expresses agreement",
+                "id": 7,
+                "text": "man so much this "
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "10391": {
+        "argument_units": [
+            {
+                "reason": "Expresses an opinion",
+                "id": 1,
+                "text": "Memories of his dad..."
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 2,
+                "text": "He has been an ass once or twice"
+            },
+            {
+                "reason": "States an observation",
+                "id": 3,
+                "text": "Yeah he destroyed Trump and Christie"
+            },
+            {
+                "reason": "States an observation",
+                "id": 4,
+                "text": "Trump shut him down pretty quickly"
+            },
+            {
+                "reason": "States an observation",
+                "id": 5,
+                "text": "Were you not watching the beginning of the debate?"
+            },
+            {
+                "reason": "States an observation",
+                "id": 6,
+                "text": "They\u2019ve only asked Rand one question so far...everyone else has at least \uff13."
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 7,
+                "text": "Because he knew he wouldn\u2019\uff54 get any questions"
+            },
+            {
+                "reason": "States an observation",
+                "id": 8,
+                "text": "Paul didn\u2019\uff54 listen"
+            },
+            {
+                "reason": "States an observation",
+                "id": 9,
+                "text": "Trump withdrew from Rand\u2019s attack"
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 10,
+                "text": "The second attack on Trump wasn\u2019\uff54 the best"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 3,
+                "type": "attack"
+            }
+        ]
+    },
+    "10508": null,
+    "10593": null,
+    "10274": null,
+    "10590": null,
+    "10496": null,
+    "9679": null,
+    "9846": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "If it means we are firing at russian planes"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Until we shoot down a mig and ww3 happens"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "So shooting down a Russian jet seems like it could be an escalation"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "otherwise they have no reason to be against the no fly zone"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "I just think that US shooting down a Russian Jet over a country that is not the US would be a big gamble"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "It could easily turn ugly"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "It is when the Russians decide to just ignore it"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "It doesn\"t look good for Russia to fight back and escalate against a no fly zone though"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "The way I understand a \"no fly zone\" is that its not dangerous at all if we don\"t enforce it"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "They would have to come outright and say that they\"re supporting Assad"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "It\"\u2019re going to side with NATO against Russia"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "If we actually enforce it, then it means shooting down things that fly in the \"no fly zone\""
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "10510": null,
+    "10272": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Lincoln Chafee just isn't presidential material"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "he's just not figurehead material"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "If elections weren't just popularity contests he'd probably do just fine"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "he does have good positions"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "he is very charasmatic"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "he is very charasmatic, but i see what you're saying."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "10250": null,
+    "10406": null,
+    "10574": null,
+    "10512": null,
+    "10566": null,
+    "10517": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "This is amazing!"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "The robot is well tuned"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "Hillary starts losing it"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "He\u2019trying to bully her"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "Hillary\u2019too prepped for that shit"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "He\u2019coming across abrasive and angry"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "Yelled out stiff arm!"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "She\u2019cracking from my view"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "He\u2019sa buffoon though he won\u2019t close it out."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "10243": null,
+    "10062": null,
+    "10575": null,
+    "10051": {
+        "argument_units": [
+            {
+                "reason": "Expresses an opinion",
+                "id": 1,
+                "text": "Webb just went on a random tangent, what the fuck is he supposed to say to that?"
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 2,
+                "text": "That's a good point."
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 3,
+                "text": "Even when Webb's answer to Putin ended up in the south china sea, it made Bernie look bad."
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 4,
+                "text": "Haha Bernie went back to addressing the point before Webb."
+            },
+            {
+                "reason": "Asks a question",
+                "id": 5,
+                "text": "Respond to that Bernie?"
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 6,
+                "text": "Yeah, but it made Bernie appear to be the old guy who can'\u0442 keep up."
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 7,
+                "text": "neutralID: I personally believe that U..S.. Americans are unable to do so because, uh, some, uh, people out there in our nation don'\u0442 have maps and, uh, I believe that our education like such as in South Africa and, uh, the Iraq, everywhere like such as, and, I believe that they should, our education over here in the U..S.. should help the U..S.. or, uh, should help South Africa and should help the Iraq and the Asian countries, so we will be able to build up our future for our children."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "10314": null,
+    "10373": null,
+    "10323": null,
+    "10663": null,
+    "10659": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "Is he bragging about getting audited every year?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "Don't they tend to audit people both randomly and when there are problems?"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 3,
+                "text": "can't expect there to be random audits ever year so there must be a problem each year right?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "if you have really complicated taxes you would be a lot more susceptible to audits than the average person."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "He just said he doesnt pay anything... \"because I am smart\""
+            },
+            {
+                "reason": "States a reason",
+                "id": 6,
+                "text": "People who make a lot or write off a lot of losses tend to get audited."
+            },
+            {
+                "reason": "States a reason",
+                "id": 7,
+                "text": "The IRS doesn't have the manpower for random audits."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "thought he was trying to make it out that he was being targeted."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "That'' s ridiculous."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 10,
+                "text": "bingos"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 11,
+                "text": "Trump' s ego fell right into Clinton' s trap."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "10322": null,
+    "10500": null,
+    "9841": null,
+    "10378": null,
+    "10591": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "The Russian's strategic bomber is as old as ours"
+            },
+            {
+                "reason": "Expresses disbelief",
+                "id": 2,
+                "text": "shockinglyshocked most people don't know that Meatpuppy Bomber race!!!"
+            },
+            {
+                "reason": "Expresses gratitude",
+                "id": 3,
+                "text": "Thank you for this tidbit"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Airframes have a limited lifespan"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Avionics need to be updated"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "including $110M in"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "and $750M in"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "long enough that its replacement will be ready."
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Basically, the aircraft will be mission -ready for at least another"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Avionics sustainment is ongoing"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "by which point the B -21 will be operational"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "We keep sufficient aircraft in reserve to support B -52 H operations past"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "The B -52 H airframe has a ~35,000 flight hour service life"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "TU -95 was being manufactured until"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "TIL that the Russian's have a propeller bomber named the TU -95 that came out the same year as the B -52"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 10,
+                "target_id": 13,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 13,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 15,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 15,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "10588": null,
+    "10584": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "She is such a typical politician. Talks down"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "avoids issues by pumping lies"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "Trump is just... lol"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "Typical politician is better than Trump"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "Given the email scandal among other things... do you think if the republicans had a more stable candidate they could have done better?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "they are pretty similar"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "It seemed that trump was carrying a lot of momentum earlier this year due to his own... charisma?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "But now he seems to be dragging them down."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "Someone like mcCcain"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 10,
+                "text": "As a non republican I don'\u0442 know"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "10252": null,
+    "9847": {
+        "argument_units": [
+            {
+                "reason": "Agrees with a prior statement",
+                "id": 1,
+                "text": "surere seems like it"
+            },
+            {
+                "reason": "Contradicts a prior statement",
+                "id": 2,
+                "text": "The camera focuses on smiling faces for Clinton, but the applause sounds louder to me for Sanders"
+            },
+            {
+                "reason": "States an observation",
+                "id": 3,
+                "text": "As is is the country..."
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "she IS the front runner"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Outside of reddit, democrats really like Clinton"
+            },
+            {
+                "reason": "Qualifies a prior statement",
+                "id": 6,
+                "text": "maybe not very, but favorable"
+            },
+            {
+                "reason": "States an observation",
+                "id": 7,
+                "text": "Is it just me or is the crowd very proClinton?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 0,
+                "type": "attack"
+            },
+            {
+                "source_id": 2,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 0,
+                "type": "support"
+            }
+        ]
+    },
+    "10557": null,
+    "10498": null,
+    "9706": null,
+    "10337": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "RAND PAUL JUST EYEROLLED"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "CHRISTIE IS USING IT FOR POLITICAL GAIN"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the words \"9/11 card\" would come out of my mouth"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Christie"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 5,
+                "text": "what do you mean \"eyerolled\"?"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "That fat shit who uses the deaths on [9/11 for leverage on a debate"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "The GOP seems to be the snake eating it\u2019sw own tail in this debate"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Cruz pulling the eyebrow game with his rhetoric"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "it\u2019 s pretty ridiculous that politicians are still using it for justification"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Christie is the answer."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "attack"
+            },
+            {
+                "source_id": 9,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "10660": null,
+    "10033": {
+        "argument_units": [
+            {
+                "reason": "Opinion",
+                "id": 1,
+                "text": "Bernie spaced the fuck out there."
+            },
+            {
+                "reason": "Opinion",
+                "id": 2,
+                "text": "Gettin old lurklurklurky"
+            },
+            {
+                "reason": "Opinion",
+                "id": 3,
+                "text": "We all did, let's be real"
+            },
+            {
+                "reason": "Opinion",
+                "id": 4,
+                "text": "Webb makes me sleepy"
+            },
+            {
+                "reason": "Question",
+                "id": 5,
+                "text": "Is he not powerful enough for you?"
+            },
+            {
+                "reason": "Question",
+                "id": 6,
+                "text": "How about Chaffee?"
+            },
+            {
+                "reason": "Opinion",
+                "id": 7,
+                "text": "and it sure came back to bite him"
+            },
+            {
+                "reason": "Opinion",
+                "id": 8,
+                "text": "That was a rough moment"
+            },
+            {
+                "reason": "Question",
+                "id": 9,
+                "text": "Was anyone paying attention when Webb was talking?"
+            },
+            {
+                "reason": "Opinion",
+                "id": 10,
+                "text": "There was no reason for him to be called there, I have no idea why he was called on.."
+            },
+            {
+                "reason": "Opinion",
+                "id": 11,
+                "text": "It was completely out of the blue"
+            },
+            {
+                "reason": "Opinion",
+                "id": 12,
+                "text": "Anderson was trying to get the discussion back on topic and Sanders had to remember what that was"
+            },
+            {
+                "reason": "Opinion",
+                "id": 13,
+                "text": "Because they wanted to make debate and get people angry"
+            },
+            {
+                "reason": "Opinion",
+                "id": 14,
+                "text": "Because he's onstage promoting himself as a candidate for the highest office in the country?"
+            },
+            {
+                "reason": "Opinion",
+                "id": 15,
+                "text": "Seriously"
+            },
+            {
+                "reason": "Opinion",
+                "id": 16,
+                "text": "He should have been focusing on what was going on literally right in front of him"
+            },
+            {
+                "reason": "Opinion",
+                "id": 17,
+                "text": "He's just saying what he actually thinks, thinking on his feet"
+            },
+            {
+                "reason": "Opinion",
+                "id": 18,
+                "text": "He needs to stop spending so much time in legal weed states"
+            },
+            {
+                "reason": "Opinion",
+                "id": 19,
+                "text": "It was a super vague question from Andy"
+            },
+            {
+                "reason": "Opinion",
+                "id": 20,
+                "text": "That was great"
+            },
+            {
+                "reason": "Opinion",
+                "id": 21,
+                "text": "Yeah, he wasn's paying any attention to Webb (who can blame him)"
+            },
+            {
+                "reason": "Opinion",
+                "id": 22,
+                "text": "he was just ' why would I have something to say in return?'"
+            },
+            {
+                "reason": "Opinion",
+                "id": 23,
+                "text": "Anderson probably noticed he wasn'\" paying attention and tried to call him on it"
+            },
+            {
+                "reason": "Opinion",
+                "id": 24,
+                "text": "It has always been clear that he doesn'\" rehearse canned answers"
+            },
+            {
+                "reason": "Opinion",
+                "id": 25,
+                "text": "he doesn'\" have a scripted response to certain questions"
+            },
+            {
+                "reason": "Opinion",
+                "id": 26,
+                "text": "That doesn'\" look as polished, but it's genuine"
+            },
+            {
+                "reason": "Opinion",
+                "id": 27,
+                "text": "Sorry, I was to busy checking out berniesanderscom to listen to my good friend Jim Webb"
+            },
+            {
+                "reason": "Opinion",
+                "id": 28,
+                "text": "honestly didn'\" know if he was supposed to follow up on Webbs China sea bit, or go back to Hillarys which is what he was going to."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 16,
+                "target_id": 15,
+                "type": "support"
+            },
+            {
+                "source_id": 17,
+                "target_id": 16,
+                "type": "support"
+            },
+            {
+                "source_id": 17,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 17,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 19,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 19,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 17,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "10667": null,
+    "10311": null,
+    "10495": null,
+    "10365": null,
+    "10634": null,
+    "10502": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "first we have to stop them from leaving NO SHIT THE QUESTION IS HOW YOU PLAN TO DO THAT"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Introduce a more equal import tax"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "which would dissuade companies from leaving"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "I really wish they would just give a straight answer"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "no"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "the question was how do you get them back"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "He answered the question"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "By putting tax on Chinese imports businesses will start using US manufacturing because it will cost less"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 9,
+                "text": "Import tax will make manufacturing in China more expensive"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "9844": null,
+    "10499": null,
+    "10596": null,
+    "9678": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "Sanders is a broken record"
+            },
+            {
+                "reason": "Counters a prior claim",
+                "id": 2,
+                "text": "Every candidate is if you listen to them everyday"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "All of them are"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "they all just regurgitated the same positions in different words"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "Though Sanders was a little different with the incarceration rate"
+            },
+            {
+                "reason": "Counters a prior claim",
+                "id": 6,
+                "text": "He has general outlines"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "such as what he has been preaching ever since he was a senator"
+            },
+            {
+                "reason": "Challenges a prior claim",
+                "id": 8,
+                "text": "Can you give me a specific outlined plan by any other candidate?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "Thought not."
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Today is about exposing your message to the people who don\u2019t follow the news everyday"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "This is for all the people who don\u2019t know them though"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 12,
+                "text": "That\u2019 s what happens when people don\u2019t change their minds"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 13,
+                "text": "He\u2019 s just reiterating what a lot of Americans aren\u2019t getting or choosing to ignore"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 14,
+                "text": "No I think hes saying the same thing over and over agin because it sounds nice...despite having no feasible plan to fix it that wouldn\u2019t bust up the economy"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 13,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "10013": null,
+    "10503": null,
+    "10405": null,
+    "9842": null,
+    "10061": null,
+    "10281": null,
+    "10309": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "I love Donald Trump"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "he has no filter"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "I still think he is a secret democrat doing this because he has the influence"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "We need more debates with people who just say shit with no filter"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Like a politically active comedian or something"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Like Joe Rogan or John Stewart"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Just to say shit that people have to respond to"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Joe Rogan vs John Stewart"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "The ultimate alpha vs the ultimate wit"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Jon Stewart and Jon Oliver as debate moderators"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "Oliver would be better at being a dick"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "It was a circus overall"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "he would be doing more harm to the democrats if he was"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "he not only wants to prove he can do anything, but that he can be a president talked about for centuries"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "He knows the value of an ally and how to create financial success"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "He also has no reason to cater to businesses"
+            },
+            {
+                "reason": "States a position",
+                "id": 17,
+                "text": "Trump gets the Republican nod, Hillary gets the Democratic, Trump grabs Bernie Sanders as his running mate"
+            },
+            {
+                "reason": "States a position",
+                "id": 18,
+                "text": "Bernie picking Rand as his VP to sway libertarians and grassroot conservatives"
+            },
+            {
+                "reason": "States a position",
+                "id": 19,
+                "text": "Trump picking up Bernie to go against Hillary could be an unholy alliance"
+            },
+            {
+                "reason": "States a position",
+                "id": 20,
+                "text": "If Bernie picks rand, I may end up voting for Trump"
+            },
+            {
+                "reason": "States a position",
+                "id": 21,
+                "text": "That would be a Sarah Palin level of a pick"
+            },
+            {
+                "reason": "States a position",
+                "id": 22,
+                "text": "Libertarians and Social Democrats do work together"
+            },
+            {
+                "reason": "States a position",
+                "id": 23,
+                "text": "Democrats have a lot of sekirt muslins too"
+            },
+            {
+                "reason": "States a position",
+                "id": 24,
+                "text": "Trump got a call from Bill Clinton wishing him luck for his debate."
+            },
+            {
+                "reason": "States a position",
+                "id": 25,
+                "text": "just have them on stage during GOP/ DNC debate, or put them in charge of asking the questions"
+            },
+            {
+                "reason": "States a position",
+                "id": 26,
+                "text": "I don\u2019 t imagine many would be eager to go"
+            },
+            {
+                "reason": "States a position",
+                "id": 27,
+                "text": "I did like that the Fox mods weren\u2019 t lobbing softballs all night"
+            },
+            {
+                "reason": "States a position",
+                "id": 28,
+                "text": "I\u2019 m pretty sure he\u2019s a Democrat and just trying to prove he can be elected president"
+            },
+            {
+                "reason": "States a position",
+                "id": 29,
+                "text": "The guy is a spineless billionaire, he\u2019ll do absolutely anything"
+            },
+            {
+                "reason": "States a position",
+                "id": 30,
+                "text": "A guy like that doesn\u2019 t just flip on abortion, guns and Healthcare"
+            },
+            {
+                "reason": "States a position",
+                "id": 31,
+                "text": "We\u2019re going back to the days of real Republicans"
+            },
+            {
+                "reason": "States a position",
+                "id": 32,
+                "text": "the government\u2019s job should only exist to serve its people"
+            },
+            {
+                "reason": "States a position",
+                "id": 33,
+                "text": "It\u2019s all part of his new reality TV show, GOPunked"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 14,
+                "target_id": 13,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 17,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 17,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 17,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 21,
+                "target_id": 22,
+                "type": "support"
+            },
+            {
+                "source_id": 22,
+                "target_id": 21,
+                "type": "support"
+            }
+        ]
+    },
+    "10587": null,
+    "10568": null,
+    "10283": {
+        "argument_units": [
+            {
+                "reason": "Corrective statement",
+                "id": 1,
+                "text": "This fact is incorrect. Trump is the only Billionaire."
+            },
+            {
+                "reason": "Contradicts a prior claim",
+                "id": 2,
+                "text": "They aren't though"
+            },
+            {
+                "reason": "Contradicts a prior claim",
+                "id": 3,
+                "text": "They aren't."
+            },
+            {
+                "reason": "Acknowledges error",
+                "id": 4,
+                "text": "Fair"
+            },
+            {
+                "reason": "Self-deprecating statement",
+                "id": 5,
+                "text": "probably shouldn't have jumped to conclusions. Typical American over here."
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Millionaire"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "It'\u2019're quite scary to imagine that everyone on that stage but Bernie is a Billionaire."
+            },
+            {
+                "reason": "Provides evidence",
+                "id": 8,
+                "text": "http://www.usatoday.com/story/news/politics/2016/08/26/24-hour-wall-st-net-worth-presidential-candidates/11211441/"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Only one billionaire running (trump)"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "9810": null,
+    "10481": null,
+    "10066": null,
+    "10418": null,
+    "9812": null,
+    "10597": null,
+    "10319": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "it will be glorious"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "his campaign is such a sideshow but I like it because its the most real"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "Thats what scares me"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "But Trump just likes money"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "But Trump just likes money"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "Right?.."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "You don\u2019\u062a have to agree with what he\u2019S saying at all, but I do appreciate that he\u2019S being blunt about it"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "it, it\u2019S kind of refreshing to peel off the veneer of spin that most politicians are trying to put out"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "and he doesn\u2019\u062a need anyone else\u2019S money"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "10595": null,
+    "10581": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "I browse reddit whenever hillary talks because she is so boring"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Government should be boring"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Policy details are pretty interesting actually"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Not a reason to vote for Trump though"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 5,
+                "text": "Do you want a comedian for president"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "or someone who takes their stuff seriously?"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "This isn\u2019 t a reality TV contest"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "10407": null,
+    "10396": null,
+    "10567": null,
+    "10270": null,
+    "10573": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "Can anyone explain why Trump's idea to \"take the oil\" from Iraq would have been anything other than plunder, which is a war crime?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "Nope."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "Trump does not care about your puny accords and conventions, all shall bow to trump"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "Because stealing \"all the Oil\" and putting it \"somewhere else\" is more of a Carmen Sandiego type crime."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "He also wants to return to torture, also a war crime."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "It would absolutely have been a war crimes and I can't believe she isn't pressing that fact home."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "I mean, he also mentioned bringing back waterboarding and \"worse than waterboarding\" in a primary debate at some point, so I don't think he cares too much about war crimes."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "Stealing natural resources is indeed a war crime."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "What he's proposing is LITERALLY stealing the oil."
+            },
+            {
+                "reason": "Presents a dilemma",
+                "id": 10,
+                "text": "It basically comes down to is it less harmful to facilitate a terror group, or is it less harmful to damage a countries economy by taking it's largest import."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 11,
+                "text": "I' m surprised that level of blatant  \uff11\uff19\uff0dcentury style imperialism isn't getting more scrutiny."
+            },
+            {
+                "reason": "Presents a dilemma",
+                "id": 12,
+                "text": "If you don't take the oil, a terror division (ISIS\uff09can take control of it in the absence of a solid government in order to fund their operations. If you take the oil, you fuck over the country's economy."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 13,
+                "text": "WRONG. (that's how this works, right\uff1f I just yell wrong over whatever facts you state\uff1f)"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "10583": null,
+    "10561": {
+        "argument_units": [
+            {
+                "reason": "Poses a question/speculates",
+                "id": 1,
+                "text": "Can Trump say 3 sentences without gasping for air?"
+            },
+            {
+                "reason": "Speculates",
+                "id": 2,
+                "text": "COPD sufferer?"
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 3,
+                "text": "he looks very unhealthy"
+            },
+            {
+                "reason": "Expresses an opinion",
+                "id": 4,
+                "text": "That's not a stutter that's a gasp"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "has nothing to do with intelligence"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "which is what this should be about"
+            },
+            {
+                "reason": "Speculates",
+                "id": 7,
+                "text": "Let's just wait for Hillary to have a seizure or whatever the fucks been happening"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "10304": null,
+    "10386": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Everybody up here loves hating teachers..."
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "the more people learn"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the more they realize how batshit insane a lot of these candidates are"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "How so?"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Mostly because they all hate unions"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "teachers like to ask for more than minimum wage for to do their absolutely essential job"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 7,
+                "text": "does a significant percentage of teachers in this nation really only earn min. wage?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "10411": null,
+    "10254": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "what info that Snowden stole fell into what wrong hands?"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "The american people are the wrong people to her"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the evidence of aiding adversaries would be classified"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Actually the New York Times released some documents released by Snowden that were supposed to be redacted by the Times before publishing the papers"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "However those papers were not properly redacted and people were simply able to delete the redactions"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "These papers delay with operations against Al-Qaeda"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Al-Qaeda was able to look at these papers and operations that were supposed to be redacted"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Seems more like the NYT should be held responsible for that?"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Both should be held responsible"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "he gave illegally acquired papers that he stole, to the Times in the hopes that they would responsible with it"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "They failed in that and a terrorist group was able to use the exposed information to alter their plans"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "That by itself makes Snowden guilty under the \uf644\uf64c\uf644\uf64a Espionage Act"
+            },
+            {
+                "reason": "States an analogy",
+                "id": 13,
+                "text": "when you give an illegally (as in you stole it ) acquired firearm to a friend to use responsibly, then that person accidentally shoots someone, who should be blamed"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "It'\u2019\ud835\ude00 cut and dry."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 14,
+                "type": "support"
+            }
+        ]
+    },
+    "10540": {
+        "argument_units": [
+            {
+                "reason": "States an observation",
+                "id": 1,
+                "text": "Trump is hammering her right now"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "He would make a horrible president"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Just making an observation"
+            },
+            {
+                "reason": "Acknowledges and agrees",
+                "id": 4,
+                "text": "Very sorry for going shitposting, I understand your position on both candidates being poor"
+            },
+            {
+                "reason": "States an observation",
+                "id": 5,
+                "text": "All he has said he is going to do is lower taxes and deregulate businesses"
+            },
+            {
+                "reason": "States an observation",
+                "id": 6,
+                "text": "Throw in some shouting and name calling."
+            },
+            {
+                "reason": "Expresses disagreement",
+                "id": 7,
+                "text": "Don\u2019t be a simpleton"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "I\u2019 m not a trump supporter. I hate him"
+            },
+            {
+                "reason": "Apologizes and explains state",
+                "id": 9,
+                "text": "Yeah I\u2019 m probably going nuts, I\u2019 m really drunk righ now"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "But i don\u2019t suck Hillary\u2019 s cock either"
+            },
+            {
+                "reason": "Expresses agreement and camaraderie",
+                "id": 11,
+                "text": "It\u2019 s all good man. We\u2019re all in this together"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "I don\u2019t think she\u2019ll be much better"
+            },
+            {
+                "reason": "Expresses hope",
+                "id": 13,
+                "text": "Cheers! Here\u2019 s to surviving to 2020"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "attack"
+            },
+            {
+                "source_id": 9,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "10335": null,
+    "10277": {
+        "argument_units": [
+            {
+                "reason": "States an observation",
+                "id": 1,
+                "text": "she receives massive applause"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "GG merit out the window boys praise be our woman overlords"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "Embarrassing moment"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "Reminded me of the behavior of Republican crowds we like to ridicule so much here"
+            },
+            {
+                "reason": "States an observation",
+                "id": 5,
+                "text": "lmao"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "Seriously!"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "She says she doesn't want to be recognized as just another Clinton"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "but apparently her being a woman is something we should all take note of"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "What a crock of shit"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 10,
+                "text": "To be fair"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 11,
+                "text": "woooohoooo for the feminist party as a subset of the democratic party!"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 12,
+                "text": "I'm a woman = that'' s all I need to be better"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 13,
+                "text": "I swear to fuck her whole argument this debate has been \"Me...\""
+            },
+            {
+                "reason": "States an observation",
+                "id": 14,
+                "text": "Well it'' s kinda true"
+            },
+            {
+                "reason": "States an observation",
+                "id": 15,
+                "text": "\"Im sorry Mr. Chafee...\""
+            },
+            {
+                "reason": "States an opinion",
+                "id": 16,
+                "text": "it' s basically the biggest difference they have "
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 13,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 13,
+                "type": "support"
+            },
+            {
+                "source_id": 16,
+                "target_id": 13,
+                "type": "support"
+            }
+        ]
+    },
+    "10621": null,
+    "10558": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the best and brightest conservative republican in America"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "she took his nuts away and crushed them"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Not too bad, as his poll numbers indicate"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Nice lecture on sexism, you just called someone a whore not one comment ago"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "whore is gender neutral"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "The fact you thought the word must have been referring to being a woman shows how awful you are"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Probably both."
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "I\u2019m seeing how he does against the Saudi"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Let\u2019 s see how he does against the corporate lackey and whore of the Saudi petroleum dictatorship"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "If it wasn\u2019t obvious that is not the definition I was using, then you\u2019re sexist or stupid"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "Your sexism seems to indicate you\u2019re more of the regressive type"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "It wasn\u2019t a lecture on sexism, it was an observation of fact"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 6,
+                "type": "attack"
+            },
+            {
+                "source_id": 11,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "10578": null,
+    "10506": null,
+    "10576": null,
+    "9675": {
+        "argument_units": [
+            {
+                "reason": "Disagrees with a prior claim",
+                "id": 1,
+                "text": " Ehhh not so much"
+            },
+            {
+                "reason": "Expresses sarcasm",
+                "id": 2,
+                "text": "such victims"
+            },
+            {
+                "reason": "States an observation",
+                "id": 3,
+                "text": "They\u2019re treating the Democrats so much worse than the Republicans"
+            },
+            {
+                "reason": "Offers an explanation",
+                "id": 4,
+                "text": "Harder questions, but I think that\u2019\uff53 because the Democratic candidates are real candidates, not just showboaters who have no idea what they\u2019re doing"
+            },
+            {
+                "reason": "States an observation",
+                "id": 5,
+                "text": "They\u2019re just not having a he said she said"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "or the democrats so far have just been spewing shit"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "honestly we started with clinton so it wasn\u2019t going to get off to a good start however you slice it"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "10056": null,
+    "10565": null,
+    "10324": null,
+    "10063": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the committee to figure out what happens only goal was to hurt hillary which ironically knowing that makes her stronger"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "she lied about the attack for a long period of time and withheld information from the Senate"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the main attack is she must hate our troops for lying about it because they could of buffed security"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "the ambassador turned out to be a guy in the eve corporation on reddit"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Terror attack on embassy in middle east hillary was secretary of state possibly knew about it then lied and said it wasn\u2019t terror then lied to say it is now no one knows"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "if she did lie what reasons are people giving to show that she benefited from lying?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "10247": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "I like Hilary's \"fuck the republicans\" stance"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "i dont care"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "We want to keep hearing about how much they suck"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "Do you think that arguing \"the other side is bad\" is actually helpful for our political system?"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "I think it's helpful to reiterate that even if we differ on whether we support Sanders, Clinton, or 'other' that they're all more cohesive and reasonable than the other side"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Evidenced by this debate being mostly about policy"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "absolutely brilliant move to disregard the email scandal by Sanders"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "10255": null,
+    "10387": null,
+    "10042": null,
+    "10238": null,
+    "10334": null,
+    "10421": null,
+    "10585": null,
+    "10058": null,
+    "10579": null,
+    "10316": null,
+    "9897": null,
+    "10598": null,
+    "10548": null,
+    "10400": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Like 50 years ago you probably could"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Today, probably not likely"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "BRING BACK CHILD LABOR ya pansies!"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Teaches them a lot honestly"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Child labor laws are ruining this country"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "Can you even get a job at 4?"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Federal Law is 4 For some sectors it\u2019s lower"
+            },
+            {
+                "reason": "Provides personal experience",
+                "id": 8,
+                "text": "Yes my sister in law is 4 and just got her first job at McDonalds"
+            },
+            {
+                "reason": "Provides evidence",
+                "id": 9,
+                "text": "http://www,dol,gov/dol/topic/youthlabor/agerequirements,htm"
+            },
+            {
+                "reason": "Provides personal experience",
+                "id": 10,
+                "text": "made $5 an hour driving a tractor at age 4 in South Dakota"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "10559": null,
+    "9801": null,
+    "10064": null,
+    "10230": null,
+    "10363": null,
+    "10592": null,
+    "10501": {
+        "argument_units": [
+            {
+                "reason": "States an opinion",
+                "id": 1,
+                "text": "This is the best thing ever."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "No policies, just buzzwords."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "How are Americans not offended by this?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "This man is not prepared"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 5,
+                "text": "keeps repeating the same thing over and over again with no relation to the questions asked"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 6,
+                "text": "uses buzzwords giving answers with no actual substance"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 7,
+                "text": "has lied"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 8,
+                "text": "I\u2019\u043c divided between finding this hilarious and finishing this whole bottle of wine"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 9,
+                "text": "avoids the actual questions like they\u2019ll physically hurt him"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 10,
+                "text": "I lied, it\u2019\u0455 already half empty."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 11,
+                "text": "I think Trump\u2019\u0455 policy is to go back in time."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -4,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -7,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -8,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            }
+        ]
+    },
+    "9840": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Anyone who thinks Hilary is a better candidate is an idiot"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Hilary is doing well though"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "The fact that all you morons lap it up only compounds on it"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "He substantiates everything?"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "He is the only one who will speak truthfully"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Political double talk sounds nice but is nothing but BS"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "yet someone who gives no BS gets told they better start sounding like a politician"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "We don\u2019 t like him because he\u2019s a shitty candidate who can\u2019 t substantiate any of the bullshit he spouts"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "yet everyone says he doesn\u2019 t speak eloquently"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -4,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -6,
+                "target_id": -7,
+                "type": "support"
+            },
+            {
+                "source_id": -7,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -7,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -7,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -7,
+                "type": "support"
+            }
+        ]
+    },
+    "10317": {
+        "argument_units": [
+            {
+                "reason": "States an observation",
+                "id": 1,
+                "text": "Holy shit, Fox News is out for Trump's blood."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 2,
+                "text": "Yep, I hate the guy but it's clear this whole thing is about picking winners and losers."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 3,
+                "text": "They want him gone."
+            },
+            {
+                "reason": "States an opinion",
+                "id": 4,
+                "text": "no one can accuse fox news of playing soft ball, thats for sure"
+            },
+            {
+                "reason": "States an expectation",
+                "id": 5,
+                "text": " I dont think hillary is going to get the same treatment in the dem debates"
+            },
+            {
+                "reason": "States a belief",
+                "id": 6,
+                "text": "shes the queen"
+            },
+            {
+                "reason": "States a hope",
+                "id": 7,
+                "text": " I really hope they pull no punches"
+            },
+            {
+                "reason": "States a belief",
+                "id": 8,
+                "text": "the only way Bernie has a chance is if the Democrats give him a chance."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "10410": null,
+    "10607": {
+        "argument_units": [
+            {
+                "reason": "States an observation",
+                "id": 1,
+                "text": "he won't even let the moderator say anything"
+            },
+            {
+                "reason": "Provides a counterargument",
+                "id": 2,
+                "text": "To be fair"
+            },
+            {
+                "reason": "States a comparison",
+                "id": 3,
+                "text": "Hillary did the same thing"
+            },
+            {
+                "reason": "States a comparison",
+                "id": 4,
+                "text": "she did the exact same thing"
+            },
+            {
+                "reason": "Contradicts a prior claim",
+                "id": 5,
+                "text": "Not really to the same degree"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Trump isn't letting her finish a sentence"
+            },
+            {
+                "reason": "Proposes a solution",
+                "id": 7,
+                "text": "He needs to just be disqualified now"
+            },
+            {
+                "reason": "Expresses an emotion",
+                "id": 8,
+                "text": "This is embarrassing"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 9,
+                "text": "Why aren't they muting mics at this point?"
+            },
+            {
+                "reason": "States an opinion",
+                "id": 10,
+                "text": "Lester be quiet.... LOL"
+            },
+            {
+                "reason": "States a speculation",
+                "id": 11,
+                "text": "She may not have even heard Lester over Trump'screaming"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "10402": null
+}

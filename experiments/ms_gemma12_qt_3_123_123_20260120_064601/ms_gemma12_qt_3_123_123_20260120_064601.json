@@ -1,0 +1,4060 @@
+{
+    "23695": null,
+    "19767": null,
+    "18977": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the -- I would say upswing in general care and etiquette that we have now"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 2,
+                "text": "understanding that we're in a pandemic"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 3,
+                "text": "Understanding that people have been endangered"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "person to person has been a bit more sensitivity and attentiveness in how we check on each other and protect each other"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 5,
+                "text": "If I look at the programme of getting food parcels to our most vulnerable as part of brought an am in of departments together"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 6,
+                "text": "Or the way we have been able to support the homeless through this crisis, get people off the streets"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "We saw the Government acting in a very different way to perhaps the traditional model done by departments"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "there is a lot that comes from a pandemic where people come together with a common cause, act much more quickly"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 9,
+                "text": "especially from some of the on - line behaviours that might affect our emotional and mental well - being"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "one Government it' s the speed which we act across departments"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "ways that Government can operate coming out of the pandemic where we can move much more quickly and be more data - driven"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "25424": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "we need to do better"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "that is encouraging"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "as we all get more used to it"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "people will see the advantage in sharing that information"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "doing the right thing"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "we can use this system to continue the fight against the virus"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 7,
+                "text": "do you think theres a correlation between the confidence in how the governments dealt with this pandemic and connecting that with the third that doesnt give any of their details with the Track and Trace?"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Thats alright Ross"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "a lot of people do"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "a very important point"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "are people doing it because they dont want to cooperate"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "thats what Ross is asking."
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "that they value perhaps their own privacy"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "Or loss of trust"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 11,
+                "type": "support"
+            }
+        ]
+    },
+    "23576": null,
+    "26068": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "People in my constituency, myself, many others, across the United Kingdom have friends and family in Scotland"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "We remember how divisive the last referendum was"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Then we saw the Brexit referendum with all the division that brought"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "I think people want a period of healing"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "They want the whole country to be working together"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Thats certainly where Keir Starmer is focused"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Because if he is prime minister, as I hope he will be, he wants to be prime minister of the whole of the United Kingdom"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "I think thats how well tackle these major issues like child poverty, like aspiration and like prosperity to make sure that reaches all parts of our nation"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "my mother in London"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "my wifes family came from Aberdeen, Edinburgh, Manchester and the south of England"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "I was in a health service where people came from all over the world"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "the great science being done in the UK is international"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "My father, 77 in two weeks time, was born in Glasgow"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 13,
+                "type": "support"
+            }
+        ]
+    },
+    "23627": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "All these unskilled jobs. We will never have a machine that will make a bed in a hotel. Are you classing that as unskilled?"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "No."
+            },
+            {
+                "reason": "Asks a question",
+                "id": 3,
+                "text": "Are you classing people who pick strawberries and broccoli as unskilled?"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "How do you get more skilled than picking a strawberry."
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "They are skilled jobs and they are important jobs. The care sector is important."
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "What are the unskilled jobs then?"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "If you go to Wheelmore. Fiona Bruce"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "If you go there and you will see on fresh fruit and veg, which is to your point, right, they're putting new capital to work for more machinery that can do everything from videoing how the..."
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Higher skills and higher wages, Minette. The same is happening across all sectors of the economy. That's a good thing."
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "To Nick's point, you have got to work with industry to take us on that journey and not to go straight to, you know, the cheap labour that we gorged on because of uncontrolled migration."
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "At the moment."
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "It wasn's cheap labour. You're paying seasonal workers fifteen an hour at the moment."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "21569": null,
+    "17921": null,
+    "19310": null,
+    "19219": null,
+    "18322": null,
+    "23972": null,
+    "23573": null,
+    "25545": null,
+    "21474": null,
+    "18841": null,
+    "24042": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "It does matter"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "it would be better if it were sooner"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "they are going to develop towards it"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "the developing world is not going to wish to give up growth that the developed world has enjoyed"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "it said it would be unfair to expect us to keep to these limits"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "When rich countries have developed so fast"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "why should they limit themselves?"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "It is to do the cost of us at home of going green"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Joe Biden is trying to persuade OPEC to increase production of oil"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "There is currently a gulf"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "it is not quite cheap enough"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "How do we meet that gap between our ambition and where the technology is?"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "The West has to spend more money to assist those countries to go to net zero"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "It\u2019 s not there yet"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "23106": null,
+    "23696": null,
+    "21372": null,
+    "23917": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "It is not about being unpatriotic for taking the knee"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "It is about learning and knowing what Britain is now"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "diverse society where we need to accept that we need to be more tolerant and more respectful to people"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "and if this keeps the conversation going then keep taking the knee"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "There has to be a degree of respect"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "people are very loathe to make their comments"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "You might not be racist whatsoever"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "No"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "What happened"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "it had a really dramatic effect"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "people stood up and took notice"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "that\u2019s a multi-cultural"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "and I\u2019 m all for it and it should reach the point until it is acceptable"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "It\u2019s a very tricky subject"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "if you disagree with taking the knee you\u2019re seen to be racist"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "their attention has been got and we have seen it in sports throughout that they\u2019ve all boyco\u021bted social media because of racism"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "21660": null,
+    "22947": null,
+    "23368": null,
+    "23767": null,
+    "20515": null,
+    "23959": null,
+    "17932": null,
+    "19077": null,
+    "21678": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "we should be having daily testing of the contacts"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "That is not sustainable"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "We have not had policies that have realised why"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "The government has never dealt with it"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "You have to deal with things like that"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Put booster supplies into the areas where cases have been highest"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "have an approach that realises that health is poorest in some parts"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "The vaccination programme is accelerating at a phenomenal rate"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "There are about 000 kids at home who are contacts of people who tested positive"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "supporting people with no access to sick pay to self isolate if they are ill"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "Three weeks ago we were vaccinating people in their mid 00'"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "two weeks ago early 00'"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "last week we were vaccinating people in their 00'"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "At the same time in Durham there was a pop up vaccination centre in the town centre for anybody over the age of 08"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "we will have everybody that needs to be vaccinated vaccinated quite soon"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "come September we will be offering booster doses for people over the age of 0 to start off with "
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 16,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "23514": null,
+    "20510": null,
+    "20520": null,
+    "20485": null,
+    "23539": null,
+    "19756": null,
+    "23594": null,
+    "23307": null,
+    "17959": null,
+    "19347": null,
+    "21604": null,
+    "25511": null,
+    "23715": null,
+    "21026": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "there are things we can do to address the effects of taking those hydrocarbons out of the ground but eventually we'll have to stop"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "We should not be doing it at the expense of people that are currently in that industry"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "whatever we do, we have to look after the families and the people involved there"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "do you want to give us a timeframe, Keith, give us your plan?"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "there you see one of the massive gaps in policy between where the SNP and the Greens are"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "we need to actually be practical about our obligations under the climate"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "this is a problem that I have with the SNP approach of setting targets and putting their hopes in things like carbon capture"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "there are already practical technologies that work"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Upgrading our rail system, investing in renewable technology and upgrading our homes are all things we can do to reduce our emissions right away"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "no need to wait"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "climate change is an existential threat to the planet we have to deal with this"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "I can\u2019 t say specifically when it' s going to stop, it will depend on the supply that' s there just now of course"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "23380": null,
+    "21745": null,
+    "19749": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Theres loads of people out there at the moment who are furloughed and being paid to stay at home, yet they are going out taking second jobs"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 2,
+                "text": "which is obviously spreading the virus around as well"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "people who actually flout the law, I think really should be basically made to pay back their furlough payments and fined"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "you go to the supermarket, things like that, theres people refusing to wear masks"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "other people just literally disrespecting what everybody is trying to do"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "disrespecting the NHS, disrespecting what the whole country is trying to do"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "It is really, really frustrating"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -6,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -6,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -6,
+                "target_id": -7,
+                "type": "support"
+            },
+            {
+                "source_id": -6,
+                "target_id": -8,
+                "type": "support"
+            },
+            {
+                "source_id": -6,
+                "target_id": -9,
+                "type": "support"
+            },
+            {
+                "source_id": -6,
+                "target_id": -7,
+                "type": "support"
+            }
+        ]
+    },
+    "23818": null,
+    "23866": null,
+    "23624": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "We've got to go further"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "as part of our call for evidence"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "We've got a national police lead"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "this is really important and it starts at school"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "there is a government inquiry and a Met inquiry"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "they are both"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "that either care about safety"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 8,
+                "text": "What would make you feel that they did care about safety if you're not happy with those inquiries?"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "we've had 120000 responses to that call of evidence"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "we're launching a 27/7 rape and sexual assault helpline"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "we've got to teach children at school what healthy relationships look like"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "that's primary as well as secondary"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "19216": null,
+    "21311": null,
+    "21450": null,
+    "23958": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "I'm sick of hearing basically, in Parliament, you know a load of ministers and cabinet ministers laughing about women"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "this is a serious issue!"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "It should be addressed"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "I think it's absolutely disgusting"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "it's never been a laughing matter"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Last week I apologised publicly for the low rate of convictions for rape cases in England and Wales"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "We saw a rise at the beginning of the decade and a steep decline since then"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "That is of deep concern to me and everybody involved in the system"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 9,
+                "text": "The system has failed because of multiplicity of reasons"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 10,
+                "text": "the appalling position where a young woman who has made a complaint of rape is told look we need your phone, we want your mobile phone, we will take your phone from you maybe for months"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 11,
+                "text": "That makes, gives that person an unenviable choice, do they give their phone over with their life on it or pursue the complaint"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "Too many people are put in that position"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "Therefore cases are not followed through"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "I want to change all that"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "so does the Prime Minister"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "I take on board what the questioner has just asked"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "20505": null,
+    "21612": null,
+    "25728": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "London and Brussels are behaving like spoilt brats"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Boris Johnson has to confess that the price of ending free movement of people is that he terminated the free movement of sausages between Britain and Northern Ireland"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "He has to acknowledge the impossible triangle"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "You cannot simultaneously have a regulatory divergence, no border within Ireland, and no border down the Irish Sea"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "You can have two of the three"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "You cannot have all three bodies"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "the European Union has been misbehaving"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "they have the legal right to inspect every great British banger that travels across the Irish Sea"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "to do this, is an abuse of their legal right."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "23938": null,
+    "21305": null,
+    "23591": null,
+    "21652": null,
+    "23712": null,
+    "23544": null,
+    "21461": null,
+    "23533": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "People are taking lateral flow tests, they're going to concerts having seen they're negative"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 2,
+                "text": "but that depends on the person because you're answering your own question"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "So once you take that test, you're asked, are you negative or positive?"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "So if that person'' not truthful, they can say they're negative, go to a concert and pass it on"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "There'' no protection"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "19327": null,
+    "23290": null,
+    "19753": null,
+    "21371": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "I think what we need to do"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "So you think having the amber light is confusing"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Yes"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "we need to beef up the personnel at the borders"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "But ultimately I think we need to weigh up the cost of the negligible risk of someone who is double vaccinated following all the protocol with tests either side against the vast impact to people like Jack"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Well in answer to Sam\u2019 question I don\u2019 t actually know"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "to be honest I\u2019 m a bit confused"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Either we\u2019re trusted to make our own decisions or we\u2019re not"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "and if we\u2019re not it should be red or green legal or not legal"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "23836": null,
+    "21587": null,
+    "19741": null,
+    "18878": null,
+    "23476": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "There is an appeal process"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "It is important to stick to the truth"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "At least last time they were ashamed"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "It is not just conservatives, there have been other MPs, clearly, who have brought Parliament into disrepute"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "we need to have an independent system that can assess what has happened and make sure proper decisions are made"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "We cannot have MPs deciding for themselves"
+            },
+            {
+                "reason": "Explains a process",
+                "id": 7,
+                "text": "What happens is if a complaint has been made against you, let\u2019 s say you received half a million pounds for two companies to lobby for them, let\u2019 s say, as happened with this case, and he goes before an independent commissioner, he then can go before a panel of MPs then can go before the whole of Parliament"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "What happened...was at the end of a long time of tory government conservatory MPs were taking money in brown envelopes to ask questions on behalf of companies"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "at the end of this long period of a conservative government we havetory MPs taking money again to lobby on behalf"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "23705": null,
+    "18875": null,
+    "23585": null,
+    "23763": null,
+    "25510": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "I do think we need to get away from the vaccine nationalism"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "We all need to be in this together"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "We should all be working together to get the vaccine out as quickly as we can"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "ensuring that its safe and effective"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Thats why I think Gavin Williamss comments were very unhelpful"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "It wasnt diplomatic"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Its not particularly helpful concerning Brexit negotiations"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "The world knows British scientists are amongst the best"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "I really dont think those comments were helpful"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "those comments"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "I think we should be clubbing together and doing everything as an international community"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "It felt toe curlingly cringy this morning"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "To turn it into a political point-scoring space race"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "How the scien has worked together to make this happen has been amazing"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "Lots of vaccines being announced at pretty much the same time"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "Clearly the scientists have been working together to create something that solves a world problem"
+            },
+            {
+                "reason": "States a position",
+                "id": 17,
+                "text": "It is something that we should all be so proud of"
+            },
+            {
+                "reason": "States a position",
+                "id": 18,
+                "text": "those comments coming out, it puts you"
+            },
+            {
+                "reason": "States a position",
+                "id": 19,
+                "text": "its that bit where you talk about your child, hes the best, whatever"
+            },
+            {
+                "reason": "States a position",
+                "id": 20,
+                "text": "I find it quite embarrassing this morning"
+            },
+            {
+                "reason": "States a position",
+                "id": 21,
+                "text": "It was a little toe-curling."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 14,
+                "target_id": 16,
+                "type": "support"
+            },
+            {
+                "source_id": 15,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 17,
+                "target_id": 16,
+                "type": "support"
+            }
+        ]
+    },
+    "20837": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "we have to ask how we think the vaccine has worked"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "we should be safe"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "we should be protected"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "we should be in a position where if we go on holiday"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "we're not going to reimport coronavirus"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "we are now largely as a society not at the same risks because of the vaccine situation"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "to accept the draconian measure of a government"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "banning you from leaving your own country is something that we should be very sceptical about."
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "So it'S not sounding fantastically likely for the summer"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "it'S been a brilliant success"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -3,
+                "type": "support"
+            }
+        ]
+    },
+    "21711": null,
+    "20502": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "This is not a simple issue"
+            },
+            {
+                "reason": "States a question",
+                "id": 2,
+                "text": "should there be a vaccine passport to allow businesses to ensure COVID safety when entering indoor venues?"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "it will be very unfair"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "We did state that"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "We believe there could have been capacity to deliver that"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "There are examples of different facilities that said they could have been involved in that vaccination effort."
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "There are risks in all different directions around this"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "the most important thing... is about the speed of vaccination"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "If we don\u2019T see people being vaccinated at speed"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "We have said... we would have wanted the vaccination to go much more quickly"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "23445": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "There is an independent review of whether or not the first minister broke the code of conduct"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "She says no, and I believe her"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the first minister said from the outset that she will appear in front of that committee, under oath, and answer all questions that it has"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "you know it"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "When I travel to Scotland, the same"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "the Scottish people are united when they travel"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "British people are united when we travel"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Okay, you stay out of it."
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "So the idea that she is trying to hide away in some way couldn\u2019t be further from the truth"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "There\u2019s a lot of he said, they said, she said"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "When I travel back home to Belfast, there\u2019s a lot of local politics"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "always when we\u2019re at home these things appear"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 10,
+                "type": "attack"
+            }
+        ]
+    },
+    "23813": null,
+    "18775": null,
+    "21342": null,
+    "23560": null,
+    "25497": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the majority of people and elected representatives in the north are opposed to Brexit"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "what were witnessing is a trade adjustment shock"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the British government didnt prepare or work with businesses in terms of them being ready"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Obviously the deal went right down to the wire so there wasnt time for businesses to prepare"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "it is a direct result of Brexit"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "there has been some solutions found to a number of issues over the course of the last number of weeks"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "clearly this is the outworking of Brexit and were going to see a lot more of that"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "My job as a political leader will be to uphold the protocol and ensure it is implemented in its entirety and to find answers to problems."
+            },
+            {
+                "reason": "Counterclaim",
+                "id": 9,
+                "text": "its a direct result of COVID"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "23266": null,
+    "23614": null,
+    "19091": null,
+    "19902": {
+        "argument_units": [
+            {
+                "reason": "States a fact",
+                "id": 1,
+                "text": "Deaths are still rising in our hospitals"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 2,
+                "text": "Is this lockdown enough?"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Thats an absolute tragedy"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Thats tens of thousands of families that have lost their loved ones"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "It is a result of the poor decision-making at the heart of this government"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "if the government didnt take action to increase statutory sick pay and make sure people could afford to self-isolate they would live to regret it and we would too"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "self-isolation is not being it"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "testing measures were at the border"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "the measures that theyve taken, the slowness going into lockdown and the speed they lifted some of these restrictions have caused voidable deaths"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "It was foreseeable and throughout this pandemic it has been completely foreseen"
+            },
+            {
+                "reason": "States a fact",
+                "id": 11,
+                "text": "In one day 0, 000 recorded yesterday"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "an effective public health response like test and trace are still not effective"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "21379": null,
+    "23009": null,
+    "21304": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "Andi Unknown"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Andi Unknown"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "And we will all take that on board in this room, I am sure, as I go on to another question"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "all political parties do it and all politicians lapse into doing it"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "our political parliament is set up like that to shout at each other rather than work together"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "You can\u2019ts just choose a percentage and choose what you want it to mean and say, okay, this now means we\u2019ve got a mandate because I\u2019m after this percentage"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "It\u2019\uff53 just ridiculous"
+            },
+            {
+                "reason": "Acknowledges a prior point",
+                "id": 8,
+                "text": "We hear you, we hear you, you\u2019ve got it off your chest and we\u2019re all grateful, good for you"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "that there\u2019\uff53 too much of this that goes in politics"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "21477": null,
+    "23967": null,
+    "21277": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "as a representative of any political party at all"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "I want you to decide who it is that you represent"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "I would like you to move more back towards the centre"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "stop with all of these bizarre identity politics"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "which turn people off"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "there was a cartoon"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "this is the point"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "You see a lot of Brexiteers as racist"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "I don\u2019m involved with that party"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "I\u2019m not sitting here"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "That\u2019sm not us"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "the cartoon depicts a Labour councillor knocking on the door saying something along the lines of why won\u2019 t you xenophobes vote for us any more in Labour"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "xenophobic "
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 13,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "23587": null,
+    "23548": null,
+    "20516": null,
+    "20850": null,
+    "23782": null,
+    "19165": null,
+    "21045": null,
+    "20748": null,
+    "18274": null,
+    "25420": null,
+    "19746": null,
+    "20881": null,
+    "25491": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "The only way we can go now is forward"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "We cannot go back"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "We cannot go into another lockdown situation"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "We must come out of this"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "that's the right way to go"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Yes, we have to go forward but we still must be careful"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "There may be less people in hospital with COVID these days"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "however, there are still people suffering from long COVID"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "which is a really serious illness"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "We don't know the impact of people's bodies that has taken yet"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "we all have to work together to make sure the only direction we go is forward"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "the new normal in education goes back to schools being back to normal"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "We're seeing another surge of lots of children isolating at the moment"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "to get our children back to school as much as they can"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "Our young children have this legacy to deal with"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "get the schools to as normal as possible in September"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 16,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            }
+        ]
+    },
+    "21052": null,
+    "23772": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "We were united in determination that something like that should never happen again!"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "I just find it utterly bewildering that here we are four years later, and this still has not been resolved in a satisfactory way"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "The bill that has gone through Parliament has clearly been a hugely-missed opportunity"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "It's simply not fair for leaseholders through no fault of their own to be facing not only this great expense, but the ongoing fear of what might happen to them and their children, and their families should something horrific go wrong"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "This clearly needs fixing as soon as possible"
+            },
+            {
+                "reason": "Expresses empathy",
+                "id": 6,
+                "text": "My heart goes out to Natalie and the hundreds of thousands of people who will be disappointed by this news today and probably angry"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Up and down our country, there are people, hard working people, who are living in fear about their financial security"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "we have carers, and we clapped our carers"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Yet the majority of carers in this country are living in poverty"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "The issue after issue we are sleepwalking into a poverty crisis"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "One in five British people were living in poverty before this pandemic"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "We haven'\u2019ve addressed child poverty and talked enough about free school meals"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 11,
+                "type": "support"
+            }
+        ]
+    },
+    "21268": null,
+    "23558": null,
+    "20763": null,
+    "23388": null,
+    "19187": null,
+    "20307": null,
+    "23015": null,
+    "23688": null,
+    "18864": null,
+    "18281": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "there is a huge disconnect between what we hear on the daily briefings and the reality and the implementation of these policies on the ground"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "having that confidence in the infrastructure can deliver what we are being promised"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "countries like Turkey have been testing and tracking since the start with a relatively low death toll"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "we were told we would get a world beating system"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "what has been rolled out now is the basics of what we should have expected weeks ago"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "We are not testing asymptomatic cases"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Tests are only available online"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "they should be available locally"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "It just appears that once again the world has beaten us to it"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "It\u2019 s really incomprehensible why the UK was so unprepared"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "19085": null,
+    "21324": null,
+    "23855": null,
+    "23384": null,
+    "23787": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "We put money in to do that to help G AR VI"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Cutting the aid budget"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "They need the vaccine"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "I want to say a number of people have expressed interest"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 5,
+                "text": "Can there be any justification for the continued incarceration of people in care homes?"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "her daughter is allowed to visit her once a week for half an hour indoors, and no more"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "If this person was in prison, she would probably have more rights to have visitors than she does now."
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "That'''t what G AR VI'\u2019' key role is"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "In the countries where the Primary Care systems are not very robust that'\u2019't where G AR VI has the incredibly effective way of help them"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "There wasn'\u2019t the production capability that existed this time last year to be able to generate billions of doses"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "and that'\u2019' growing but we need to you know, keep at it!"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "My late father'\u2019' partner, a lady in her \u0668\u0660'\u2019 is in a care home with Alzheimer'\u2019"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "She'\u2019' not allowed to go outside with her"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "She'\u2019' not allowed to see her at any other time"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "the care home says, oh well it'\u2019' just too difficult to do"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 15,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 16,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 17,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 15,
+                "type": "support"
+            }
+        ]
+    },
+    "18286": null,
+    "19087": null,
+    "23874": null,
+    "23398": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "It is not just about women!"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Men get raped"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Men get sexually assaulted"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "gay men as well"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "not to deny the male experience"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Sorry women rape men"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Domestic violence against men with women is high compared"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "This is what has been brushed under the carpet and it\u2019s wrong on so many levels"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "the Government don\u2019 t just concentrate on women getting raped"
+            },
+            {
+                "reason": "Acknowledges a prior claim",
+                "id": 10,
+                "text": "It\u2019s true to say many more women get raped than me that is also true"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 11,
+                "text": "the only difference is a man doesn\u2019 t report it as much as a woman does."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 10,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            }
+        ]
+    },
+    "23870": null,
+    "20893": null,
+    "23820": null,
+    "17957": null,
+    "18456": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "they were"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "many people have just had enough"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "we all owe it to each other to respect the rule of law"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "work for greater equality"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "the scenes that we saw in Bristol were disturbing"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "there didnt seem to be that sense of order"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "an investigation is ongoing"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "weve got to let the police do their job, independently"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "let the prosecuting authorities follow the evidence wherever it leads"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "if we stand for something together and collectively in this great country, its got to be the rule of law"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "those values of freedom that attracted so many people here in the first place"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "make this country, whilst it is imperfect, and whilst there is a huge amount for us to do, a good place to live"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 13,
+                "text": "because we have that underpinning of the rule of law and democracy"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "Lets celebrate that, but lets be honest and confront the past as well."
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 15,
+                "text": "Whilst I absolutely get and understand the huge strength of feeling thats been engendered as a result of that appalling incident in Minneapolis"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 15,
+                "target_id": 13,
+                "type": "support"
+            }
+        ]
+    },
+    "23481": null,
+    "19896": null,
+    "21414": null,
+    "21303": null,
+    "20841": {
+        "argument_units": [
+            {
+                "reason": "States a question",
+                "id": 1,
+                "text": "It would be nice for somebody to tell us what we have to do to achieve the freedoms that we had before"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Do we need to be like New Zealand and Australia, every time they get an infection it just shuts down?"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "New Zealand and Australia have to eventually open up"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "you've got to go back to some sort of normality"
+            },
+            {
+                "reason": "States a question",
+                "id": 5,
+                "text": "we need to be told when that or what we need to achieve to get to that point."
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "To me, that can'' continue to happen"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "you can' guarantee that they're going to get some sort of infection in there"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "you can' go along hoping that it's just going to disappear, because it's not"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "19084": null,
+    "18454": null,
+    "21297": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Much of politics now is about identity, culture and values"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "the people who have understood that quickest have been the Conservatives"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the people who have understood it most successfully have been Kate's Scottish National Party"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "the Scottish cosmopolitan national identity is real"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Mark Drakeford in Wales represents a feeling about being Welsh, more than just Labour"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Andy Burnham didn't just win central Manchester, he won seats, including where I come from, where they voted Tory"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 7,
+                "text": "because he projected something, a narrative, a realsomebody"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Now, what Keir hasn't done yet is that"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "He needs policies, a narrative, a goal, a clear story to tell"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "That means understanding what has caused these deep cultural divisions"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "certainly you can't go with them"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 10,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "23581": {
+        "argument_units": [
+            {
+                "reason": "Poses a question",
+                "id": 1,
+                "text": "what, if any, further protection should politicians have?"
+            },
+            {
+                "reason": "Poses a question",
+                "id": 2,
+                "text": "Is it having a police officer stationed at every constituency surgery, or what is it?"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the worst atrocities start somewhere"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 4,
+                "text": "they start with these intimidating threats"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "It\u2019s meeting people face to face"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "you cannot escape, and I would never want to, it\u2019s the part of the job I love the most"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "I don\u2019 t think there is any politician, I can\u2019 t think of any, who haven\u2019 t had to face threatening behaviour"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "who haven\u2019 t been subject to intimidating threats"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "they start with anger-fuelled and dehumanising language so often on social media."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "19225": null,
+    "19317": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "It feels like theres an end to this nightmare we have all been living"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "long term there are the problems of getting everybody vaccinated to make sure we can get our lives back to normal"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Yes, we have a poor track record how weve dealt with coronavirus"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "You look at the way that the whole thing has been dealt with, you look at the track and trace system, it is something that we have struggled with"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "There have been bold claims about it and were still struggling with this now"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "So I can understand peoples worry"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Colleens point of view are we going to fall into the same trap where it comes to rolling out the logistics of this"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "logistics isnt falling into the tech problem where were trying to get everybody to download apps"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "it is more about getting close to people and resolving it"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "So, yes, I think if there are the army brought in, if there is people who are all over this have an understanding of how logistics work"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "it gives hope that perhaps there is something coming through the other side, that we will, eventually, get something right during this."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "23849": null,
+    "23567": null,
+    "19750": null,
+    "21458": null,
+    "23556": null,
+    "23777": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "they made a commitment upfront that 300 million doses would feed Kofax"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "Part of its purpose is to be able to buy vaccines at cost"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "ensure that there can be that shared production both for developed countries who are buying it"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "and also Kofax can be buying for developing countries"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "But the important thing is getting those vaccines made!"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "We knew this would be a challenge is the ability to produce the vaccine in the quantities that are needed"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "India has been the heart of other vaccines for many countries for lots of years."
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "That\u2019s across the world"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "we have now invested 543 million into Covak"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "it\u2019s been match funded by other donors so it has a billion pounds to work with"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 11,
+                "text": "is there any changing your minds?"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "The discussions are ongoing with the WTO and I\u2019 m not party to the detail"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 13,
+                "text": "because, you know India\u2019s population over a billion and so on"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "Bill Gates made a move last summer said I\u2019 m going to create vaccine production facilities"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 14,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 13,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 12,
+                "type": "support"
+            }
+        ]
+    },
+    "18290": null,
+    "25693": null,
+    "20326": null,
+    "21400": null,
+    "18320": null,
+    "18295": null,
+    "23725": null,
+    "20849": null,
+    "19233": null,
+    "18307": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "We are asking people gradually to take small steps to try to make life"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "We are all trying to make sense of how it works since we are all going to have to be doing this"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "This track and trace has the ability to close my business down every single week"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "I have already closed"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "if any of my staff or families go to any other houses to clean or do anything we are closed"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "I was wondering who is going to pick up the pieces"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "small businesses who work from home have already been missed out on everything"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "That could close me down again every single week or have girls going off sick"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 9,
+                "text": "because they have been to vulnerable houses, vulnerable places and doing their job"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 10,
+                "text": "How is the Government going to sort this out."
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "Financially it\u2019s been a nightmare"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "I don\u2019t know what I am going to do"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "now we\u2019ve got track and trace"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 12,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "23691": null,
+    "25512": null,
+    "21454": null
+}

@@ -1,0 +1,2751 @@
+{
+    "29832": {
+        "argument_units": [
+            {
+                "reason": "question",
+                "id": 1,
+                "text": "So if he was there, is he ruled out as well?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "We can rule her out because she was there making a noise."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So Sherry turns up at his house being loud and inappropriate, was going on for a couple of hours, and that started at230."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "He\u2019she\u2019sn\u2019t there."
+            },
+            {
+                "reason": "speculation",
+                "id": 5,
+                "text": "Ah, but maybe she\u2019she\u2019smaking all that noise because he wasn\u2019she\u2019swasn\u2019t there, or whatever."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "If you I didn\u2019t getmy neighbour\u2019she\u2019sgirlfriend, she was up at his house at all hours, I swear she knocked out every single thing in the back yard."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Then she turns out the lights, which shineturnson the lights, which shine into my bedroom."
+            },
+            {
+                "reason": "assumption",
+                "id": 8,
+                "text": "But I assume it was intended to annoy me."
+            },
+            {
+                "reason": "opinion",
+                "id": 9,
+                "text": "You\u2019d think they\u2019d have some decency to be ashamed of themselves, but no, they are determined to make a mockery."
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "Maybe he was there, it doesn\u2019t say he wasn\u2019t there."
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "Maybe they\u2019re both ruled out."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 11,
+                "type": "support"
+            }
+        ]
+    },
+    "29923": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "No one else has got a motive, so it'\u2019're her."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Chris'\u2019'related to her motive."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "He likes her, and that'\u2019'tive."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "He couldn't have done it on his own."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "He could have killed him"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "it would have been hard, because he was working, he couldn't have been the devil mask to like get him to run into the forest."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29804": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "her address is 2 County Road"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "you can see a 2"
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "they're probably not useful"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "she would have been out there anyway"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Chris and Cherie both had a motive"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "it seems like they were involved with each other"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "Cherie didn't have opportunity because the neighbours heard her"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 8,
+                "text": "But that was one hour earlier"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 9,
+                "text": "it doesn't say she left"
+            },
+            {
+                "reason": "opinion",
+                "id": 10,
+                "text": "Chris is missing in action"
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "Cherie was probably at his house"
+            },
+            {
+                "reason": "claim",
+                "id": 12,
+                "text": "Joan seems to have been at the ritual"
+            },
+            {
+                "reason": "claim",
+                "id": 13,
+                "text": "those shoes might be Joan' s"
+            },
+            {
+                "reason": "opinion",
+                "id": 14,
+                "text": "They're just like other shoes"
+            },
+            {
+                "reason": "opinion",
+                "id": 15,
+                "text": "So probably in Chris' house"
+            },
+            {
+                "reason": "claim",
+                "id": 16,
+                "text": "Donna was like had the traffic had the police stop"
+            },
+            {
+                "reason": "opinion",
+                "id": 17,
+                "text": "it' s just like he just got pushed off a cliff"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29910": null,
+    "29913": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "there is a possibility where Carmen got him to change the will and has benefitted"
+            },
+            {
+                "reason": "observation",
+                "id": 2,
+                "text": "'left a note on her menu, and a matchbox on the counter for Nick, but he never got the chance to see it,' it says"
+            },
+            {
+                "reason": "question",
+                "id": 3,
+                "text": "So why is there another matchbox in the photo?"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "he is dating Cherie, right?"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "he can only be an accomplice at best"
+            },
+            {
+                "reason": "observation",
+                "id": 6,
+                "text": "Donna doesn\u2019t have an alibi, but she also doesn\u2019t have motive"
+            },
+            {
+                "reason": "observation",
+                "id": 7,
+                "text": "It\u2019s just weird that she was in the car, that way"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "Chris T has a motive, by the means of Cherie, because if he is in an affair with Cherie, then he\u2019d want to help her, and he has the means"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "the detective hasn\u2019t got a motive"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "29924": {
+        "argument_units": [
+            {
+                "reason": "inference",
+                "id": 1,
+                "text": "he could have done the scary bit."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "He could have like , faked it , right?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "collision between the blue and black car , 'cause those are like random cars we don ' t know."
+            },
+            {
+                "reason": "agreement",
+                "id": 4,
+                "text": "But the collision between the blue and the black car , he did book the driver , so that would have been in the records."
+            },
+            {
+                "reason": "inference",
+                "id": 5,
+                "text": "He was driving , so I think , that yeah , he ' s got an alibi over the period."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "Well he could have killed , no , no , no , so like that just means that he didn ' t kill anyone at 0 0 0 1 , he could have killed the guy between 3 0 : 3 0 and 0 0 0 1 , like it ' s everything very close."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "So I think the murder happened between 0 3 : 3 0 and 0 0 0 1."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "So between 0 3 : 3 0 and 0 0 0 1 F 0 0 0 1 , 0 3 : 3 1 Chris is at the location stopping Donna."
+            },
+            {
+                "reason": "agreement",
+                "id": 9,
+                "text": "he ' s got coverage."
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "Interestingly , he was attraffic stopped silver Lincoln , tail lights out , he was actually at the pub at this time"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "27906": null,
+    "29912": null,
+    "29801": {
+        "argument_units": [
+            {
+                "reason": "question",
+                "id": 1,
+                "text": "And this one was sent by Chris, no?"
+            },
+            {
+                "reason": "statement",
+                "id": 2,
+                "text": "But this was inside of the bag."
+            },
+            {
+                "reason": "suggestion",
+                "id": 3,
+                "text": "Maybe Nick found it."
+            },
+            {
+                "reason": "possibility",
+                "id": 4,
+                "text": "Yeah, the F, or C, or T."
+            },
+            {
+                "reason": "question",
+                "id": 5,
+                "text": "So, did that one come out of the locked bag?"
+            },
+            {
+                "reason": "affirmation",
+                "id": 6,
+                "text": "So, yeah, I think so."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "Okay, so let\u2019s assume that this letter was sent by Cherie."
+            },
+            {
+                "reason": "statement",
+                "id": 8,
+                "text": "Yeah, they live in the same house."
+            },
+            {
+                "reason": "suggestion",
+                "id": 9,
+                "text": "So, maybe that makes it easier to do then?"
+            },
+            {
+                "reason": "statement",
+                "id": 10,
+                "text": "So, we now know what the F is, it\u2019s definitely C."
+            },
+            {
+                "reason": "opinion",
+                "id": 11,
+                "text": "Yeah, I don\u2019 t think that either, but just to try."
+            },
+            {
+                "reason": "conclusion",
+                "id": 12,
+                "text": "So, that\u2019s why I think it makes sense to assume that they were exchanging these empty envelopes."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "29885": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She thinks the people in the pub are interlopers from Old Scratch bent on destroying life."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "And means, how many means and opportunity?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Maybe, because she lives close."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "I don't think they would give us an alibi so early on in the story."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "She has got a history of assault and trespassing, and she're divorced."
+            },
+            {
+                "reason": "potential argument",
+                "id": 6,
+                "text": "So there'\u2019' a potential that there is an alibi if they were together, during the murder time or the murder happened before, and then she doesn't have an alibi."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29793": null,
+    "29928": null,
+    "29825": null,
+    "29934": null,
+    "29908": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I leave the remainder of my estate, including Old Scratch Tavern and all associated assets, plus my retirement account and the life insurance policy."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "When did he sign that?"
+            },
+            {
+                "reason": "statement",
+                "id": 3,
+                "text": "So he did it after he found out?"
+            },
+            {
+                "reason": "statement",
+                "id": 4,
+                "text": "So it makes no sense for Cherie to do it, because she gets nothing."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "if she did know, then that makes our Carmen the lead suspect now."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "But she doesn' t necessarily know that."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 7,
+                "text": "She doesn\u2019 t know though."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            }
+        ]
+    },
+    "29802": null,
+    "29917": null,
+    "29865": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "I got there at like three in the morning, and it was just me and this lady with a basket of weird herbs."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Doreen Norville seems like she knows what\u2019s up."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Joan Campbell, the Save Devil\u2019s Well Foundation person, is a fricking cult person, 'cause she called it sacred."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "We spent like, thirty or forty minutes burning herbs and chanting."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "At one point I heard something crashing around in the underbrush and I got worried she\u2019\u0434 actually summoned something."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "So, I think this is 'Out by Devil\u2019s Well tonight,' and this is the sixth, so it went out on [inaudible]."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "So this is, the man died when this was going on."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29838": null,
+    "29935": null,
+    "29914": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "why would he go and talk to someone on a ledge at the top of a"
+            },
+            {
+                "reason": "reason",
+                "id": 2,
+                "text": "He could have been chasing the witch."
+            },
+            {
+                "reason": "reason",
+                "id": 3,
+                "text": "The witch takes his mask off and pushes him over the ledge."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "So he was near."
+            },
+            {
+                "reason": "reason",
+                "id": 5,
+                "text": "could it have been the deputy turns up at [time stamp and does all the spooky things"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "the deputy stopped Donna\u2019s car at [time stamp and"
+            },
+            {
+                "reason": "stance",
+                "id": 7,
+                "text": "So, there\u2019s no thing for Joan."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "she was with Mia for the most of it, so this is the time of death, and this is when Mia\u2019s last comments, when Mia came back, and that\u2019s probably the time where she was going back."
+            },
+            {
+                "reason": "premise",
+                "id": 9,
+                "text": "if somebody killed the guy, it\u2019s probably going to be another guy, right, like he\u2019s stronger?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "29830": null,
+    "29900": null,
+    "29797": {
+        "argument_units": [
+            {
+                "reason": "suggestion",
+                "id": 1,
+                "text": "So, actually, maybe that means it is something in the 2000s, if there's only one digit for the year."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "Does it say, like, when the pub was opened, or anything, or, like any dates?"
+            },
+            {
+                "reason": "statement",
+                "id": 3,
+                "text": "So, yeah, so I think it's the last bit of his notes is saying, he's figured it out."
+            },
+            {
+                "reason": "question",
+                "id": 4,
+                "text": "So, which year is it?"
+            },
+            {
+                "reason": "suggestion",
+                "id": 5,
+                "text": "Okay, 5, 5, 5, okay, well that's fifty seven."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29799": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "this is another one"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "she couldn\u2019 t possibly be reopening it and she will sell it"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "it\u2019 s emails about them selling the bar to the developers"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "there\u2019 s a will"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29901": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "he did some things around the time"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "he could have just put that in"
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "anyone can push someone over a cliff"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "you already have means right?"
+            },
+            {
+                "reason": "question",
+                "id": 5,
+                "text": "is the witch old?"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "Donna stopped by Chris at three thirty one"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "the body was found at four oh one"
+            },
+            {
+                "reason": "opinion",
+                "id": 8,
+                "text": "saying he saw a car stop would be a good alibi"
+            },
+            {
+                "reason": "stance",
+                "id": 9,
+                "text": "it\u2019e not like he was killed with a fucking knife"
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "if you\u2019re strangling that requires a certain amount of strength"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "29942": null,
+    "29876": null,
+    "29930": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "He finds his wife."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "Why are you there, right?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "maybe, let's say he followed the devil all the way up to the waterfall."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Chris followed after them, and then the devil kind of disappeared in the woods, and Chris hit Webster with something heavy and he fell."
+            },
+            {
+                "reason": "question",
+                "id": 5,
+                "text": "But then where's Cherie in all of this?"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Cherie is the devil, and she ran away, she just lured"
+            },
+            {
+                "reason": "stance",
+                "id": 7,
+                "text": "So you're agreeing that she is involved, it's just it's also Chris?"
+            },
+            {
+                "reason": "stance",
+                "id": 8,
+                "text": "Yeah, so I think I go with Suzanne, I think Suzanne is right, Cherie lured Webster in the forest"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "she's not the one who pushed him"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "29892": null,
+    "29809": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "it says specifically that he died from a fall."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "it seems like what he had to do was draw him into the woods alone, where he could"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "just push, shove him off"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "the coroner agreed that a fall is the likely cause of death"
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "she wants to sell the bar, and get out"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "he works there"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "he was the one that just lived at the bottom of the cliff, rather than the top of the cliff"
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "he\u2019 s in the hiking club, so he knows, probably, the countryside around the place quite well"
+            },
+            {
+                "reason": "premise",
+                "id": 9,
+                "text": "the motive is because he is cheating, he\u2019 s having an affair with Cherie"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "27713": {
+        "argument_units": [
+            {
+                "reason": "report",
+                "id": 1,
+                "text": "The death of Old Scratch tavern owner, Nicholas Webster has been re-classified as a murder according to official paperwork filed this week."
+            },
+            {
+                "reason": "report",
+                "id": 2,
+                "text": "Webster's death, though his death was initially ruled an accident, the case was recently reopened as a homicide."
+            },
+            {
+                "reason": "report",
+                "id": 3,
+                "text": "Sheriff Paul McGinty confirmed a suspect is now in custody in connection with Webster's death."
+            },
+            {
+                "reason": "report",
+                "id": 4,
+                "text": "Cherie Webster, the victim's widow, has been charged with the murder of her husband."
+            },
+            {
+                "reason": "report",
+                "id": 5,
+                "text": "The motive of which is believed to be financial gain."
+            },
+            {
+                "reason": "report",
+                "id": 6,
+                "text": "The Sheriff's Office announced there will be an external enquiry into their handling of the investigation."
+            },
+            {
+                "reason": "report",
+                "id": 7,
+                "text": "Deputy Christopher Thomson, the officer in charge of the original investigation, has been suspended without pay."
+            },
+            {
+                "reason": "report",
+                "id": 8,
+                "text": "According to Carmen Rojas, an employee at the bar Mr Webster owned, the case was solved thanks to new evidence uncovered by a private investigator."
+            },
+            {
+                "reason": "opinion",
+                "id": 9,
+                "text": "None of this would have happened without the help of Grey Investigations, she said, I'll always be grateful to the investigator who worked my case."
+            },
+            {
+                "reason": "observation",
+                "id": 10,
+                "text": "He has no alibi."
+            },
+            {
+                "reason": "observation",
+                "id": 11,
+                "text": "But she didn't either."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "27717": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "he colluded"
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "how did she get out of there?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "we say the name based on a guess"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "But that're still saying that he''suspended without pay"
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "he'is not the murderer"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "it'is her"
+            },
+            {
+                "reason": "observation",
+                "id": 7,
+                "text": "The only thing that indicates it is that there is evidence pointing to him"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "He'is not an innocent man"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "we didn'thave perfect evidence"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29891": {
+        "argument_units": [
+            {
+                "reason": "observation",
+                "id": 1,
+                "text": "Guys, this is weird, Donna left the bar one hour before the closing."
+            },
+            {
+                "reason": "observation",
+                "id": 2,
+                "text": "collision between blue Cadillac and a black Lincoln."
+            },
+            {
+                "reason": "observation",
+                "id": 3,
+                "text": "Four oh one."
+            },
+            {
+                "reason": "statement",
+                "id": 4,
+                "text": "So, driving under the influence."
+            },
+            {
+                "reason": "question",
+                "id": 5,
+                "text": "At three thirty there's the CCTV footage, so it doesn't mean the bar closed at four?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29805": null,
+    "29841": null,
+    "29784": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "she went and put, like, the dead fox there"
+            },
+            {
+                "reason": "inference",
+                "id": 2,
+                "text": "So, she had to have put the animal there, and then got back home, and then, like updated on what happened"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "when she says there was only one other person there, probably the only other person was Joan"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "the person who attended that in the woods, apparently is back, and updating at, like, four a. m., and had heard him running past before"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "So, it looks like she\u2019re the person who organised this"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "the person who attended it says the person who organised it, believes she\u2019re a witch, and is casting a spell"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "Joan believes she\u2019re casting hexes on people"
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "And is talking about the evil corporation from there, that wants to buy Devil\u2019re Well"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29883": null,
+    "29898": null,
+    "29919": null,
+    "29782": null,
+    "29933": null,
+    "27799": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "He was the love of my life."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "When did he die?"
+            },
+            {
+                "reason": "question",
+                "id": 3,
+                "text": "Where's the police report?"
+            },
+            {
+                "reason": "observation",
+                "id": 4,
+                "text": "So there was a lot of incidents leading up to that."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "The sheriff's office are just basically not interested, and it was they're ruling it an accident."
+            },
+            {
+                "reason": "opinion/stance",
+                "id": 6,
+                "text": "That's dodgy."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "In July he'd reported burglaries, and a series of fires, and then he called the police ten times between the first of September and the seventh of December."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "He died on the seventh of December."
+            },
+            {
+                "reason": "premise",
+                "id": 9,
+                "text": "He made ten complaints to the sheriff's office between the first of September and the seventh of December."
+            },
+            {
+                "reason": "question",
+                "id": 10,
+                "text": "An extramarital relationship?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29911": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "they used her wackiness to intimidate him"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "someone else was trying to make it seem like he was going crazy"
+            },
+            {
+                "reason": "question",
+                "id": 3,
+                "text": "So what about the Donna though?"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "he might have gone to her for some help and advice?"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "maybe she found out there was someone selling it"
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "she still looks like an ally"
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "an Estate Agent was a baddy"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29842": {
+        "argument_units": [
+            {
+                "reason": "question",
+                "id": 1,
+                "text": "knew that she was having an affair?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Yes."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "But I think that"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "But that says it was Carmen who did it."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "She gets nothing."
+            },
+            {
+                "reason": "suggestion",
+                "id": 6,
+                "text": "It\u2019sit\u2019 either down to Chris Thompson, who\u2019so obvious, maybe."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29820": null,
+    "29864": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "We think this could greatly enrich our town"
+            },
+            {
+                "reason": "conditional statement",
+                "id": 2,
+                "text": "But of course, if everyone is against it, the deal won't go forward."
+            },
+            {
+                "reason": "potential motive",
+                "id": 3,
+                "text": "we could have potential motive as something to do with the sale of the waterfall"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "he might have bribes"
+            },
+            {
+                "reason": "hypothesis",
+                "id": 5,
+                "text": "he was killed here, it might be a way to like, discourage the sale of the land, and make it worth less"
+            },
+            {
+                "reason": "hypothesis",
+                "id": 6,
+                "text": "we'll probably find out that he's got shares"
+            },
+            {
+                "reason": "hope",
+                "id": 7,
+                "text": "Hopefully that's the most heavy bit done."
+            },
+            {
+                "reason": "opinion",
+                "id": 8,
+                "text": "Dale Lynch, isn't totally... he said, 'If there's enough against it, it's advantageous, but if no one wants it'"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "27855": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Collision of the blue and black car was DUI as well, right."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Donna has a Lincoln"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Donna was leaving the place."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "But I think it&#ffcc; s a black Lincoln right?"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "There&#ffcc; s a silver Lincoln tailed at C 5 traffic stops a Lincoln."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29787": {
+        "argument_units": [
+            {
+                "reason": "affirmation",
+                "id": 1,
+                "text": "Yeah"
+            },
+            {
+                "reason": "suggestion",
+                "id": 2,
+                "text": "So we need to talk about Devil\u2019swell about the land on Devil\u2019swell on Wednesday at 11p"
+            },
+            {
+                "reason": "question",
+                "id": 3,
+                "text": "So maybe she was planning"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "No she left the note I think"
+            },
+            {
+                "reason": "question",
+                "id": 5,
+                "text": "But he says that he knows who\u2019swhich behind the threats and everything?"
+            },
+            {
+                "reason": "suggestion",
+                "id": 6,
+                "text": "But should we just do it to see what it actually says in case there\u2019st anything useful?"
+            },
+            {
+                "reason": "question",
+                "id": 7,
+                "text": "Is this the threatening note or?"
+            },
+            {
+                "reason": "affirmation",
+                "id": 8,
+                "text": "Yeah so that\u2019sthe threatening note on the poster"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29794": null,
+    "29925": null,
+    "29789": null,
+    "29790": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "it sounds like he really did not want that letter to be found"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "they visited him at home, and brought pizza, and then was snooping around in the kitchen, and stole an opened envelope that was at the bottom of the pile of mail on the table"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "The police officer broke the news and told her, and they know she did it"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "she also denies that it was a murder"
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "Convenient"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "It\u2019s very suspicious"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Cherie says that she was staying at a friend\u2019s house the night Nick died, so she could be the one that was at Chris\u2019 house"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "there\u2019s some kind of motive involved, possibly"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "29881": {
+        "argument_units": [
+            {
+                "reason": "counterclaim/qualification",
+                "id": 1,
+                "text": "she might be right"
+            },
+            {
+                "reason": "premise/reasoning",
+                "id": 2,
+                "text": "there might be a corporation wants to buy it"
+            },
+            {
+                "reason": "opinion/stance",
+                "id": 3,
+                "text": "It sounds pretty out there to me"
+            },
+            {
+                "reason": "premise/reasoning",
+                "id": 4,
+                "text": "I've heard stranger things"
+            },
+            {
+                "reason": "premise/reasoning",
+                "id": 5,
+                "text": "she also put a fox outside his bar"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "she threatened to shoot me if I don't get off her property"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "she obviously thinks Nick and the bar are doing something bad"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "an evil corporation from Indianapolis wants to sow the land near Devil'\u2019' Well with poison"
+            },
+            {
+                "reason": "premise/reasoning",
+                "id": 9,
+                "text": "she'\u2019' kind of sees the evil in everything"
+            },
+            {
+                "reason": "premise/reasoning",
+                "id": 10,
+                "text": "she'\u2019' also been saying Nick got what he deserved"
+            },
+            {
+                "reason": "opinion/stance",
+                "id": 11,
+                "text": "She'\u2019'' bonkers"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29811": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "she went to his house to cover for him to make it seem like they were both in"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "we maybe are missing something"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "she went to the house"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "the murdering was after"
+            },
+            {
+                "reason": "reason",
+                "id": 5,
+                "text": "she did that weird thing with the dead fox"
+            },
+            {
+                "reason": "reason",
+                "id": 6,
+                "text": "her cat was called Vinegar Tom"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "we\u2019re not actually necessarily looking for a weapon if he died from a fall"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "you\u2019de like to think they wouldn\u2019t say it was a fall if it was obviously a wound from a weapon"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "he\u2019she\u2019 the only that\u2019 is not accounted for"
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "it\u2019is interesting that here he\u2019 is giving the part of the property to Donna and to Joan"
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "we don\u2019t know that she stayed there"
+            },
+            {
+                "reason": "claim",
+                "id": 12,
+                "text": "this doubly confirms that the person at the ritual was Joan"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "29929": null,
+    "29800": null,
+    "29931": {
+        "argument_units": [
+            {
+                "reason": "conditional claim",
+                "id": 1,
+                "text": "if it was at the bottom, if he would have investigated it, and he would have seen of course, his footprint might be there"
+            },
+            {
+                "reason": "conditional claim",
+                "id": 2,
+                "text": "If we knew that that footprint was from the top with a match, or it would associate with someone in the pub, we knew the deputy never looked at the top, well they sort of hinted at it."
+            },
+            {
+                "reason": "conditional claim",
+                "id": 3,
+                "text": "If we knew somehow, if we knew this was from the top, we would say that the police officer was up there, and he''' accomplice."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "Well, if he'\u2019' pushed him over, I mean, the chap could have dropped it."
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "I think the barman'\u2019 dropped it, I don' think"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29788": null,
+    "29843": null,
+    "29853": null,
+    "29848": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "anyone who can prove they weren\u2019nt at the site of the crime is probably clear"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "it\u2019s not enough to simply exclude innocent victims"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "if it\u2019s one of the four then it\u2019s Chris"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "the police has established it\u2019s an accident"
+            },
+            {
+                "reason": "implication",
+                "id": 5,
+                "text": "that would be great for her"
+            },
+            {
+                "reason": "question",
+                "id": 6,
+                "text": "so then why would she hire the three of us to look at it again?"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "she\u2019s off the hook at the moment"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "it\u2019s either Chris or Carmen"
+            },
+            {
+                "reason": "premise",
+                "id": 9,
+                "text": "Sherry was at the house"
+            },
+            {
+                "reason": "conclusion",
+                "id": 10,
+                "text": "So it\u2019s not Sherry"
+            },
+            {
+                "reason": "premise",
+                "id": 11,
+                "text": "It\u2019s not Joan"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29824": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She'll sit in a chair by the roadside, curse people driving by."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "She spent 30 to \u0664\u0660 minutes with this woman burning herbs and chanting."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "She'is claiming someone from an evil corporation wants to sow the land near the Devil'\u2019Well with poison or something."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Joan Campbell is one of the beneficiaries of Nick Webster'\u2019testament."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Nick Webster is leaving \u0665,\u0660\u0660\u0660 to the Save Devil'\u2019Well Foundation."
+            },
+            {
+                "reason": "reason",
+                "id": 6,
+                "text": "So he'\u2019is in support of it?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "29792": null,
+    "29850": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "the authorities even bothered to look any further than the spot where the body was found"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "There was caution tape found on the rocks but nothing up at the top of cliff"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Somebody in a devil mask was really there"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "whoever it was pushed Nick off that cliff"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "The sheriff may not believe me but I must be making someone nervous"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "just like the ones Nick did before he died"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "The ground near the ledge didn' t look like it had been disturbed since Saturday night"
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "if the authorities had been there there' s no way they' d count out foul play"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "So I think it' s her"
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "he' s the only one that we can' t get an alibi for"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29840": {
+        "argument_units": [
+            {
+                "reason": "question",
+                "id": 1,
+                "text": "But why?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "And he can go where he likes and do what he likes without being questioned."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Just on my way out I took a peek into his car and noticed something that might be useful."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "She creates an alibi by going and making a big loud noise somewhere else."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "And he\u2019sthat\u2019sin fact wanting to him."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Well his means is that he\u2019she\u2019sa bloody police officer."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -5,
+                "target_id": -3,
+                "type": "support"
+            },
+            {
+                "source_id": -3,
+                "target_id": -5,
+                "type": "support"
+            }
+        ]
+    },
+    "29807": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "the letter, what was inside the bag, this mail, and which?"
+            },
+            {
+                "reason": "answer",
+                "id": 2,
+                "text": "The will."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "The only thing is, the boots are in the back of his car, not her car."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "But that one is Donna's car."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "he was pushed off, so he doesn't really need a means other than being there."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Now, I feel like I'\u2019 m ready to call it, for him."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Yeah, I think it was him."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29827": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She has got a ticket at  <i>three thirty-one</i> in the morning."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So she\u2019<i>\u2019</i>re a big suspect, this one."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Donna Goddard said she\u2019d been having a rough time that night, was preoccupied."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Donna Goddard said she\u2019d decided to go for a drive and clear her thoughts, but only got worse from there."
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "Andtalked to her about the night, that said she\u2019d been having a rough time that night, was preoccupied."
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "Now we\u2019re onto the policeman."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "29846": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Because I think she did it."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It\u2019s him and it\u2019s the lady that wrote us the letter."
+            },
+            {
+                "reason": "observation",
+                "id": 3,
+                "text": "It\u2019s at three thirty in the morning just before he died."
+            },
+            {
+                "reason": "observation",
+                "id": 4,
+                "text": "There\u2019s a guy in a devil mask outside grinning at them."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Joan knew this was going to happen or Donna or whomever the lady who got the ticket knew this was going to happen."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "She came to try to warn him or save him or whatever."
+            },
+            {
+                "reason": "suggestion",
+                "id": 7,
+                "text": "Can we read through Carmen\u2019s letter once more and see if we can pick anything up?"
+            },
+            {
+                "reason": "observation",
+                "id": 8,
+                "text": "This is Carmen writing to the investigator on her own headed paper now because she runs the place."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "29909": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "she would have kept the bar going, yeah, going forward."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "So what was with the codes?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "this is a letter from Thompson to Cherie"
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "Look guys, I think Suzanne in the beginning, inheritance and affair."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "if he gave actual notice of warning, of a timing, I think this one we can believe."
+            },
+            {
+                "reason": "conditional statement",
+                "id": 6,
+                "text": "So should she fail to survive me, or for any reason refuses bequest, I then advise for the remainder of this estate to her sister, Christina Eleanor Rohas, as the secondary [00;00;08]: [inaudible]."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "So it'\u2019're pretty conclusive that the wife has lost the bar."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "this is the letter from Cherie to Chris"
+            },
+            {
+                "reason": "conditional statement",
+                "id": 9,
+                "text": "if we think it'\u2019'\u2019 an affair, we think it'\u2019'\u2019 this, the deputy"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "27899": null,
+    "29810": {
+        "argument_units": [
+            {
+                "reason": "opinion",
+                "id": 1,
+                "text": "It would be strange that a year has one digit."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "The question is the date you can't forget."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "We've got newspaper article about the accident"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "We've got a poster relatedso there are lots of things related to that Devil'\u2019 Well development."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "So there is protection of the Devil'\u2019 Well."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "We have the files there with the suspects"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29884": null,
+    "29849": null,
+    "29834": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So I think the implication here is that Joan only owns one pair of shoes that she ever uses."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So they were on the same side."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So I think we definitely rule Joan out."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Donna got a ticket at the time of death, though."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Yeah, that is possible, to get a ticket."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29893": null,
+    "29920": null,
+    "29927": null,
+    "29915": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "This tells you when the protest was on."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So this is an alibi for Donna really?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Cherie, apparently was with her friend, so she apparently has an alibi."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "It was just for drinks."
+            },
+            {
+                "reason": "question",
+                "id": 5,
+                "text": "Do you want to pick a suspect, just from the list of suspects, or going to say it's Carmen?"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "F3 says he liked Donna."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Donna doesn't have an alibi, she was there at [time] and Chris was there at [time]."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "F2 can't see Donna's motive."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "F2 says Donna's motive is the inheritance thing, but it's not clear that she knew about it."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,412 @@
+[
+  {
+    "conversation_id": "29915",
+    "conversation_text": "F2: [2023/05/16 17:59:25 GMT+0000] Can I just, 'cause I'm out of the loop, what was this about, just to prove the cat story? What did this bring us? F3: So this is the time when Donna started the meeting, for example, you know? Not Donna, Joan, sorry, started the meeting. F2: This tells you when the protest was on. F1: The witch, yeah. F2: And so that gives her an alibi, 'cause she had a woman there at 3.30, and he was killed in that window. Okay. So this is an alibi for Donna really? F3: Yeah. Joan, Joan, Joan, it's Joan. F2: Joan, yeah. F3: Donna doesn't have an alibi, she was there at 3.30 and Chris was there at 3.30. Cherie, apparently was with her friend, so she apparently has an alibi. F2: I can't see Donna's motive. F1: Neither can I, did we miss something? F3: He liked Donna. F1: Yeah, I don't see Donna's motive, other than the inheritance thing, but it's not clear that she knew about it. F3: It was just for drinks. F1: Oh, yeah, of course, it [00:00:35]: was just drinks for Donna, it was Carmen. F3: Do you want to pick a suspect, just from the list of suspects, or going to say it's Carmen? F4: [00:00:45]: Up to you.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "this is the time when Donna started the meeting, for example"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "Not Donna"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "that gives her an alibi"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "she had a woman there at"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "he was killed in that window"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "Cherie, apparently was with her friend"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "she apparently has an alibi"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "Neither can I"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "did we miss something"
+        },
+        {
+          "reason": "States a position",
+          "id": 9,
+          "text": "other than the inheritance thing"
+        },
+        {
+          "reason": "States a position",
+          "id": 10,
+          "text": "not clear that she knew about it"
+        },
+        {
+          "reason": "States a position",
+          "id": 11,
+          "text": "It was just for drinks"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 4,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 7,
+          "type": "support"
+        },
+        {
+          "source_id": 10,
+          "target_id": 9,
+          "type": "attack"
+        },
+        {
+          "source_id": 11,
+          "target_id": 9,
+          "type": "attack"
+        },
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "attack"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "29927",
+    "conversation_text": "Part 95: F1: [2023/05/16 18:16:48 GMT+0000] Yeah, I don't think, I think it's fine. Who do you think it is? F3: So the thing is, something weird about the Donna, she was there. She was there one hour later, like after she left the bar. Right? F1: Yeah. F3: Can I get the letter? No, the letter from F2: Just to go back to Donna, the night Nick died, she said, she was'Having a rough time that night, was preoccupied with some work problems, and then I decided to go for a drive to try and clear my thoughts, but it only got worse for me.' That's probably why she got nicked. F3: What is itdoesn't F2: Then she says, 'When I asked her about the stuff at the bar, she got really [antsy?] [18:17:19], and said, we shouldn't talk here, and hustled me out of the house in a hurry.' So I think she was trying to help him and she legitimately, admits she was on the road, and legitimately got nicked. F3: She said she went out for a drive, right, after the bar? Okay. F2: Yeah, because she was feeling anxious. F3: Okay, and then she went back? F2: But I think she's F1: It might have just been on her way home though, or like [00:00:42]: she might have just been driving past it.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "after she left the bar"
+        },
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 1,
+          "text": "a rough time that night, was preoccupied with some work problems, and then I decided to go for a drive to try and clear my thoughts, but it only got worse for me"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 2,
+          "text": "probably why she got nicked"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "we shouldn't talk here"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "she was trying to help him"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "She said she went out for a drive, right, after the bar"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 6,
+          "text": "because she was feeling anxious"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "and then she went back"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "It might have just been on her way home"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        },
+        {
+          "source_id": 7,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 7,
+          "type": "attack"
+        },
+        {
+          "source_id": 4,
+          "target_id": 3,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "29920",
+    "conversation_text": "Part 87: F3: [2023/05/16 18:05:20 GMT+0000] And Chris also couldn't have been, because he was also giving away the ticket. F2: Yes. F3: So Chris and F2: So it's back to Cherie, all by herself. F3: Yeah, or [inaudible] [00:00:11]: like, yeah. F2: She was at someone's house, overnight, a friend's house that night, she's got no alibi. F3: Well, let's do this one, this is the last piece of, bit of F1: Why was she killing, to sell the pub and run off with Chris? F3: Yeah. F2: Well, yeah, but she might not have, Chris is a police officer, she might not have told him that bit. He dies, she's made it all spooky, and he'll marry her thinking she's not a murderer. F1: Yeah. She could not be involved. ThisI don't know. F3: Oh wait, it's not the same thing as that one? F1: It wasn't making sense. [00:00:42]: [voices overlap]. F1: How were you doing the letters Suzanne? So if you go F2: Well, I did it like this, and then I was just counting. F1: So 407, 407, right, back from four D. F2: How many would you go back? F1: So if we were doing four, the same pattern as before? F2: One, two, three, so that will be a Z. F1: Yeah, and then F3: Oh. F2: Another D would F1: D and then O, seven back from O. F2: Seven back from O? F1: [00:01:15]: Yeah.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "Chris also couldn't have been"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "he was also giving away the ticket"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "a friend's house that night"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "got no alibi"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "Chris is a police officer"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "she might not have told him that bit"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "made it all spooky"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "marry her thinking she's not a murderer"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 7,
+          "target_id": 6,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "29893",
+    "conversation_text": "Part 39: F2: [2023/05/16 16:53:28 GMT+0000] So that's either F1: Neighbour who found a body? F2: CR could either be F1: She's the only neighbour, Joan's the only neighbour, right? F2: So CR could be this pub, this, or, both of them have got CR, haven't they? F1: Mmm. F3: I would say the death was between 3:30 and 4:00 because collision between the cars, so maybe the cars were getting away, and I would say the death was somewhere here. So 3.30 is the CCTV right, so I would suspect F1: Okay. F2: So CR could be County Road, or it could be F1: It says CR66, so County Road 66 makes sense. F2: Yeah, yeah. F1 'To talk to neighbour who found body,' and Joan said she was the only neighbour, so Joan found the body. F3: Who's John, oh Joan. F1: The witch, Joan the witch. F3: Joan found the body? Wait, what? F1: So, 'I went to Country Road 66 to talk to neighbour who found body.' And she said F3: Yeah, so she was out for a walk right, yeah? F1: Aha. 55.27 F3: Oh wait, so [what the hell?] [00:01:24]:, so she did all this weird shit. F2: Yeah. F1: So it says, 'her house is nearest the property to Old Scratch, not much else nearby.' So it must be her. F3: Yeah, yeah, yeah. F1: [00:01:35]: There you go, yeah, good call.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "collision between the cars"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "the cars were getting away"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "CR could be County Road"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "County Road 66 makes sense"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "she was the only neighbour"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "Joan found the body"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "she was out for a walk right"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "her house is nearest the property to Old Scratch, not much else nearby"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "it must be her"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 7,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 1
+  },
+  {
+    "conversation_id": "29799",
+    "conversation_text": "Part 22 M1 [2023/05/12 19:04:52 GMT+0000]: It's three numbers, and it says, month, month. F2: Yeah, month, month, year. But, like F1: And none of the years worked? F2: it should be like something in-between 2000 and 2010. F1: All of them. F2: I tried five and seven with all of the months, because that's the year on the thing. M1: Have you tried 11, 4? F2: I don't think so. I'll try ityes. F1: Yes. M1: It was 11, 4?F2: Yeah. M1: Ah, nice. F1: Okay, ha ha ha. Oh, right, yeah okay, excellent. M1: What's that? F2: Is it divorce papers? F1: So, no, it's more motivation for Cherie. So, it's emails about, so it's about, I think them selling the bar to the developers. And in the profile she says that she couldn't possibly be reopening it and she will sell it. M1: Okay. F1: Yeah, okay, she totally hasso, will I just read it? F2: Yeah. M1: And this is another one? F2 [00:00:52]: Yeah, there's a will.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "it should be like something in-between 2000 and 2010"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "All of them"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "I tried five and seven with all of the months"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "the year on the thing"
+        },
+        {
+          "reason": "Disagrees with prior point",
+          "id": 4,
+          "text": "I don't think so"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "more motivation for Cherie"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "So, it's emails about, so it's about, I think them selling the bar to the developers"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "And this is another one"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "Yeah, there's a will"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 7,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  }
+]

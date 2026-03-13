@@ -1,0 +1,3236 @@
+{
+    "29832": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "And the policeman is now saying it was an accident."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Maybe they're both ruled out."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "We can rule her out because she was there making a noise."
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "So And then Sherry turns up at his house being loud and inappropriate, was going on for a couple of hours, and that started at 2:30."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 5,
+                "text": "Maybe she's making all that noise because he wasn't there, or whatever."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "attack"
+            }
+        ]
+    },
+    "29923": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So I think that's enough of an alibi. In fact, funnily enough, it covers her and the policeman, unless of course, they're [inaudible 02:11:17]?"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "I think it's Cherie. I think it's the wife."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Because she has got theif you went back on motive, who else has got a motive? No one else has got a motive, so it's her."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "Well no, but Chris, Chris's motive is related to her motive."
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "I agree he could be an assistant, but he hasn't got a motive in his own right."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "No, but it doesn't mean she's not [voices overlap] [00:00:35]:, I mean, like"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "He likes her, and that's a motive."
+            },
+            {
+                "reason": "opinion",
+                "id": 8,
+                "text": "I'm not saying, he isn't the orchestrator, he might be an accomplice, I'm not denying him as an accomplice, but"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 9,
+                "text": "Oh yeah, he might not be the orchestrator, yeah, but"
+            },
+            {
+                "reason": "opinion",
+                "id": 10,
+                "text": "Yeah, he couldn't have done it on his own, he's got no point of doing it on his own."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 11,
+                "text": "But he could have killed him, or he could have also done, yeah, but he could have killed him, he could have [00:00:53]: voices overlap."
+            },
+            {
+                "reason": "opinion",
+                "id": 12,
+                "text": "I think to do it on his own, it would have been hard, because he was working, he couldn't have been the devil mask to like get him to run into [18:12:09]: the forest."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "attack"
+            },
+            {
+                "source_id": 12,
+                "target_id": 11,
+                "type": "support"
+            }
+        ]
+    },
+    "29804": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Okay, so hang on, so I think that those shoes might be Joan's, because her address is 2 County Road, and you can see a 2."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "I think they're probably not useful."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Chris and Cherie both had a motive, because it seems like they were involved with each other."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29910": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think we can believe this, 'cause it was a real car. It was a real car, the other ones I don't think we can believe, 'cause there's no evidence, he could have just written them down."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So the Donna's one, yeah, and then, so this is the, I mean the early ones we can also believe, right? But the collision between the blue and the silver car at four, we don't know about?"
+            },
+            {
+                "reason": "support",
+                "id": 3,
+                "text": "Yeah, there's no evidence for that one."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Also because at 3.30, the bar-keep was still in the bar, so at 3.31 Chris could have been doing whatever, it's fine."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "I'd say with his boot, 'cause this is Chris's boot, these aren't work boots, he would have changed them, he must have had his car, to have changed his boots on the night, or [inaudible] [00:00:49]:, 'cause he didn't wear his police boots."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "No, you wouldn't kill for losing a cat, and it wasn't even him that killed the cat."
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "Like, I think the weird stuff was her getting revenge for the cat, but [00:01:04]: I don't think it's related to the murder."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29913": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "'Cause there is a possibility where Carmen got him to change the will and has benefitted?"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "I mean, it could be another matchbox, it could genuinely be another matchbox, but if she's got it, everybody could have had them, so that's not really, you can't pin someone on it."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Chris T has a motive, by the means of Cherie, because if he is in an affair with Cherie, then he'd want to help her, and he has the means. He was in that area."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29924": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "But the collision between the blue and the black car, he did book the driver, so that would have been in the records."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Well he could have killed, no, no, no, so like that just means that he didn't kill anyone at 04:01, he could have killed the guy between 30:30 and 04:01, like it's everything very close."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So the collision between blue and black car, 04:01, 03:30 CCTV camera, 03:31 Chris is at the location stopping Donna. So between 03:30 and 04:01"
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "I agree, that's his only window, he's got coverage."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "27906": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think we are wasting our time here."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "I know, I'll just finish this one for completeness."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "This is teaching us the code for that."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29912": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "And then he had, oh, I know, the shoe, the boot, with the picture, if it was a baddy, we know he had that, 'cause she gave it to him that night, he's dropped it when he attacked her."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "So we know that boot was, that I think says, that he was with her."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Why would the murder person have that?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29801": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Okay, so let's assume that this letter was sent by Cherie."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So, maybe that makes it easier to do theno?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "But that's okay because they live in the same house."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29885": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The Joan lady, does she had a motive, she doesn't like"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "She thinks the people in the pub are interlopers from Old Scratch bent on destroying life. That's probably her best motive."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "But it doesn't explain why, so this is just she doesn't like them."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "She has got a history of assault and trespassing, and she's divorced. I don't think that makes you a violent person, but she's unreliable."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 5,
+                "text": "Maybe but a potential alibi, Mia?"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "So there's a potential that there is an alibi if they were together, during the murder time or the murder happened before, and then she doesn't have an alibi."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Maybe. The other thing, if he was pushed over the ledge, interestingly, any of them are strong enough to push him over the ledge, but whether he would go on the ledge with a madeither of these actually."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29793": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She says, she took a peek in his car and noticed something that might be useful, but it doesn't"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Oh, that's the boots that match the footprint."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "Okay, this is not looking good for him."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29928": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think the police officer gives her an alibi."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "And she's quite anxious and says, we shouldn't talk here, so she knows something's afoot and dangerous."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "I think she's on his side, because of what's said here."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "the police officer gives her an alibi, then she gives the police officer an alibi, and that's him way right, so I still think Cherie."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "And we know it's not the cat woman, theyeah."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Called her office, and they said she'd left on a business trip, not sure when she's supposed to get back.' So this gives the hint that she's run away from something, but she might actually just be running away 'cause she's scared."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "I think it's Chris guy killed."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "Chris killed Nick Webster, because he has an affair with Nick Webster's wife, and because Nick Webster's wife wants to sell the property."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29825": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "Could this be? No, Sherry's his wife."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Who's Donna? Ah, no, this is somebody else that we could rule out."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "If you live on Carmichael Road, good luck if you want to sleep through the night; I didn't get a wink because of my inconsiderate hussy of a girlfriend because my neighbour's inconsiderate hussy of a girlfriend shows up at his house at all hours to be as disruptive as possible."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29934": {
+        "argument_units": [
+            {
+                "reason": "opinion",
+                "id": 1,
+                "text": "So I kind of think he didn't kill anyone. It kind of changes my mind."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "I don't think this is enough of an alibi to say that she actually did go away."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "She's a gym person, she's quite fit, she can run a lot."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "She's a perfectionist. I think if she's a perfectionist she would not trust her sloppy boyfriend in a murder, I think she did it all herself."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "She definitely has no plans to re-open Old Scratch, so she made that clear."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29908": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Oh, and now you're asking, when did, what F1: I leave the remainder of my estate, including Old Scratch Tavern and all associated assets, plus my retirement account and the life insurance policy."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "When did he sign that?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So it makes no sense for Cherie to do it, because she gets nothing."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "She doesn't know though."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "'Cause if she did know, then that makes our Carmen the lead suspect now."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29802": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Okay, so maybe the code implies that he did find the letter."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "I'm just thinking, what can the code repeats mean, unless it just means that he's seen that there's, like, more letters."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "But it could, it looks like a Y."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29917": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I don't think it's Carmen."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "No, because intimidation's been happening, although you could put the intimidation to the witch's anyway, because they heard about the sale, and didn't realise it was him, and thought it was his wife."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So okay, we're assuming we trust Cherie's alibi, she couldn't kill, and there's nothing placing her at the place, of the location of the murder, right?"
+            },
+            {
+                "reason": "counter-claim",
+                "id": 4,
+                "text": "Cherie, well she said she was at a friend's house, but I've not seen any evidence that would confirm that. So, I think we need to say we don't know where she was."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 5,
+                "text": "But, was there evidence saying that she was at the area? Also, not."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "I don't think so, unless she was involved in one of the car accidents?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "attack"
+            }
+        ]
+    },
+    "29865": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Doreen Norville seems like she knows what's up."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "Looking at Ella."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So I wound up going by myself, and it was totally bonkers."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "We spent like, 30 or 40 minutes burning herbs and chanting."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Yeah, exactly."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "So she was there."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Yeah, so, 'Out by Devil's Well tonight,' and this is the 6th, so it went out on [inaudible] [00:01:23]: morning, so this is, the man died when this was going on."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "29838": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think we need to make aI think it's Chris, or Sherry. I don't think it's Donna or Joan, we've got them ruled out."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Joan's got a motive, Joan's got an alibi. And so has Donna, she was trying to save him."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "But we cannot say it [00:01:15]: [can?] be Sherry, because Sherry was in the back yard making a scene."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29935": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "And when I brought up the possibility of foul play, she absolutely refused to consider it.' Well, you think a wife would have said, oh, I want to know what's happened to my husband."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "It's almost like an insurance policy coming through story isn't it?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "She did all this to make him less believable and then killed him."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29914": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So I think if somebody killed the guy, it's probably going to be another guy, right, like he's stronger?"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "He could have been chasing the witch. The witch takes his mask off and pushes him over the ledge."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "could it have been the deputy turns up at 3.30 and then does all the spooky things"
+            },
+            {
+                "reason": "counter-claim",
+                "id": 4,
+                "text": "I honestly don't think, like it's not Joan definitely, because she was with Mia for the most of it, so this is the time of death, and this is when Mia's last comments, when Mia came back, and that's probably the time where she was going back."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 5,
+                "text": "Well, I think no, why would he go and talk to someone on a ledge at the top of a why was he up there?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            }
+        ]
+    },
+    "29830": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "Well, how do we know?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "That's Nick's notes."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "I think we can rule out Sherry Webster."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "She had a motive, but she has an alibi."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "if people have alibi you can pretty much clear them."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "No, I think they're from whatshisname."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29900": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So she wasn't home, that's odd."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "When I brought up the possibility of foul play, she absolutely refused to consider it."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "Nick had been behaving so strangely, seeing things that weren't there, drinking too much, I'm sure he didn't even realise what he was doing."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Her motive is that she gets the pub, and maybe anything he owns, so inheritance might, she has to still be a suspect on the wife, inheritance angle."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "But what's Chris Thompson's motive?"
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "Oh, she's staying at a friend's, she could be having an affair."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 7,
+                "text": "With, yeah, but not with the police detective."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "And, they said, everything is verifiable, right? So we need to confirm that she actually was, 'cause that could be a lie."
+            },
+            {
+                "reason": "opinion",
+                "id": 9,
+                "text": "But I would say, probably, I had thought she was having an affair with the deputy, but he was working that night, so I don't think it's him."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 10,
+                "text": "Unless it was the sheriff."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "attack"
+            },
+            {
+                "source_id": 9,
+                "target_id": 6,
+                "type": "attack"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "attack"
+            }
+        ]
+    },
+    "29797": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "But, like, there's multiple decades, because people are born in different decades, and this isn't a different decade, so which year is it?"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Well, if it's month, month, yeah, the first number is either a zero or a one."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So, actually, maybe that means it is something in the 2000s, if there's only one digit for the year."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29799": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "it should be like something in-between 2000 and 2010."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "Have you tried 11, 4?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So, no, it's more motivation for Cherie. So, it's emails about, so it's about, I think them selling the bar to the developers."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29901": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Yes, so what is, does Chris have an alibi?"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "He talked to an awful lot of people in that time. I would say he's the least likely to"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Donna stopped by Chris at 3:31, I think. Four oh one, collision between the body was found. So maybe here, so he could have done things between but"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "But I think, you're right, I think we're going to have to collaborate and corroborate, because saying he saw a car stop, would be a good alibi, if we didn't double check it, he could have just put that in."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "What do they mean by means. Like, it's not like he was killed with a fucking knife, right?"
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "I reckon that's the easiest one, because anyone can push someone over a cliff."
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "If you're strangling, that's requires a certain amount of strength, but yeah, it's true."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "Yeah, exactly, you already have means right?"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 9,
+                "text": "Except possibly the, is the witch old? I mean, someone who's really frail and old, if you went up against a man, would"
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "She's not that old."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "attack"
+            }
+        ]
+    },
+    "29942": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She broke the news that she doesn't have plans to open Old Scratch."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "I don't know how I could bear it, not when there's a memory of poor Nicky round every corner."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "But we don't know if she wants that."
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "I think there's a clue, for some reason, I don't know, but they've given her maiden name Houser."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29876": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "But she didn't burn it, and she put out some fire."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So somebody started the fire, and then they came and used the ashes to cover the fox."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "But I think they've set a fire to get him to chase them, I think it might have been a ploy to get him to follow them into the woods."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "I can't help wondering what he would have told me if he'd had the chance."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "I even found proof that the devil was real, finally caught on camera"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "That is locking up time."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Three, thirtyand the noise was at 2.30am."
+            },
+            {
+                "reason": "opinion",
+                "id": 8,
+                "text": "Well maybe that was, yeah, maybe that was the noise that Mia heard when she was in the woods. Remember, because Mia heard?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29930": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So that's them running into the forest. She might then have met him and said, 'oh let's go and have a look at the waterfall, for old time's sake, for romance,' and she went upwhy did he go up to the waterfall when he's had all this threats that someone's going to be thrown down."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Cherie is the devil, and she ran away, she just lured"
+            },
+            {
+                "reason": "counter-claim",
+                "id": 3,
+                "text": "But then he's like, why? He finds his wife. Why are you there, right?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29892": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Or Mia's lying of course, but potentially."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "I think it's true, because she, at 2.30 maybe the noise in the bar, the chap didn't leave the bar until 3.30, they went to the foxes, he'd gone by then because otherwise he would have come out."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Well they were together chanting, right?"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "For probably about an hour."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "And then by the time they were done, he was already gone because the fire had been put out"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "So they could have been together, that's"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 7,
+                "text": "But it's not a 100 per cent right."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "No, but they were together up until they left the fox and the fire was already put out, so yeah."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "attack"
+            }
+        ]
+    },
+    "29809": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "How, yeah, that is the only thing is, because it says specifically that he died from a fall."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "So, it seems like the how has been answered."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Also, the fact that, so he's in the hiking club, so he knows, probably, the countryside around the place quite well."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "Who is not really happy in her marriage."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "And she wants to sell the bar, and get out."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "And also, it does, and also, it kind of explains why the Sheriff's office is dismissing the case, because he works there."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "He's the deputy, isn't he?"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "And, yeah, the motive is because he is cheating, he's having an affair with Cherie."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "27713": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The death of Old Scratch tavern owner, Nicholas Webster has been re-classified as a murder according to official paperwork filed this week."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "He has no alibi."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "No, but she at least has been spotted."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "27717": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "But that's still, like, they're still saying that he's suspended without pay, so he's definitely"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "Yeah, so he colluded."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Yes, but he's not the murderer."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "No, it's her."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 5,
+                "text": "We don't know where he was."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "The only thing that indicates it, is that there is evidence pointing to him, rather than her."
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "He's not an innocent man, but I don't understand how, like"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 8,
+                "text": "But in the end, we say the name based on a guess, not based on having the"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "attack"
+            }
+        ]
+    },
+    "29891": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Guys, this is weird, Donna left the bar one hour before the closing."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "But I mean, so this could have been after the bar was already closing, right, because it's just staff in the staffroom"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "if Donna left at 3.30, she was like, driving and she just left."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29805": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "This is probably a seven."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "No, ermokay."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "This is probably going to be, 407, 407, 407, 407"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "Unless it is 131."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Can't wait to see you, mind if I borrow the car."
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "I mean, we're pretty sure it's him."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 7,
+                "text": "it's suspicious but we don't have the means."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "attack"
+            }
+        ]
+    },
+    "29841": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Donna Marie Goddard, in recon-,I provide that she shall receive free drinks."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "Oh, my God, I've just got chills."
+            },
+            {
+                "reason": "background",
+                "id": 3,
+                "text": "Let me give you a little background, I learned everything I know from my bartending boss, Nick [00:00:56]]: [Webster?], he taught me how to pull a perfect pint. He even helped me arrange my work schedule so I could be home more when my sister was sick last year."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "He's leaving everything to her. It was her."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Carmen, as thanks for a steadfast service, I leave the remainder of my estate including the Old Scratch Tavern and all associated assets the balance of my entire [00:00:25]: [account?] and a payout of life insurance. Should she fail to survive me, the remainder of her estate goes to her sister."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29784": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Because if he died on the 7th, and the photo shows that he was still at the bar, I think it's at, like, half three, the person who attended that in the woods, apparently is back, and updating at, like, four a.m., and had heard him running past before."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So, I don't know if the timings work out, but I don't know how we can sort of, like, check that."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So, this seems like Joan. So, it's not explicit, but it looks like she's the person who organised this."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "And then in the suspect one, it says that Joan believes she's casting hexes on people."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29883": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "She was the last person to leave the bar before the staff, so she might have hung around."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "She left a matchbox, so she wanted to talk to her. I'm not convinced, unless it was a trap."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So I think there's going to be something in her house that's going to be useful, but I still don't think she's the murderer. But I'm keeping it open."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29898": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "'Last person at the bar the night Nick died, left maybe an hour before closing time, which is late for her.'"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "So she left the pub at 2:30, but yet she was in the car at 3:30 without her lights on?"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "She could be the devil that's taunting him, although that's weird, but maybe."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29919": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "But maybe that's to disprove it's her. Maybe it's to prove it wasn't her boot and it was his boot. So it proves that it's not her."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "I think it's just not Joan, I think it's"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "These are men's boots, right?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29782": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "So, we've got motive. I can't spell, opportunity. How many Ps are in opportunity?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So, if this person, Mia Rumer, is telling the truth, then it probably, it seems like there's an alibi for that crazy rich woman, but I don't know if that's the case."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "So, it looks like she has motive, but it doesn't look like she had the opportunity to do it."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29933": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She might have driven back to the place, right? If she borrowed the car, that means she wanted to have the car for like, a reason, right? So she might have driven back."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "No wait, I mean, he could have added the boots later. There's no date. He could have added the boots in the car later, right, you know what I mean, when the photo was taken?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So this kind of indicates that she might have wanted to go back to, like she was staying with her friends, but she didn't really stay the whole night."
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "I think she wanted to get out of the small town. I think she's polished, and I think she was taking everybody for a ride. I think once she got that thing sold, she [inaudible] [00:01:29]: Mercedes."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "27799": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Okay. So literally not a lot from this article about his death, other than the sheriff's office are just basically not interested, and it was they're ruling it an accident."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "If everyone else thinks he's been killed."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "He was the love of my life. Erm, and soin July he'd reported burglaries, and a series of fires, and then he called the police ten times between the 1st of September and the 7th of December."
+            },
+            {
+                "reason": "question",
+                "id": 4,
+                "text": "When did he die? Where's the police report? Have we got one?"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "He made ten complaints to the sheriff's office between the 1st of September and the 7th of December."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "So there was a lot of incidents leading up to that."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29911": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "And I think they used her wackiness to intimidate him, and then think it was her, and it was them."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "I don't think she was the devil, though, like I think someone else was trying to make it seem like he was going crazy."
+            },
+            {
+                "reason": "agreement",
+                "id": 3,
+                "text": "No, I think someone else was, yeah, I agree."
+            },
+            {
+                "reason": "hypothesis",
+                "id": 4,
+                "text": "So he might have gone to her for some help and advice?"
+            },
+            {
+                "reason": "hypothesis",
+                "id": 5,
+                "text": "Maybe she found out, because she's a Real Estate agent, maybe she found out there was someone selling it, and wanted to tell him?"
+            },
+            {
+                "reason": "evaluation",
+                "id": 6,
+                "text": "Said, phone me, and we'll talk about it. So, at the moment, she still looks like an ally, rather than, I thought an Estate Agent was a baddy, but I'm not sure"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29842": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I have intentionally omitted in this will to provide for my spouse."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It'slisten, it's either down to Chris Thompson, who's too obvious, maybe."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "She [did?] and she gets nothing. She's got no"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29820": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think Donna did it, but [00:01:04]: [inaudible]"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "It was like a second home to her."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "However, everyone there could see what a special [15:32:50]: [place that they've made?]. Looked like she'd been crying [00:01:18]: [a lot?]."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29864": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "'We think this could greatly enrich our town,' said Lynch, 'But of course, if everyone is against it, the deal won't go forward.'"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So I don't think he's the one that's benefitting particularly, except he might have bribes, but yeah, he's sort of"
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "I think, just because, he was killed here, it might be a way to like, discourage the sale of the land, and make it worth less, if there had been"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "27855": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Collision between the black and the blue car at 4.01, which is right in the middle of the time of death."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "Collision of the blue and black car was DUI as well, right."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "There was a silver Lincoln tailed at C30 so that's within the time of death."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Donna has a Lincoln and"
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "On lights out, oh her light were out, on that road and"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "So she was just leaving so that's like three, so this is 3:29 or whatever, that was when Donna was leaving the place. And that's like, a few minutes later, CCTV."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29787": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Well, it sounds like she knows some kind of secret."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "So, maybe she was planning"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "No, she left the note, I think. Yeah, so, she left a note on her menu, and the matchbox on the counter for Nick, but he never got the chance to see it."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "So, maybe multiple people were threatening him, and she knows about a different one?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29794": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "But maybe he was there, I can't remember what it says."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Oh, interesting. Okay, so that could definitely be, like, fake, right?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "He wasn't seen, yeah."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "So, we don't actually know where he was at the time."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Hmm, sounds fake."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "But is Chris' girlfriend actually Cherie, maybe."
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "Like, he seems trying, like, I don't know, he seems too happy to say that it wasn't murder."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "Because this woman doesn't say that she saw him at any point."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29925": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think Donna is in on this. I think Donna's in on this."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "Why?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Because the thing is, she is a Real Estate person, somebody needed to put, so connect Cherie and the people buying things."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "Donna left the bar one hour before the closing time, and we suppose the closing time is somewhere around 03:30, because they talked about 03:30, that was the closing time, that's what Carmen said."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "And Donna left at 02:30, as we said, supposedly, but she was there at 03:31, so she might have been there to create an alibi for Chris."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "She was there to create an alibi for Chris, and maybe they wanted, all three, to sell it, and then to split the money."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29789": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So, but that could be that she, like if she felt like she had to warn him about something, and then he got murdered, that she was like, I'm not going back."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "I feel like Chris and Cherie are now looking the most suspicious."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Yeah, Donna is probably clear because of the 3.30 parking thing."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29790": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So, it sounds like he really did not want that letter to be found."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So, I just noticed something weird. So, the police officers says that they, when they went to Cherie, they made sure that she called her mother, to get her mother to come down and stay with her, so she wouldn't be alone. But, here, she hasn't called her mother, and instead, this guy is there. It's very suspicious."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "F1: Yeah. So, yeah, she's his wife. The police officer broke the news and told her, and they know she did it."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Cherie says that she was staying at a friend's house the night Nick died, so she could be the one that was at Chris' house."
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "F1: Yeah, so that also means that there's some kind of motive involved, possibly."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "F2: And she also denies that it was a murder."
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "F1: Convenient."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "29881": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "some evil corporation from Indianapolis wants to sow the land near Devil's Well with poison or something."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Ah, but she might be right, there might be a corporation wants to buy it, and she's just got, because she kind of sees the evil in everything, sees evil."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "'It sounds pretty out there to me, but I've heard stranger things I guess."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "She's bonkers."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "'Then she threatened to shoot me if I don't get off her property, so I left.' But said, Old Scratch bent on destroying life, so she obviously thinks Nick and the bar are doing something bad."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29811": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Like, we're not actually necessarily looking for a weapon, if he died from a fall."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "And like, you'd like to think they wouldn't say it was a fall if it was obviously, like, a wound from a weapon."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 3,
+                "text": "But he just fell over, you know, straight onto the bullets."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "she went to his house to cover for him to make it seem like they were both in."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 5,
+                "text": "he wasn't actually there."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "she had to let herself in, instead of, like, just ringing the doorbell or whatever."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "here he's giving the, I mean, he knew was the culprit of this stuff. And in the last will, he's been giving part of the property to Donna, and to Joan."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 8,
+                "text": "We don't know that she stayed there."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "this also, like, doubly confirms that the person at the ritual was Joan, because she did that weird thing with the dead fox, she was like, this is for Vinegar Tom, and her cat was called Vinegar Tom."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "attack"
+            }
+        ]
+    },
+    "29929": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Men do crazy shit, if they are, and people do crazy shit, if they have the right motivation, just that's the motivation for men."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Do you guys think it's just Cherie who killed and Chris is innocent?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "He couldn't have been the devil in the shot because he's nicking someone, so it's her. She runs into the forest and he follows."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29800": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So F1: So, yeah, his best friend, his, like, best employee, and an apology to that crazy woman."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "F1: So, like, I think, yeah, she was going behind his back to say that they were going to sell, which means that she knew he was going to be killed, I think."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "F1: So, this email is basically her saying that they're going to sell, which he says they're not."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29931": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Now, that's interesting me, because they said they never investigated the top."
+            },
+            {
+                "reason": "counter-claim",
+                "id": 2,
+                "text": "If we knew somehow, if we knew this was from the top, we would say that the police officer was up there, and he's an accomplice."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Well, if he'd pushed him over, I mean, the chap could have dropped it. I think the barman's dropped it, I don't think he"
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "I would agree with you, yeah, and then"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "'Cause if it was at the bottom, if he would have investigated it, and he would have seen of course, his footprint might be there."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29788": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "So, she can't have been driving the car, if she's pictured in the bar, at the same time."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So, Donna was stopped by police at 3.31a.m."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "We have, like the last sighting is at 3.33, and then it's found at half six, so there's, like, three hours."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "attack"
+            }
+        ]
+    },
+    "29843": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "Oh, were they having an affair?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "And so we think, as a majority, that it was Carmen."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Because she was at the bar, she knew his movements, so everybody else is under suspicion apart from her."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "attack"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29853": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "We did at one point think it was her, didn't we?"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "What's the financial gain? Because she didn't get the place."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Sherry is innocent."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29848": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Anyone who can prove they weren't at the site of the crime is probably clear, but it's not enough to simply exclude innocent victims."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So then why would she hire the three of us to look at it again?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "It's either Chris or Carmen."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "Not Sherry. And not Joan."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 5,
+                "text": "To truly crack this case, you'll need to work out the real criminal and why."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "If the police has established it's an accident, that would be great for her."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29824": {
+        "argument_units": [
+            {
+                "reason": "opinion",
+                "id": 1,
+                "text": "She's claiming someone from an evil corporation wants to sow the land near the Devil's Well with poison or something."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "She said Nick has got what he deserved."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "I think we rule her out."
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "Oh, well, that's motive."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Joan Campbell is eccentric, to put it mildly. She'll sit in a chair by the roadside, curse people driving by."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Joan Campbell is one of the beneficiaries of Nick Webster's testament."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "29792": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "This one, I don't think we do know."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "But this one, we do?"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "He has two cars. But one of them is a Toyota."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "I think that's supposed to be like the crime scene, but I'm not sure."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 5,
+                "text": "Well, that might be a different one, that might just have been found, whereas this one, we think was left by Donna."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "But it might be that he dropped that one himself. Because that's his box, and this was the one from her."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "He has a Toyota."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29850": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Somebody in a devil mask was really there Somebody in a devil mask really was there that night, and whoever pushed itwhoever it was pushed Nick off that cliff."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "I know I'm close."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So I think it's her."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29840": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "And like it's both of them there. But actually he's bloody pushed him off a cliff."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "And soand she's definitely like, oh, we need to get rid of him, to Chris. But then she creates an alibi. And he does it. She creates an alibi by going and making a big loud noise somewhere else."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Well, his means is thathe's a bloody police officer. And he can go where he likes and do what he likes without being questioned. I think that's what's happened, because this could go on."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "attack"
+            }
+        ]
+    },
+    "29807": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Now, I feel like I'm ready to call it, for him."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "The only thing is, the boots are in the back of his car, not her car. Like, there doesn't seem to be anything about her car, does there?"
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "Yeah, this might just be random extra stuff earlier in the night."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "I think it was him."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29827": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "No, there's three women. Sherry Webster, the wife."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Joan Campbell, the nutter. Or you are not allowed to say that. Joan Campbell, she's got issues."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "She's her."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "talked to her about the night, that said she'd been having a rough time that night, was preoccupied."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "Then she said she'd decided to go for a drive and clear her thoughts, but only got worse from there."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Do you think that we're doing really bad, or okay?"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Donna Goddard. This is getting too [00:00:27]: [inaudible]. Donna Goddard. Donna Goddard, what [00:00:38]: [did she?]."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "She's a big suspect, this one."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "29846": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "F1: Could we? Before we make our declaration, can we read through Carmen's letter once more and see if we can pick anything up?"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "M1: Sure."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "F1: Because I think she did it."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29909": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "'Cause she didn't want to sell, she would have kept the bar going, yeah, going forward."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "So it's pretty conclusive that the wife has lost the bar."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "if he gave actual notice of warning, of a timing, I think this one we can believe."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "27899": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "October 13th, rock through back window."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "October 19th, two fires in one night."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "First of September, there was a fire in the bar, and in July there were petty burglaries."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "And in November, he emailed to Webster directly, and he cited all those emails, that's how Webster learned"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Oh, and then, 23rd November, 'What is she thinking, why would she go behind my back like that?' So he found out."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29810": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "It would be strange that a year has one digit. That's very strange."
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "Shall I just skim this and see if there's anything in it, instead of keep reading everything out?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So it's all related to the Devil's Well thing."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29884": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "There's like registration numbers and stuff on all of these, but we'll see."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "'When I pressed him for info he told me the details aren't being made available to the public, said Nick's death was tragic, but accidents just happen sometimes.'"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Yeah, right."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "So he's made a lie, there, which is quite significant."
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "He has maybe had a drink or two. It's saying the level is at tipsy, but not seriously impaired."
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "Yeah, but I think I would sue someone if I'd had a tipsy, and they accused me of that. I think you could sue someone, they're hinting that, but yes, I agree, it's not a total"
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "Right, 'Went to high school with my sister, she said he was popular but had a reputation as a ladies man. Very outdoorsy, always hunting or fishing, whatever's in season.'"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29849": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "She didn't do it."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "she would have hired better investigators"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "If that's a really good board game that's an amazing twist."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "it is him. Right?"
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "We think it's that one."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "If it's Carmen, it wouldn't make sense that she hires us."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29834": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "That's a woman's shoe. That's one of the suspects live at something that ends in a number two for an address."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Donna got a ticket at the time of death, though."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Yeah, so two County Road. So I think the implication here is that Joan only owns one pair of shoes that she ever uses. And so therefore it shouldn't be her."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            }
+        ]
+    },
+    "29893": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So CR could be County Road, or it could be"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "It says CR66, so County Road 66 makes sense."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "So, 'I went to Country Road 66 to talk to neighbour who found body.' And she said"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29920": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "So it's back to Cherie, all by herself."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "She was at someone's house, overnight, a friend's house that night, she's got no alibi."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "She could not be involved. ThisI don't know."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29927": {
+        "argument_units": [
+            {
+                "reason": "opinion",
+                "id": 1,
+                "text": "Yeah, I don't think, I think it's fine."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So the thing is, something weird about the Donna, she was there. She was there one hour later, like after she left the bar."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "That's probably why she got nicked."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "When I asked her about the stuff at the bar, she got really [antsy?] [18:17:19], and said, we shouldn't talk here, and hustled me out of the house in a hurry."
+            },
+            {
+                "reason": "opinion",
+                "id": 5,
+                "text": "It might have just been on her way home though, or like [00:00:42]: she might have just been driving past it."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "attack"
+            }
+        ]
+    },
+    "29915": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "I can't see Donna's motive."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "Neither can I, did we miss something?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "He liked Donna."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 4,
+                "text": "Yeah, I don't see Donna's motive, other than the inheritance thing, but it's not clear that she knew about it."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "attack"
+            }
+        ]
+    }
+}

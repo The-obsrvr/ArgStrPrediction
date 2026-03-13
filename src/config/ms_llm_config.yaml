@@ -1,0 +1,30 @@
+# run config
+experiment:
+  name: "ms_llm"
+  seed: 42
+  log_level: "INFO"
+  data_path: ""
+  debug_llm_io: true
+
+model:
+  do_fine_tuning: false
+  save_model_path: ""
+  args_model_name_or_path: "unsloth/gpt-oss-20b-bnb-4bit"
+  rels_model_name_or_path: "unsloth/gpt-oss-20b-bnb-4bit"
+
+#finetuning:
+#  DATA_PATH: ""
+#  epochs: 10
+#  batch_size: 32
+#  learning_rate: 0.001
+
+inference:
+  data_path: ""
+  context_examples_path: ""
+  num_context_examples: 3
+  max_attempts: 2
+  max_tokens: 4096
+  temperature: 0.1
+  repetition_penalty: 1.0
+  repeat_instructions: false
+

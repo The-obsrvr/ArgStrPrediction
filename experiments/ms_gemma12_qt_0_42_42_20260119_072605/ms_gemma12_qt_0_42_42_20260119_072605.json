@@ -1,0 +1,4230 @@
+{
+    "23695": null,
+    "19767": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "Both the vulnerable children and the children of frontline can go to school as we did in the first lockdown"
+            },
+            {
+                "reason": "observation",
+                "id": 2,
+                "text": "Israel this week is debating another lockdown and the closure of schools"
+            },
+            {
+                "reason": "observation",
+                "id": 3,
+                "text": "This is happening all around the world"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "Were having to cope with this virus"
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "We have this new variant which, clearly, is spiking, not just in London and the southeast but actually in the Midlands, were seeing it in the rest of the country"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "My job is to make sure that the NHS plan for vaccinations is delivered so that by the middle of February, those first four categories, the most vulnerable four categories, by the way, if you get through the 9 categories, we have essentially dealt with 99 percent of deaths"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "18977": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I would keep the -- I would say upswing in general care and etiquette that we have now understanding that we're in a pandemic."
+            },
+            {
+                "reason": "elaboration",
+                "id": 2,
+                "text": "Understanding that people have been endangered."
+            },
+            {
+                "reason": "evidence",
+                "id": 3,
+                "text": "If I look at the programme of getting food parcels to our most vulnerable as part of brought an am in of departments together."
+            },
+            {
+                "reason": "evidence",
+                "id": 4,
+                "text": "Or the way we have been able to support the homeless through this crisis, get people off the streets."
+            },
+            {
+                "reason": "elaboration",
+                "id": 5,
+                "text": "I felt that person to person has been a bit more sensitivity and attentiveness in how we check on each other and protect each other, especially from some of the on line behaviours that might affect our emotional and mental well being."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "The Government acted with speed across departments."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "We saw the Government acting in a very different way to perhaps the traditional model done by departments."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "There is a lot that comes from a pandemic where people come together with a common cause, act much more quickly."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "Government can operate coming out of the pandemic where we can move much more quickly and be more data driven."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "25424": null,
+    "23576": null,
+    "26068": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "People in my constituency, myself, many others, across the United Kingdom have friends and family in Scotland."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "We remember how divisive the last referendum was."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Then we saw the Brexit referendum with all the division that brought."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "I think people want a period of healing."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "They want the whole country to be working together."
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "Thats certainly where Keir Starmer is focused."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Because if he is prime minister, as I hope he will be, he wants to be prime minister of the whole of the United Kingdom."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "I think thats how well tackle these major issues like child poverty, like aspiration and like prosperity to make sure that reaches all parts of our nation."
+            },
+            {
+                "reason": "premise",
+                "id": 9,
+                "text": "I was in a health service where people came from all over the world and the great science being done in the UK is international."
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "My father, ... was born in Glasgow, my mother in London, my wifes family came from Aberdeen, Edinburgh, Manchester and the south of England."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "23627": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "We will never have a machine that will make a bed in a hotel."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "Are you classing that as unskilled?"
+            },
+            {
+                "reason": "question",
+                "id": 3,
+                "text": "Are you classing people who pick strawberries and broccoli as unskilled?"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "They are skilled jobs and they are important jobs."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "The care sector is important."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Higher skills and higher wages"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "The same is happening across all sectors of the economy."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "they\u2019re putting new capital to work for more machinery that can do everything from videoing how the..."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "You have got to work with industry to take us on that journey and not to go straight to, you know, the cheap labour that we gorged on because of uncontrolled migration."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 10,
+                "text": "It wasn\u2019t cheap labour."
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "You\u2019re paying seasonal workers fifteen an hour at the moment."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "21569": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "We have been vaccinating care workers for six months now."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "There are issues for some people."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "We have vaccinated a high percentage but there are still those who are hesitate talent."
+            },
+            {
+                "reason": "proposal",
+                "id": 4,
+                "text": "the strategy that is going to be most successful."
+            },
+            {
+                "reason": "concern",
+                "id": 5,
+                "text": "I do also understand why ministers are worried that you would have people in those settings."
+            },
+            {
+                "reason": "proposal",
+                "id": 6,
+                "text": "you can look at other strategies around testing."
+            },
+            {
+                "reason": "issue",
+                "id": 7,
+                "text": "The other thing I raised in Parliament yesterday was the issue about people in domiciliary care."
+            },
+            {
+                "reason": "plan",
+                "id": 8,
+                "text": "The government is going to consult on that."
+            },
+            {
+                "reason": "observation",
+                "id": 9,
+                "text": "At the moment we talked about people in a care home but there are millions across the country who have someone coming into their own home and going to other people'\u6a9a homes."
+            },
+            {
+                "reason": "stance",
+                "id": 10,
+                "text": "I think this is very mixed and I have -- I'\u043c in two minds about what the right answer is, actually."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "17921": {
+        "argument_units": [
+            {
+                "reason": "proposal",
+                "id": 1,
+                "text": "Why not use those facilities and give of a different kind of education?"
+            },
+            {
+                "reason": "example",
+                "id": 2,
+                "text": "What I am seeing in Danish schools, yesterday I just saw a report, children were getting sailing education in the sea."
+            },
+            {
+                "reason": "proposal",
+                "id": 3,
+                "text": "it can only be done by local authorities"
+            },
+            {
+                "reason": "stance",
+                "id": 4,
+                "text": "That's another reason why I think the government needs to have much more consultation with the four nations of this country, with local authorities, with cities to make sure this can happen in a smooth way"
+            },
+            {
+                "reason": "advice",
+                "id": 5,
+                "text": "and I would really advise to take the heat out of this because nothing good comes from this row that we have seen over the last week."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "19310": null,
+    "19219": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "The expert body who advises on this has published its interim recommendations a few weeks ago."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Then it will publish the final recommendations when we get the final data about the vaccine"
+            },
+            {
+                "reason": "condition",
+                "id": 3,
+                "text": "should it be both effective and safe."
+            },
+            {
+                "reason": "question",
+                "id": 4,
+                "text": "Does that mean the government is going to buy up all the doses so people wont be able to go to a private doctor and say Id like that."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "The deals those who develop the vaccine have done has been with government."
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "We have bought on behalf of the whole UK population, then we intend to roll out according to clinical priority."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Well get more than fifty percent."
+            },
+            {
+                "reason": "stance",
+                "id": 8,
+                "text": "Idont think thats going to be possible."
+            },
+            {
+                "reason": "stance",
+                "id": 9,
+                "text": "Idont foresee this."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "18322": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "In some cases in some countries they put them into quarantine, special places or quarantine within care homes."
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "Is there anything we could have learned from that reasonably or is Alex right, this is the best we could have done in the circumstances?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "It is not exactly clear. I mean, obviously what has happened with COVID-19 and care homes has been an absolute tragedy, but the reasons for that are not quite as clear-cut as sometimes people are assuming."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "There were other countries before us grappling with this. They admitted people from hospitals back into care homes."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "So we hear people say, 'Oh, it is because everyone was sent out of hospital', but actually when you look at the data, it is not totally clear that that was something that has created this challenge, in fact."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "23972": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "in many of the poor areas that is where you will see the chicken and poor food shops"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "It is will planning"
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "it is a small step forward"
+            },
+            {
+                "reason": "stance",
+                "id": 4,
+                "text": "it needs to apply to all platforms"
+            },
+            {
+                "reason": "concern",
+                "id": 5,
+                "text": "deeply concerned about what is being pushed on places like TikTok and other places as well"
+            },
+            {
+                "reason": "acknowledgment",
+                "id": 6,
+                "text": "There are anomalies"
+            },
+            {
+                "reason": "stance",
+                "id": 7,
+                "text": "It needs to be in the context of the overall food strategy"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "junk food can be cheaper"
+            },
+            {
+                "reason": "observation",
+                "id": 9,
+                "text": "you won\u2019t be able to advertise you know a burger from a well known burger merchant after nine but you could advertise a ready meal that has more fat"
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "junk food can fills you up quicker"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "23573": null,
+    "25545": null,
+    "21474": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "eviction is a disaster for families and for children"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "90,000 children in London live in temporary accommodation"
+            },
+            {
+                "reason": "effect",
+                "id": 3,
+                "text": "the effects that will have on their families, on their education, and the rest"
+            },
+            {
+                "reason": "solution",
+                "id": 4,
+                "text": "we need long notice periods"
+            },
+            {
+                "reason": "solution",
+                "id": 5,
+                "text": "debt renegotiation"
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "keeping a rental sector going"
+            },
+            {
+                "reason": "solution",
+                "id": 7,
+                "text": "interest free loans"
+            },
+            {
+                "reason": "solution",
+                "id": 8,
+                "text": "architect and builders to be coming up with much more low cost, affordable housing"
+            },
+            {
+                "reason": "solution",
+                "id": 9,
+                "text": "maybe using newer pre fabricated technologies which build quickly, which are low carbon, which are environmentally friendly"
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "we can solve this problem alongside progressive policies to ensure that people don\u2019 t lose their homes"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "18841": null,
+    "24042": null,
+    "23106": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Labour are supporting the government as far as the timing of the unlocking is concerned, despite the real things we are hearing"
+            },
+            {
+                "reason": "question",
+                "id": 2,
+                "text": "You think it is right to delay?"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "people won\u2019 t follow rules or won\u2019 t be inclined to follow rules if they don\u2019 t make sense"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "You have to explain the science because it doesn\u2019 t make sense to me as a doctor and as an academic from the University of Oxford"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "You need to be able to explain it and you need to also instill confidence in the public that when you do open these sectors, that\u2019s the right time to open it and why you are delaying sectors in certain ways"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "We think it is important that the approach is driven by the data, that we make sure this is the last lockdown that we have, we don\u2019 t see an imposition of restrictions afterwards"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "23696": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Think back to when we were run by someone who dotted all the i\u2019s and dotted the ts and did everything to the letter... her Government was a disaster."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So lots of voters are going to judge whatever has happened and it\u2019s purely speculative... he has been getting them done."
+            },
+            {
+                "reason": "opinion",
+                "id": 3,
+                "text": "They don\u2019t really care how he pays for the wallpaper."
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "The general public... they are well aware of Boris Johnson and his failures."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Jonathan has to be careful because all politicians are tarred with the similar brush... reeks of the expenses scandal."
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "At the end of the day... everybody needs to be accountable."
+            },
+            {
+                "reason": "observation",
+                "id": 7,
+                "text": "We know that there are back-handers going on."
+            },
+            {
+                "reason": "observation",
+                "id": 8,
+                "text": "We know there\u2019s all sorts of different aspects to politics... I\u2019m not aware of all the backhanders that go on."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "21372": null,
+    "23917": null,
+    "21660": null,
+    "22947": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Im sitting here tonight as someone who is completely unvaccinated."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "I may kill my husband."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Not only a month after we started rolling out the Pfizer vaccine are three-quarters of the over-eighties unvaccinated..."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "tens of thousands of NHS frontline and care staff are also still unvaccinated."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "I am very frightened that I may bring the virus home."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "there are paramedics...doctors...NHS and care workers in their thousands who every day are going into an environment in which the air is thick with COVID and we are completely unvaccinated."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "it feels like in the first wave in March and April we were sent in with woefully inadequate PPE"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "the governments position on that was logistics...its not our fault...its a supply issue."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "Here we are again...completely exposed to a virus that has already killed over six hundred and fifty frontline NHS and care staff."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "23368": null,
+    "23767": null,
+    "20515": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "NHS providers said we were always able to get what we needed in time."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "The National Audit Office said that was not the report from frontline staff."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "If you think about the way the virus got going and the entire world was looking to get PPE."
+            },
+            {
+                "reason": "stance",
+                "id": 4,
+                "text": "Matt Hancock claimed there was never a national PPE shortage during the pandemic."
+            },
+            {
+                "reason": "stance",
+                "id": 5,
+                "text": "Yes. Because the NHS providers said they were always able to get it."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "23959": null,
+    "17932": null,
+    "19077": null,
+    "21678": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The point Nicola made, we should be having daily testing of the contacts."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "That is not sustainable."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "The government has never dealt with it."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "You have to deal with things like that."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Put booster supplies into the areas where cases have been highest, have an approach that realises that health is poorest in some parts."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "The vaccination programme is accelerating at a phenomenal rate."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "There are about  400,000 kids at home who are contacts of people who tested positive."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "We have not had policies that have realised why, such as supporting people with no access to sick pay to self isolate if they are ill."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "Three weeks ago we were vaccinating people in their mid -  thirties, two weeks ago early thirties, last week we were vaccinating people in their twenties."
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "We will have everybody that needs to be vaccinated, vaccinated quite soon, very soon."
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "We will be offering booster doses for people over the age of fifty, I believe, to start off with."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "23514": null,
+    "20510": {
+        "argument_units": [
+            {
+                "reason": "question",
+                "id": 1,
+                "text": "was Matt Hancock right that there never was a national PPE shortage?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "You have doctors wearing bin liners and ski goggles, you have the Royal Head of Nursing saying this is deeply insulting, nurses were put in harm\u2019s way because they couldn\u2019 couldn\u2019 access proper protection. You have doctors\u2019 association applying because they didn\u2019 have enough."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "We didn\u2019 didn have a domestic manufacturing base for this country in PPE."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "We delivered 1.1 billion pieces of PPE."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "20520": null,
+    "20485": null,
+    "23539": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "Andy...you\u2019re saying Sajid Javid has made these comments"
+            },
+            {
+                "reason": "clarification",
+                "id": 2,
+                "text": "This is Jacob Rees-Mogg we\u2019re talking about?"
+            },
+            {
+                "reason": "claim/personal experience",
+                "id": 3,
+                "text": "Now I am a nurse who qualified and started at the very beginning of the pandemic...our government aren\u2019t doing the best either"
+            },
+            {
+                "reason": "claim/problem identification",
+                "id": 4,
+                "text": "Scotland\u2019s doing so much better...we\u2019re now having to deploy the military because of the large numbers of nursing vacancies in Scotland"
+            },
+            {
+                "reason": "claim/problem identification",
+                "id": 5,
+                "text": "We\u2019re about to come into the winter where everyone has been shielding...the NHS is bleeding."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "19756": null,
+    "23594": null,
+    "23307": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "What they are good at is what they do on the track."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "What she is good at is what she does on the tennis court."
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "When you have someone like Billie Jean King I believe as professional athletes we have responsibility to make ourselves available to the media."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "They can barely breathe [when microphones are stuck under their noses]."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Sometimes you watch these interviews -- they are still puffed when they are being interviewed."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "They might not have played as well as they hoped they had [and are very embarrassed], and I\u2019m bored."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "But that means it\u2019s just business."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "It is horrible [to persist them with interviews]."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "17959": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The job retention scheme was an absolute life safer for so many people in my industry the majority of whom are freelanceers."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It is unfortunate, because as joy flee over the next few months according to your plan pubs and restaurant and manufacturers Andy tailers start so slowly reopen, that unfortunately is not going to be the case with the perfect forming arts venues."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "We have tried our very best but it is now apparent there is no real viable social distancing model to get audiences safely and it has to be safe, back into theatres to watch place and muse comes."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "We can pay for more hospital beds in our films, television dramas and theatres of the it is very likely, as Gerald was saying, that might not happen up to a year."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "This time next year might be the first time we get to confidently reopen."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Up would have to be 20% full if you did the measures and they need to be 20% full in order to sustain themselves economic cleech."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "That\u2019s just a problem, because the cultural sectors are so profitable."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "It is not like this is the 170s and we are Baleing out industries that are not profitable."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "The figure is about for everyone pound you invest in the arts you get about five pounds back."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "19347": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "I think we need to lock down in a much more granular fashion"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "It is often poohed pooh ed but I think theres a case for age stratification"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "Letting the younger generation get out there do their thing shielding the elderly if they want to be shielded"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "9 percent of all households people of working age do not live with anyone over 65 where the vast majority of Covid fatalities and Covid cases occur"
+            },
+            {
+                "reason": "proposal",
+                "id": 5,
+                "text": "We can use unused hotels where you have multi generational families so workers are not coming home and in the unfortunate phrase killing their granule I didnt say"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Its not money were spending every day in the terms of furlough and business support it is the taxes were not raising"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Unless were going to have a major economic overhang going on for years and years and years and a difficulty of funding infrastructure all the things we need going forward we have to get our economy moving again"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "21604": null,
+    "25511": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "the MRHA is an institution with a significant international reputation that will stand by having done that"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It can justify not having cut any corners"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "the EU could have invoked emergency powers to speed up the emergency process but it chose not to"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "If we were still part of the European Union we would be part of that collective decision"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "we were able to approve this vaccine slightly quicker"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "the MRHA have run some of the phases and steps in parallel with each other rather than sequentially with each other"
+            },
+            {
+                "reason": "opinion",
+                "id": 7,
+                "text": "It\u2019 appears we are still fighting the referendum of June,26, even at this late stage"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "23715": null,
+    "21026": null,
+    "23380": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "We had another thing this week, that top business executives could escape quarantine. Some are living by some rules, others by other rules."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "The danger is all the discipline collapses when we need to remain vigilant."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "This was one opportunity for Boris Johnson to stand up and be counted, to show us he does have a moral compass and he takes that sort of behaviour very seriously."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "This is a clear example of how there are huge double standards."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "There is a litany of poor behaviour, poor standards in public office, to which he doesn''t address."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "I don''t understand how the government feel that people will follow the rules now when they have a Health Secretary or ex-Health Secretary that clearly can''t and won''t follow the rules."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "21745": null,
+    "19749": null,
+    "23818": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "we recognise the UK was left in a difficult position when the US took the decision to withdraw"
+            },
+            {
+                "reason": "stance",
+                "id": 2,
+                "text": "I make no apology for recognising that"
+            },
+            {
+                "reason": "observation",
+                "id": 3,
+                "text": "They just won a war."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "We\u2019ve since found out why [Raab was on holiday], because it turned out that he was on holiday as the Taliban advanced."
+            },
+            {
+                "reason": "stance",
+                "id": 5,
+                "text": "don\u2019t make the mistake of thinking just because some of us recognise this is a complex and difficult situation that all of us need to own up to some level of responsibility for"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "One of the reasons why ... one of the reasons why we have put Foreign Office staff forward into Kabul is to make sure that people who would wish to do us harm are not using the current circumstance to insert themselves into the UK"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "23866": null,
+    "23624": null,
+    "19216": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "They are then hard to manufacture."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Then it arrives and you have to keep it at -70."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Im sure that the NHS is up to it."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "They are hard to do the science."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "This thing isnt a chemical thats made; this biological."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "The NHS is a very very significant organisation that reaches into all parts of the country."
+            },
+            {
+                "reason": "stance",
+                "id": 7,
+                "text": "It will be complicated. It will be a huge challenge."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "21311": null,
+    "21450": null,
+    "23958": null,
+    "20505": null,
+    "21612": null,
+    "25728": null,
+    "23938": {
+        "argument_units": [
+            {
+                "reason": "attribution of blame",
+                "id": 1,
+                "text": "Boris Johnson was to inept and incompetent and irresponsible"
+            },
+            {
+                "reason": "elaboration on blame",
+                "id": 2,
+                "text": "he left three weeks before he put India on the red list and in that time we have the Delta variant circulating so much!"
+            },
+            {
+                "reason": "overall assessment",
+                "id": 3,
+                "text": "This is just typical of a Government that runs the country in a divisive way that has double standards at its heart"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "you are still going to have more people close together and coming in from other countries while the Delta variant isn's circulating like it is in this country"
+            },
+            {
+                "reason": "appeal to values",
+                "id": 5,
+                "text": "What about making sensible accommodations people might argue with those people that haven's been able to see loved-ones for maybe near or two years now"
+            },
+            {
+                "reason": "appeal to values",
+                "id": 6,
+                "text": "What about sensible accommodations for people who desperately want to have more than 3 people at a wedding!"
+            },
+            {
+                "reason": "statistical claim",
+                "id": 7,
+                "text": "There are 11 deaths in the last week um... according to you know the Government bodies of which 93 were Covid"
+            },
+            {
+                "reason": "interpretation of statistics",
+                "id": 8,
+                "text": "Now know it's less than 1%, it's way way down"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "attack"
+            }
+        ]
+    },
+    "21305": null,
+    "23591": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "We slashed solar tariffs"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "They blocked onshore winds"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "they got rid of gas storage which left us reliant on the markets"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "He said he would fix social care"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "we got a tax hike on working people to pay not for social care"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "but the hole they have left in the National Health Service budget"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "years we\u2019ve been running down under the Tories our renewable capacity"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "and now we have got this Universal Credit cut that\u2019s going to plunge a lot of people into poverty"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "21652": null,
+    "23712": null,
+    "23544": null,
+    "21461": null,
+    "23533": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "People are taking lateral flow tests, they're going to concerts having seen they're negative, but that depends on the person because you're answering your own question."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "So once you take that test, you're asked, are you negative or positive? So if that person's not truthful, they can say they're negative, go to a concert and pass it on."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "There's no protection."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "19327": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "the aim is to get it to care homes first"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "there are difficulties with this vaccine because it has to be stored at such a cold temperature so its not getting to care homes first"
+            },
+            {
+                "reason": "question",
+                "id": 3,
+                "text": "What are they able to do that we cant?"
+            },
+            {
+                "reason": "explanation",
+                "id": 4,
+                "text": "It is about breaking them up"
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "That needs the approval to do that so youre not wasting vaccines"
+            },
+            {
+                "reason": "acknowledgment",
+                "id": 6,
+                "text": "Thats true for the Scottish government as well"
+            },
+            {
+                "reason": "statement of priority",
+                "id": 7,
+                "text": "We said throughout for a number of weeks now that our priority is care homes and making sure we get that vaccination in there as quickly as possible"
+            },
+            {
+                "reason": "promise",
+                "id": 8,
+                "text": "We have to do that and we will be doing it as soon as we can"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "23290": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The public purse is being used at the moment for furlough."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "This is young people who want to do this."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "The young people are hungry for this."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "The barrier to them throwing themselves into all of this activity is the government itself."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "All the COVID recovery funding is already allocated."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "The decisions being made is how that money is being spent."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "They are choosing bricks. It should be children as well."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "There is still, for instance,33,000 air crew on furlough."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "The government are temporarily propping up things in the very short term."
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "The decisions that are made now will affect in  years' time."
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "The Collins review does say the scarring effect would be  billion out of our committee if we don' t go forward."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "19753": null,
+    "21371": {
+        "argument_units": [
+            {
+                "reason": "stance",
+                "id": 1,
+                "text": "So you don't think we should be abandoning trips abroad then."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Either we're trusted to make our own decisions or we're not"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "I think what we need to do Fiona Bruce"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "I think we need to beef up the personnel at the borders"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "we need to weigh up the cost of the negligible risk of someone who is double vaccinated following all the protocol with tests either side against the vast impact to people like Jack"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "there'd been some fairly concerning scenes from airports in the newspapers this week of people from red and green countries mixing"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "23836": null,
+    "21587": null,
+    "19741": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "It can\u2019t be much of a surprise that we need to do a rapid vaccine roll-out."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "We\u2019ve known about this for nine months, at some time we were going to have to do this."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "There is a willingness across the population and across businesses to do whatever you need, whatever is required to accelerate and deliver this vaccine."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "Gym sites, the size of three or four tennis courts, are available and the government are paying if they are low."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Our biggest interest collectively as a country is seeing us come through this as swiftly as possible."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "If we can do one million a week, why can\u2019t we do four million a week."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "There\u2019re enough people, enough goodwill in this country to make that happen."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -6,
+                "target_id": -5,
+                "type": "support"
+            }
+        ]
+    },
+    "18878": null,
+    "23476": null,
+    "23705": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "energy pricesour bills are going to go up"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "salaries go up actually by a bit more than four per cent"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Do you carry on increasing other taxes that would be a penny on income tax"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "three or four p on say the cost of fuel"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "the government can't wait until the next election to have to make choices."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "The Bank of England'\u2019' predicting inflation could rise above four per cent."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "it'\u2019' cost nine billion to run the increase in universal credit up to now"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "it would carry on being another six billion to carry on running"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "if you were to do that that would increase the cost of living?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "18875": null,
+    "23585": null,
+    "23763": {
+        "argument_units": [
+            {
+                "reason": "analogy/claim",
+                "id": 1,
+                "text": "If I went out tomorrow and bought a toaster I would have more legal protection on that toaster than I have had on my biggest purchase that I have put my life savings into."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "The Government have made available the non\u2010ACS fund. It\u2019S very limited in scope. It covers very specific types of cladding and the key thing is fire doesn\u2019 t discriminate. It\u2019S a lot more than just cladding and there\u2019S a lot of fire safety defect that these buildings have."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "It\u2019S actually come out that basically these buildings haven\u2019 t been fit for purpose for such a long time."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "The Government don\u2019 t seem to be willing to step\u2010up and do the right thing and actually protect people\u2019 s lives because ultimately this is a safety issue."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "This is the thing at the moment. I can\u2019 t get a valuation on my home."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Until the cladding is fixed and we have got an external survey which seems a long time off I\u2019 m going to be trapped here in a value\u2010less home that I have put my life savings into."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "this has been such a big scandal and one that the Government has wanted to get to grips with you know understand the extent of the challenges"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "the fire safety bill that has gone through today as you say Fiona is the starting point and it\u2019 s that commitment."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "25510": null,
+    "20837": null,
+    "21711": {
+        "argument_units": [
+            {
+                "reason": "stance",
+                "id": 1,
+                "text": "My question is would a Labour defeat be the final nail in the coffin for the Labour Party."
+            },
+            {
+                "reason": "stance",
+                "id": 2,
+                "text": "No. Absolutely not."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "The constituency is not what you might call a typical red wall seat where there has been a Labour majority forever. This is a seat that is more marginal."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "I think this is a real challenge not just for Keir Starmer and the Labour Party but the left more broadly."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "We have lived through a decade now, a decade where wealthy and privileged people on the right of politics or even the hard right of politics have posed as the friends of working class people."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "What they have been trying to do is divide working class communities, make them hate each other, one group to another."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "That very much is kind of what I see a sense of in Batly. It is almost a sense that you are in a forgotten area and you should feel resentful."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "The minorities are taking everything. They are taking this narrative into these places."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "People aren't feeling good because they have a right wing the cancer of zero contracts to spread."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 10,
+                "text": "Four years ago Tracy won the party''t highest ever vote. So, come on."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "20502": null,
+    "23445": null,
+    "23813": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "People are genuinely terrified."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "At the moment, you cannot get to the airport."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "There are Taliban checkpoints all the way to the airport."
+            },
+            {
+                "reason": "example",
+                "id": 4,
+                "text": "It was done for the South Vietnamese boat people."
+            },
+            {
+                "reason": "stance",
+                "id": 5,
+                "text": "Nation-building by Afghans for Afghans is what all of you should be thinking about."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "The military won' t let you in."
+            },
+            {
+                "reason": "stance",
+                "id": 7,
+                "text": "The UK should be working with other partners to share the burden."
+            },
+            {
+                "reason": "criticism",
+                "id": 8,
+                "text": "There is a lot of talk of nation-building, and we think it' s like a Lego system that we can pick up from Britain and implement in Afghanistan, like we thought with the military system, like we thought with this idea of governance, or giving -- forcing democracy down the throat of every Afghan, whether they wanted it or not."
+            },
+            {
+                "reason": "premise",
+                "id": 9,
+                "text": "The conditions set by the US and the UK are very narrow."
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "More than forty countries were involved."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 11,
+                "text": "It cannot be done by individual countries offering five thousand a year."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 7,
+                "type": "attack"
+            }
+        ]
+    },
+    "18775": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "we need to focus a lot more and deal with category by category, industry by industry, age by age, requirement by requirement"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "the present Government do like to make big announcements for PR purposes"
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "we must stop this wanting to be liked by the public"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "self-employment, entrepreneurship, is going to be necessary moving forward as so much of our industry transforms"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "We see someone, we think we\u2019re going to shake hands or embrace, we don\u2019tre do these things any more"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "21342": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "when the situation changed in England, hey presto, they extended the furlough"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Yes, and the union that we didn\u2019t get the vote on, by the way"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "We saw it with the furlough, didn\u2019t we, [inaudible 00; 00; 00], the Welsh Government asked for the furlough to be extended, we were refused, endangering our lives"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "the people of Wales noticed that, and that\u2019s how Wales has been treated in this United Kingdom and it\u2019s there to see on the flag itself"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "23560": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "we only make those advances in technology through private investment and private funding"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "the UK has got a very good story to play"
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "I agree with you, we do have to better"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "We\u2019re leading the G7 in terms of cutting our carbon"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "the work that\u2019 s being done by companies in the North East, in Aberdeen, in these brand-new technologies that are coming on stream and are really going to power our way towards net zero in \uf732\uf730\uf735\uf730, to driving down our carbon emissions"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "25497": null,
+    "23266": null,
+    "23614": null,
+    "19091": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "young people are effectively the ones that could be affected by this."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Many of them didnt get to finish their school education, they didnt get to sit exams, they went on to college and university, and in Scotland and other parts of the United Kingdom they had a terrible initial experience at university"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "now they are going to be paying for this for much of their lives"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "the job market, when we get through this health pandemic, the global response to the economic emergency that were all going to face is one that we have to treat extremely seriously."
+            },
+            {
+                "reason": "stance",
+                "id": 5,
+                "text": "So I think it is young people we have to be thinking about."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "it is going to be impossible to save every single job"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "we are putting in place tools to protect as many as possible, as we have done with the furlough scheme and the replacement scheme going forward."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "The replacement is similar if you look at the level of support that individuals and employers have to put in in France, in Spain, in Germany is very similar to -- two thirds the government are paying in the United Kingdom compared to other countries."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "The UK government have introduced schemes to help young people into employment."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "19902": null,
+    "21379": null,
+    "23009": {
+        "argument_units": [
+            {
+                "reason": "claim/justification",
+                "id": 1,
+                "text": "We are trying to reach an agreement across the four nations."
+            },
+            {
+                "reason": "claim/assertion",
+                "id": 2,
+                "text": "It is a decision you made."
+            },
+            {
+                "reason": "claim/assertion",
+                "id": 3,
+                "text": "It is a decision where the Scottish Parliament has the power to make it."
+            },
+            {
+                "reason": "question/challenge",
+                "id": 4,
+                "text": "You haven\u2019ts given an explanation why it has taken until mid February to make the decisions."
+            },
+            {
+                "reason": "claim/justification",
+                "id": 5,
+                "text": "We\u2019ve learned those lessons from the summer and we\u2019re saying now that we need to prevent international travel from any country into Scotland, and that means we do have to look at what our options are in the land border because the UK government won\u2019 t go far enough."
+            },
+            {
+                "reason": "assumption/premise",
+                "id": 6,
+                "text": "If what you said is true, and I have no reason to believe it is not true, that we imported the variants, why has it taken the Scottish government as well as the UK government to 2 February when it comes in to do anything about it?"
+            },
+            {
+                "reason": "counterclaim/explanation",
+                "id": 7,
+                "text": "You\u2019ll know that not all the powers are devolved to Scotland."
+            },
+            {
+                "reason": "claim/justification",
+                "id": 8,
+                "text": "We have taken the approach as others have from the outset, where we can get four nation agreement -- where we are now is we can\u2019 t be wait any longer for this."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "21304": null,
+    "21477": null,
+    "23967": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "What we need is more action, more funding"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "Robert first talked about the failings of the system, he didn't even mention the cuts to funding"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "we also need to have some more ambition and urgency"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "This review has been two years in the action"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "We need action now. Not waiting another two years so we have more rules so people don't have to hand over their phones for months and years on end"
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "I did think Boris Johnson's remarks yesterday were offensive and lacking in judgment"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "He would have, before he went into the chamber, he would have been throwing around lines with his advisers, and said that's a great line Prime Minister, and definitely use that in the Commons, he would have been determined to get it out regardless of what question he was asked"
+            },
+            {
+                "reason": "opinion",
+                "id": 8,
+                "text": "I think he should have paused and thought carefully before using that line"
+            },
+            {
+                "reason": "opinion",
+                "id": 9,
+                "text": "It did rather demean him"
+            },
+            {
+                "reason": "premise",
+                "id": 10,
+                "text": "You can't imagine a Margaret Thatcher or a Tony Blair using a line like that in the House of Commons to be frank about an issue of this sensitivity"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "21277": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "You see a lot of Brexiteers as racist, xenophobic"
+            },
+            {
+                "reason": "stance",
+                "id": 2,
+                "text": "And very briefly beforebecause I know Paul wants to come in, there was a cartoon, I think it was in Private Eye, and the cartoon depicts a Labour councillor knocking on the door saying something along the lines of why won\u2019 t you xenophobes vote for us any more in Labour, and this is the point."
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "Michelle Dewberry wants the audience to decide who they represent."
+            },
+            {
+                "reason": "stance",
+                "id": 4,
+                "text": "Michelle Dewberry wants people to move more back towards the centre."
+            },
+            {
+                "reason": "stance",
+                "id": 5,
+                "text": "Michelle Dewberry believes bizarre identity politics turn people off."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "23587": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Glasgow is the greatest place in the world."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Our city is littered with rubbish and rats."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Every single city is going to have to prepare"
+            },
+            {
+                "reason": "reason",
+                "id": 4,
+                "text": "I love the city of Glasgow; I was born here and brought up here."
+            },
+            {
+                "reason": "reason",
+                "id": 5,
+                "text": "We call ourselves the Dear Green Place."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "This Dear Green Place is let down by cuts to local government and cuts to local budgets."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Glasgow' s refuse services have been impacted by the pandemic."
+            },
+            {
+                "reason": "rhetorical question",
+                "id": 8,
+                "text": "Is this how Glasgow should be portrayed on the world' s stage?"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "There is a lot of work to do and a lot of work being done right now with people out on a daily basis ensuring that rubbish is collected."
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "People are ensuring that fly tipping is cleared and that graffiti is wiped off."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "23548": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The answer to Allan's original question is that the British Medical Association thinks that the answer is yes."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "With Sajid Javid talking about cases potentially rising to 100,000, now is the time to implement plan B."
+            },
+            {
+                "reason": "definition",
+                "id": 3,
+                "text": "Plan B is a lot of the things that are already in place in Scotland."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "It's things as basic as wearing masks in certain situations."
+            },
+            {
+                "reason": "stance",
+                "id": 5,
+                "text": "why on something as basic as wearing masks, it's not particularly onerous."
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "It's not the most pleasant of things, but I'd far rather we saw an implementation of basic things like that than to resume restrictions."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "None of us want to see significant restrictions on our lives."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "20516": null,
+    "20850": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "With respect to the EU, we've obviously got clear contractual obligations with the manufacturers"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "it's a fact that their contract is two months later than ours"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "equally it's not as strong as our type of contract"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "in the European contract, it states that they have to use reasonable or best endeavours to secure that vaccine for the European market"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "our contract is more explicit"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "it also says that in our contract too"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "there are lots of bits that are redacted so it's not totally clear"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "23782": null,
+    "19165": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "It doesnt matter that youve got a black and brown cabinet."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It doesnt matter."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Its what you do."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "And if you pursue policies and you stay the same way you can have whatever."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "shes just trying to tell you that youre in a systematic web where you may not sometimes see things the way minorities see them."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "21045": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "the NHS I think has done a fantastic job through the pandemic"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "my experience over the last year is that that\u2019s one of our main problems, not having safe and available places to discharge elderly and frail patients to"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "They\u2019re not always benefiting from acute admissions to hospitals"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "and then they get a bit stuck and in hospital they\u2019re at risk of hospital carried infections, including COVID"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "that\u2019s got to be one of the main points for discussion when we\u2019re discussing moving the health service in Scotland forward"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "20748": null,
+    "18274": null,
+    "25420": null,
+    "19746": null,
+    "20881": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The independence movement in Wales is driven by positivity, hope."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It\u2019 s actually about looking forward to the future, it\u2019 s actually looking out to the world as well."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "That\u2019 s why it\u2019 s appealing to young people."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Coming out of this pandemic, we\u2019re all thinking, aren\u2019t we, we don\u2019t want to go back to the way that Wales was."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "What kind of world and what kind of Wales do we want to build, and that\u2019 s really at the heart of the independence message."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Obviously Plaid Cymru are the only major party that is offering an independence referendum."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "That\u2019 s going to be a major factor, not just for young people in this election, of course, because \uf733\uf739 per cent of the Welsh population support independence."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "25491": null,
+    "21052": null,
+    "23772": null,
+    "21268": null,
+    "23558": null,
+    "20763": null,
+    "23388": {
+        "argument_units": [
+            {
+                "reason": "stance",
+                "id": 1,
+                "text": "If it is curtailed it is doable"
+            },
+            {
+                "reason": "acknowledgment",
+                "id": 2,
+                "text": " I accept these are very difficult moments for all of us"
+            },
+            {
+                "reason": "anticipation of criticism",
+                "id": 3,
+                "text": "there will be other occasions people will say hold on"
+            },
+            {
+                "reason": "consequence",
+                "id": 4,
+                "text": "It's dangerous because it undermines confidence in the measures"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "this isn' t some sort of jolly"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 6,
+                "text": "It doesn' t stack up frankly this stinks"
+            },
+            {
+                "reason": "analogy",
+                "id": 7,
+                "text": "It is deep hypocrisy. You know it's Barnard Castle all over again"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "attack"
+            }
+        ]
+    },
+    "19187": null,
+    "20307": null,
+    "23015": null,
+    "23688": null,
+    "18864": null,
+    "18281": null,
+    "19085": null,
+    "21324": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The Prime Minister sat on that report"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "he tried to suppress it"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "he blocked its publication in Parliament"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "then he said he accepted it and still we've seen no action."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "If you see the last couple of elections where voter turnout has gone up then it is the Conservatives who have won."
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "Robert Buckland disagrees with Lisa Nandy's analysis."
+            },
+            {
+                "reason": "stance",
+                "id": 7,
+                "text": "Let's not buy into this false argument about voter suppression."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "he wouldn'\u0442 allow it to be published"
+            },
+            {
+                "reason": "question",
+                "id": 9,
+                "text": "Why are you so intent on stopping people here having an impact on our electoral system but not on stopping people overseas from doing so?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "23855": {
+        "argument_units": [
+            {
+                "reason": "opinion",
+                "id": 1,
+                "text": "his first response to the Policing Bill was we abstain"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "The definition of a protest is to be noisy and annoying."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "The Labour response was not enough for you?"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "In the most recent elections it was hard to go out to vote because I didn\u2019 t know what I was voting for."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "If the Conservatives were to gain seats in Hartlepool and, in particular, in Scotland, would that indicate that the public are more interested in healthcare, education and jobs rather than the rhetoric of Scotland\u2019 s First Minister and the price of a role of wallpaper?"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "There\u2019 s a clause in the Policing Bill that says if you are noisy and annoying at the protest -- deferential we voted"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "23384": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "cases were highest day than they were in January"
+            },
+            {
+                "reason": "stance",
+                "id": 2,
+                "text": "So me, masks are a physical barrier to spreading the virus but a reminder that we are not living in normal time and we all need to look out for each other"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "if deaths continue at the relatively low level they are you would want to keep either face masks or social distancing"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "But I think the general point is if you get to the middle of July and say, okay, there\u2019 s no masks, no distancing, the message coming out from the government will be we are back to normal"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 5,
+                "text": "But I don\u2019 t think we are back to normal"
+            },
+            {
+                "reason": "opinion",
+                "id": 6,
+                "text": "So I think that is a sensible way to go"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "23787": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "We put money in to do that to help G AR VI."
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "They need the vaccine."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "GAR VI's key role is to help countries where the Primary Care systems are not very robust."
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "There wasn't the production capability that existed this time last year to be able to generate billions of doses and that's growing."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "If this person was in prison she would probably have more rights to have visitors than she does now."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "18286": null,
+    "19087": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Weve had some of the worse excess death rate in the world."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Now were headed for the worst financial recession"
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "The government has to ask those questions honestly."
+            },
+            {
+                "reason": "recommendation",
+                "id": 4,
+                "text": "it is important that they continue to work with the opposition"
+            },
+            {
+                "reason": "recommendation",
+                "id": 5,
+                "text": "We do need a full nation approach"
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "we do need to take the job losses that are there now and could be coming"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "much more seriously than is being done now."
+            },
+            {
+                "reason": "suggestion",
+                "id": 8,
+                "text": "Lets give it to hospitality workers"
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "Neither [Boris Johnson nor Nicola Sturgeon has done as well as they needed to for our country and nor as other countries have done."
+            },
+            {
+                "reason": "suggestion",
+                "id": 10,
+                "text": "instead of giving it to [management consultants], why dont we give it to local leaders?"
+            },
+            {
+                "reason": "suggestion",
+                "id": 11,
+                "text": "Lets give it to all the entertainment workers who so desperately need it and have been failed."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "23874": null,
+    "23398": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "It is not just about women!"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "Men get raped. Men get sexually assaulted."
+            },
+            {
+                "reason": "counterclaim",
+                "id": 3,
+                "text": "Sorry women rape men."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "Domestic violence against men with women is high compared"
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "And gay men get raped as well."
+            },
+            {
+                "reason": "stance",
+                "id": 6,
+                "text": "So now the Government don' t just concentrate on women getting raped"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "It's true to say many more women get raped than men"
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "a man doesn' t report it as much as a woman does."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "23870": null,
+    "20893": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I think that at the age of 16 there are lots of responsibilities that we impose on people at that age"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "I think people have the right to choose who will make decisions on their behalf"
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "young people can already work"
+            },
+            {
+                "reason": "question",
+                "id": 4,
+                "text": "So that\u2019s why you introduced it, Vaughan, that\u2019s why you backed it because you thought you\u2019 d get more votes that way?"
+            },
+            {
+                "reason": "denial",
+                "id": 5,
+                "text": "No, I\u2019ve been a supporter of votes at 16 long before I was elected to the council"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "attack"
+            }
+        ]
+    },
+    "23820": null,
+    "17957": null,
+    "18456": null,
+    "23481": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "The perspective that is looked on in politicians, I don't think, actually, is often worked through at what cost they're doing some parts of their job."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "It wasn't going to overturn the decision but it was going to analyse it further."
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "I sat on the committee that Andrew Ledson chaired looking at the issue of sexual harassment in Parliament and what processes you would need for that."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "The idea that Jacob Reese Mogg could rock up in Parliament yesterday and say here's a new committee when putting the tories in the driving seat was never going to work."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "there is a case that Boris Johnson was thinking about his own skin because he knows the commissioner is likely to be looking at him again, about his flat."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "For him to be promoting a process that would say she will be pushed out of her role in order for him to be able to carry on with his lackadaisical business as usual --"
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "We need the long term process to get the better rules in place."
+            },
+            {
+                "reason": "premise",
+                "id": 8,
+                "text": "It took us a year of painstaking cross party work to come up with a new system, a better system."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "The idea that you would do that under a live case is just -- it is just unacceptable."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "19896": null,
+    "21414": null,
+    "21303": null,
+    "20841": null,
+    "19084": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "I was very surprised to hear that the job support scheme was talked about by David Ross there as being the same as the furlough scheme."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "We have a system that is currently -- decisions being made by the prime minister and the chancellor that are pushing people into destitution."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "the scheme is not going to incentivise them to keep on employees"
+            },
+            {
+                "reason": "recommendation",
+                "id": 4,
+                "text": "the government should be looking at what has been done in Germany and elsewhere and what the Labour Party has been saying to have a proper short hours scheme that supports people to stay in work and in their jobs part time."
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "if you are going to say that youre going to pay two thirds of someones salary you should also be saying they can only afford two thirds of their rent or pay for two thirds of the food for their family."
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "when the government talked about this scheme as trying to keep people on part time actually it is more essential to keep two people on part time than it is to keep one person on full time."
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "the cost of long term unemployment is much greater than what were going to otherwise have to pay to keep people in their jobs in viable jobs that will be there when we come through this next period."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "18454": null,
+    "21297": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "Much of politics now is about identity, culture and values."
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "the people who have understood that quickest have been the Conservatives."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "Mark Drakeford in Wales represents a feeling about being Welsh, more than just Labour."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "He needs policies, a narrative, a goal, a clear story to tell."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "the people who have understood it most successfully have been Kate\u2019 s Scottish National Party."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "Andy Burnham didn\u2019 t just win central Manchester, he won seats, including where I come from, where they voted Tory, because he projected something, a narrative, a realsomebody that allowed him to stand beyond the different identities."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "Now, what Keir hasn\u2019 t done yet is that."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "That means understanding what has caused these deep cultural divisions and certainly you can\u2019 t go with them."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "23581": {
+        "argument_units": [
+            {
+                "reason": "question",
+                "id": 1,
+                "text": "what, if any, further protection should politicians have?"
+            },
+            {
+                "reason": "claim",
+                "id": 2,
+                "text": "the worst atrocities start somewhere and they start with these intimidating threats."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "One of those stabbings was of a 14 year old, particularly distressing."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "It\u2019s meeting people face to face."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "I don\u2019t think there is any politician, I can\u2019t think of any, who haven\u2019t had to face threatening behaviour, who haven\u2019t been subject to intimidating threats."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "they start with anger fuelled and dehumanising language so often on social media."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "19225": null,
+    "19317": null,
+    "23849": null,
+    "23567": {
+        "argument_units": [
+            {
+                "reason": "counterclaim",
+                "id": 1,
+                "text": "Not in the North East."
+            },
+            {
+                "reason": "stance",
+                "id": 2,
+                "text": "I hope that we can advance the timeframe because we're going to need much more than the two tier one projects if we're going to be serious about developing this technology."
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "I remain committed to working with the UK Government and with the Scottish Cluster to advance it more in the future."
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "it'S the Conservative Government in London that is investing 1 billion in the transition fund to move us into this new renewables future."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "We've invested in the oil and gas technology Centre in Aberdeen."
+            },
+            {
+                "reason": "claim",
+                "id": 6,
+                "text": "the Sub Sea Hub of Excellence which is going to be created in my constituency."
+            },
+            {
+                "reason": "claim",
+                "id": 7,
+                "text": "We've provided 1 billion of tax relief for companies operating out of Aberdeen to make the North Sea the most attractive base in which to invest in the world."
+            },
+            {
+                "reason": "claim",
+                "id": 8,
+                "text": "it was disappointing that it didn' t achieve tier one status."
+            },
+            {
+                "reason": "claim",
+                "id": 9,
+                "text": "it is a reserve cluster it does mean that it still remains in the programme."
+            },
+            {
+                "reason": "claim",
+                "id": 10,
+                "text": "the UK government has spent 1 million already working with the Scottish Cluster."
+            },
+            {
+                "reason": "claim",
+                "id": 11,
+                "text": "Because the Conservative Party is investing and does care about the North East of Scotland unlike the Scottish National Party Government in Edinburgh."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "19750": null,
+    "21458": null,
+    "23556": null,
+    "23777": null,
+    "18290": null,
+    "25693": null,
+    "20326": null,
+    "21400": {
+        "argument_units": [
+            {
+                "reason": "premise",
+                "id": 1,
+                "text": "the early evidence is that the vaccines work on the Indian variant"
+            },
+            {
+                "reason": "premise",
+                "id": 2,
+                "text": "the JCV or the joint committee on vaccination and immunisation bringing forward the second dose to eight week interval is making a difference"
+            },
+            {
+                "reason": "premise",
+                "id": 3,
+                "text": "We're also surge testing in those areas"
+            },
+            {
+                "reason": "premise",
+                "id": 4,
+                "text": "this is a race between the vaccine and of course the test, trace and isolate, and the virus"
+            },
+            {
+                "reason": "premise",
+                "id": 5,
+                "text": "The virus will continue to mutate"
+            },
+            {
+                "reason": "premise",
+                "id": 6,
+                "text": "Part of my role is to future proof the vaccination programme so that if there is a virus of concern we have a variant vaccine ready for it"
+            },
+            {
+                "reason": "premise",
+                "id": 7,
+                "text": "We are surge vaccinating in areas like Bolton and Blackburn and Darwin"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            }
+        ]
+    },
+    "18320": null,
+    "18295": null,
+    "23725": null,
+    "20849": null,
+    "19233": {
+        "argument_units": [
+            {
+                "reason": "claim",
+                "id": 1,
+                "text": "We're planning to be able to roll out from the start of December"
+            },
+            {
+                "reason": "counterclaim",
+                "id": 2,
+                "text": "One of the cofounders of the company manufacturing this vaccine said not before mid December"
+            },
+            {
+                "reason": "stance",
+                "id": 3,
+                "text": "We are not guaranteeing that by any stretch"
+            },
+            {
+                "reason": "claim",
+                "id": 4,
+                "text": "We are making progress towards where we need to be but there are many many hurdles still for us to go over"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "18307": null,
+    "23691": null,
+    "25512": null,
+    "21454": {
+        "argument_units": [
+            {
+                "reason": "stance",
+                "id": 1,
+                "text": "It should be following the data"
+            },
+            {
+                "reason": "opinion",
+                "id": 2,
+                "text": "We need to get closer to the point. It was wrong to call it freedom day and signpost it so far in advance because we should have been seeing how the data -- focus on getting that down."
+            },
+            {
+                "reason": "claim",
+                "id": 3,
+                "text": "At the moment only 10 percent of people who are asked to isolate are isolating."
+            },
+            {
+                "reason": "opinion",
+                "id": 4,
+                "text": "Where we get this right as a country is where the messaging is crystal clear based on scientific advice we all understand."
+            },
+            {
+                "reason": "claim",
+                "id": 5,
+                "text": "Only 1 percent of them still are to this day. That''re irresponsible."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 0,
+                "target_id": 0,
+                "type": "support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,312 @@
+[
+  {
+    "conversation_id": "9509",
+    "conversation_text": "the point of this survey is theres no right and wrong way to be, theres 5 styles and it talks about-, I dont know how far you got in reading this stuff but the idea is to do with whether relationships are more important or goals are more important, yeah did you get that, its like a wee diagram, Ill just draw it so its as simple as that, youve got goals up this side and theres relationships along here and if you use as they say collaborative or co-operating style thats the style where youre trying to get, basically trying to keep everybody happy and get things done, so thats a very time consuming style but its great if it works. Okay up at this end is the directing style, thats we get things done at all costs were not that bothered and what Im trying to say is none of them is right or wrong, theres a place for all of them",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "the point of this survey is theres no right and wrong way to be"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "5 styles"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 2,
+          "text": "and it talks about-, I dont know how far you got in reading this stuff but the idea is to do with whether relationships are more important or goals are"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "great if it works"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "we get things done at all costs"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "what Im trying to say is none of them is right or wrong"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "a place for all of them"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "16382",
+    "conversation_text": "M So the the the question is youre not leaving this program youre not leaving this program and I assume therefore that the task today is to find a way that you can both stay in the program a:nd maintain a good academic relationship A Mmh M And to clarify what the boundaries are so that youre not uncomfortable A Mmh M And youre not subject to charges A I just want to be able to continue and to graduate and I dont want to feel Ive been compromised now in the faculty I dont want him to take it out on me I mean thats another GENUINE concern that hes not going to give me the help I need or he is going to penalize me in my grades M Okay",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "the the the question is youre not leaving this program"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 1,
+          "text": "I assume therefore that the task today is to find a way that you can both stay in the program a:nd maintain a good academic relationship A Mmh M And to clarify what the boundaries are so that youre not uncomfortable A Mmh M And youre not subject to charges"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "I just want to be able to continue and to graduate"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "want to feel Ive been compromised now in the faculty I"
+        },
+        {
+          "reason": "Clarifies own position",
+          "id": 4,
+          "text": "me I mean thats another GENUINE concern that hes not going to give me the help I need or he is going to penalize me in my grades"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 4,
+          "target_id": 1,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "2086",
+    "conversation_text": "68 M O:kay (.) all right (.) I think I have a good understanding of that (.) then Ann (.) thank you (.) Philip/ (.) what is your sense of all this= 69 P =Well (.) my sense is is she is ABSOLUTELY paranoid I mean we have to understand [that this ( ) 70 M [Hold (.) excuse me but dont describe what you think she thinks (.) because that is not helpful to me (.) what WOULD be helpful to me to understand would be (.) ho:w youve seen the relationship develop over the six months= 71 P =Well shes just misinterpreting everything that takes place (.) thats thats= 72 M =Okay (.) thats something that [Ann did (.) but how do you see (.) this relationship 73 P [I:: (.) I helped to establish this particular program (.) in the:: Department of the Environment for (.) for the students like Ann who (.) are somewhat disadvantaged they have got children [a:nd",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "Well (.) my sense is is she is ABSOLUTELY paranoid"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "describe what you think she thinks"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 2,
+          "text": "because that is not helpful to me"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "Well shes just misinterpreting everything that takes place"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "Okay (.) thats something that [Ann did"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 5,
+          "text": "but how do you see (.) this relationship"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 0,
+          "target_id": 1,
+          "type": "attack"
+        },
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 4,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 4,
+          "target_id": 5,
+          "type": "attack"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "2087",
+    "conversation_text": "45 A [Ya (.) I mean asking me things you know how was it going and are you able to manage (.) and you know it must be so burdensome having (.) children to look afte:r and (.) its just I thought (.) why is he (.) you know (.) that was too personal for me 46 M Mmh 47 A Thats you know I (.) I dont wanna talk about those things with you 48 M Okay (.) All right (.) so you need (.) more clear boundaries about the kinds of things (.) [to be talked about. 49 A [ABSOLUTELY (.) I just= 50 M =Okay= 51 A =want to go to school I wanna get my degree",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "Asks a question",
+          "id": 0,
+          "text": "you know how was it going and are you able to manage (.) and you know it must be so burdensome having (.) children to look afte:r"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "you know (.) that was too personal for me"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "you know I (.) I dont wanna talk about those things with"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "so you need (.) more clear boundaries about the kinds of things (.) [to be talked about"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "I just= 50 M =Okay= 51 A =want to go to school"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "I wanna get my degree"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 0,
+          "target_id": 1,
+          "type": "attack"
+        },
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 4,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "17779",
+    "conversation_text": "P { margin-bottom: 0.08in } Sean McNeil: Ive found that when she is not working overtime, productivity goes up. Why is it? Because people do like me. Theyve got a fun atmosphere. It is work. We work hard every single day. Its back-breaking work, but, at the same time, you need to make work fun so that you can come in. When youre all uptight all the time I mean, I feel like shes just jealous about me. Whats not to like about me? Im a great-looking guy. Im a lot of fun to be around. That is her jealousy thats pent up.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "found that when she is not working overtime, productivity goes up"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "people do like me"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "got a fun atmosphere"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 3,
+          "text": "at the same time, you need to make work fun so that you can come in"
+        },
+        {
+          "reason": "Clarifies own position",
+          "id": 4,
+          "text": "I mean, I feel like shes just jealous about me"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 4,
+          "target_id": 1,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  }
+]

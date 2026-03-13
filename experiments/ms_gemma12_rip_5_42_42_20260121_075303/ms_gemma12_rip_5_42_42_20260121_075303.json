@@ -1,0 +1,3161 @@
+{
+    "29832": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the policeman is now saying it was an accident"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "So Sherry turns up at his house being loud and inappropriate"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "she was up at his house at all hours"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "she knocked out every single thing in the back yard"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "it was intended to annoy me"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Maybe he was there"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Maybe they're both ruled out"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "We can rule her out because she was there making a noise."
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "He''t there"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "maybe she'' making all that noise because he wasn't there"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29923": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "it covers her and the policeman"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "who else has got a motive?"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "he might be an accomplice"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "it would have been hard, because he was working"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "No one else has got a motive, so it\u2019s her"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Chris\u2019s motive is related to her motive"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "He likes her, and that\u2019s a motive"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "he couldn\u2019t have done it on his own"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "he couldn\u2019t have been the devil mask to like get him to run into the forest"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 7,
+                "type": "support"
+            }
+        ]
+    },
+    "29804": null,
+    "29910": null,
+    "29913": null,
+    "29924": null,
+    "27906": null,
+    "29912": null,
+    "29801": null,
+    "29885": null,
+    "29793": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Oh"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "this is his"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "So"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "these are his boots"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "I think they match the ones in the picture"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "so this is what she thinks might be useful"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "this is not looking good for him"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "No"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "maybe it''sthe through the back seat picture"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "that'\u2019sthe boots that match the footprint"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "and I think they're result 11"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29928": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "the police officer gives her an alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "the police officer gives her an alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "she gives the police officer an alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Chris killed Nick Webster"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "But I can't see his motive"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 6,
+                "text": "Because he wants to fuck that pussy."
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "she knows something'she'safoot and dangerous"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "she'she'son his side"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "this gives the hint that she'she'run away from something"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "she might actually just be running away 'cause she'she'scared"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 11,
+                "text": "because he has an affair with Nick Webster'she'swife"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 12,
+                "text": "because Nick Webster'she'swife wants to sell the property"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -6,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -6,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            },
+            {
+                "source_id": -5,
+                "target_id": -5,
+                "type": "support"
+            }
+        ]
+    },
+    "29825": null,
+    "29934": null,
+    "29908": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "When did he sign that?"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "It doesn't say"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "It doesn't say"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "And I execute this as my free voluntary act"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "So he did it after he found out?"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "So it makes no sense for Cherie to do it"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "She doesn't know though"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "that makes our Carmen the lead suspect now"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "So what is the"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "She gets nothing"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29802": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "there are loose ends"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "he changed his will on the"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "he did find the letter"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "it was Chris"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "why is it on the inside?"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "I don' know, like I feel like we could say it, but also, it'\u2019'"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "That' was on the"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "That'\u2019' got, like a footprint on it, as well"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "it looks like that is Chris' one"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "it'\u2019' not like, like two different ones, is it, like split in half, or something?"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "it just means that he'\u2019'\u2019 seen that there\u2019'\u2019' more letters"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "Is this a Y, what'\u2019'\u2019"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "it'\u2019'\u2019 the number of the Webster house"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            },
+            {
+                "source_id": -4,
+                "target_id": -4,
+                "type": "support"
+            }
+        ]
+    },
+    "29917": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "intimidation's been happening"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 2,
+                "text": "because they heard about the sale"
+            },
+            {
+                "reason": "Explains a reason",
+                "id": 3,
+                "text": "thought it was his wife"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "Are we missing any evidence?"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "everything here will be a clue"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "What's Webster's"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 7,
+                "text": "why have we got that"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "what's Webster's to do with?"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "That's the name"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Nick Webster"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "That's when the bar opened"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "we're assuming we trust Cherie's alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "she couldn't kill"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "there's nothing placing her at the place"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "we don't know where she was"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 16,
+                "text": "unless she was involved in one of the car accidents?"
+            },
+            {
+                "reason": "States a position",
+                "id": 17,
+                "text": "Were you talking about Cherie."
+            },
+            {
+                "reason": "States a position",
+                "id": 18,
+                "text": "they didn't realise it was him"
+            },
+            {
+                "reason": "States a position",
+                "id": 19,
+                "text": "the witch's spooky bit could still be a misunderstanding"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 18,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 19,
+                "type": "support"
+            }
+        ]
+    },
+    "29865": null,
+    "29838": null,
+    "29935": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "she puts it in inverted commas"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "she absolutely refused to consider it"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "she's the one that also puts the, drinking too much"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "She's made him look a bit flaky"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "who could run far"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "She tried to ruin like, his"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Yes, that's the word"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "she doesn's know about the will"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "It's almost like an insurance policy coming through story isn's it?"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "he wasn's drinking"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 1,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 10,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "attack"
+            },
+            {
+                "source_id": 6,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29914": null,
+    "29830": null,
+    "29900": null,
+    "29797": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "which year is it?"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "So"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "So"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 4,
+                "text": "Does it say"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Okay"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Fifty-seven"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 7,
+                "text": "Can I take these notes?"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "maybe that means it is something in the2000"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "he\u2019she figured it out"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 10,
+                "text": "What is the date that he can\u2019tfForget?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    },
+    "29799": null,
+    "29901": null,
+    "29942": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "She broke the news that she doesn't have plans to open Old Scratch"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "So potential motive could be like, getting rid of the bar, for her"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "But we don't know if she wants that"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "they've given her maiden name Houser"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Stopped by Webster's house to drop off some condolence cards, told me that she was staying at a friend's house the night Nick died."
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Apparently she was accepted to study ballet at Indianapolis, when she was14, but her scholarship fell through"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 0,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 0,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29876": null,
+    "29930": null,
+    "29892": null,
+    "29809": null,
+    "27713": {
+        "argument_units": [
+            {
+                "reason": "States a fact",
+                "id": 1,
+                "text": "The death of Old Scratch tavern owner, Nicholas Webster has been re-classified as a murder according to official paperwork filed this week"
+            },
+            {
+                "reason": "States a fact",
+                "id": 2,
+                "text": "the case was recently reopened as a homicide"
+            },
+            {
+                "reason": "States a fact",
+                "id": 3,
+                "text": "Sheriff Paul McGinty confirmed a suspect is now in custody in connection with Webster's death"
+            },
+            {
+                "reason": "States a reason",
+                "id": 4,
+                "text": "The motive of which is believed to be financial gain"
+            },
+            {
+                "reason": "States a fact",
+                "id": 5,
+                "text": "The Sheriff's Office announced there will be an external enquiry into their handling of the investigation"
+            },
+            {
+                "reason": "States a fact",
+                "id": 6,
+                "text": "Deputy Christopher Thomson, the officer in charge of the original investigation, has been suspended without pay"
+            },
+            {
+                "reason": "States a fact",
+                "id": 7,
+                "text": "the case was solved thanks to new evidence uncovered by a private investigator"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "None of this would have happened without the help of Grey Investigations"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "he has no alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "she at least has been spotted"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "we didn't see her leave, but no one saw him, even once"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "we missed something"
+            },
+            {
+                "reason": "States a fact",
+                "id": 13,
+                "text": "Webster's death was initially ruled an accident"
+            },
+            {
+                "reason": "States a fact",
+                "id": 14,
+                "text": "Cherie Webster, the victim\u2019s widow, has been charged with the murder of her husband"
+            },
+            {
+                "reason": "Expresses emotion",
+                "id": 15,
+                "text": "aagh."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 12,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 14,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "27717": null,
+    "29891": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Donna left the bar one hour before the closing"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "she was the last person to leave"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "this could have been after the bar was already closing"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Donna sighting"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "collision between blue Cadillac and a black Lincoln"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "no serious injuries"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "booked Lincoln driver for DUI"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "driving under the influence"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "At [time], there\u2019scCTV footage"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "29805": null,
+    "29841": null,
+    "29784": null,
+    "29883": null,
+    "29898": null,
+    "29919": null,
+    "29782": null,
+    "29933": {
+        "argument_units": [
+            {
+                "reason": "Speculates",
+                "id": 1,
+                "text": "She might have driven back to the place"
+            },
+            {
+                "reason": "Speculates",
+                "id": 2,
+                "text": "he could have added the boots later"
+            },
+            {
+                "reason": "Speculates",
+                "id": 3,
+                "text": "she was taking everybody for a ride"
+            },
+            {
+                "reason": "Speculates",
+                "id": 4,
+                "text": "she wanted to have the car for like a reason"
+            },
+            {
+                "reason": "States a consequence",
+                "id": 5,
+                "text": "if she had the car he couldn\u2019t have had his boots on"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 6,
+                "text": "So what\u2019 s the significance of her borrowing the car?"
+            },
+            {
+                "reason": "Speculates",
+                "id": 7,
+                "text": "she might have wanted to go back to like she was staying with her friends"
+            },
+            {
+                "reason": "Speculates",
+                "id": 8,
+                "text": "she\u2019 s trying to get him nicked rather than her"
+            },
+            {
+                "reason": "Speculates",
+                "id": 9,
+                "text": "she\u2019 s a clever woman"
+            },
+            {
+                "reason": "Speculates",
+                "id": 10,
+                "text": "I think sheshe\u2019 s polished"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "27799": null,
+    "29911": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "they used her wackiness to intimidate him"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "and then think it was her"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "and it was them"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "someone else was trying to make it seem like he was going crazy"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Donna left this"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "he might have gone to her for some help and advice"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "and wanted to tell him"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "she still looks like an ally"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Maybe she found out there was someone selling it"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "not that I\u2019m quite sure of her to be "
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29842": null,
+    "29820": {
+        "argument_units": [
+            {
+                "reason": "States a fact",
+                "id": 1,
+                "text": "he was found"
+            },
+            {
+                "reason": "States a fact",
+                "id": 2,
+                "text": "Coroner arrived"
+            },
+            {
+                "reason": "States a fact",
+                "id": 3,
+                "text": "she leaves him a note"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "I think Donna did it"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "Last person to leave the bar"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "It was like a second home to her"
+            },
+            {
+                "reason": "States a fact",
+                "id": 7,
+                "text": "he\u2019d been dead for four hours"
+            },
+            {
+                "reason": "States a fact",
+                "id": 8,
+                "text": "he died around three thirty"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Looked like she\u2019d been crying a lot"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "If only I\u2019d been faster maybe I could have saved him."
+            }
+        ],
+        "relations": [
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            },
+            {
+                "source_id": -2,
+                "target_id": -2,
+                "type": "support"
+            }
+        ]
+    },
+    "29864": null,
+    "27855": null,
+    "29787": null,
+    "29794": null,
+    "29925": null,
+    "29789": null,
+    "29790": null,
+    "29881": null,
+    "29811": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "it was definitely a fall"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "she went to his house to cover for him to make it seem like they were both in"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "she had to let herself in, instead of, like, just ringing the doorbell or whatever"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "he knew was the culprit of this stuff"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "we maybe are missing something"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "this also, like, doubly confirms that the person at the ritual was Joan"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "she did that weird thing with the dead fox, she was like, this is for Vinegar Tom, and her cat was called Vinegar Tom."
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "we\u2019re not actually necessarily looking for a weapon, if he died from a fall"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "you\u2019de like to think they wouldn\u2019te say it was a fall if it was obviously, like, a wound from a weapon"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "he\u2019s been giving part of the property to Donna, and to Joan"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "she went to the house, but that was at 10:00, and the murdering was after 11:00"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "We don\u2019te know that she stayed there"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 9,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29929": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "Men do crazy shit, if they are, and people do crazy shit, if they have the right motivation"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "just that\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 14,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 15,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 16,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 17,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 18,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 19,
+                "text": "It\u2019sthe motivation for men"
+            },
+            {
+                "reason": "States a position",
+                "id": 20,
+                "text": "It\u2019sthe motivation for men"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 2,
+                "target_id": 2,
+                "type": "support"
+            }
+        ]
+    },
+    "29800": null,
+    "29931": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "they said they never investigated the top"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "the deputy never looked at the top"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "if it was at the bottom, if he would have investigated it"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "his footprint might be there"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "the police officer was up there, and he\u2019 s an accomplice"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "the barman\u2019 s dropped it"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 4,
+                "type": "support"
+            }
+        ]
+    },
+    "29788": null,
+    "29843": null,
+    "29853": null,
+    "29848": null,
+    "29824": null,
+    "29792": null,
+    "29850": null,
+    "29840": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "she creates an alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "he can go where he likes and do what he likes without being questioned"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "Just on my way out I took a peek into his car and noticed something that might be useful."
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "she\u2019'needs to get rid of him"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "he'\u2019'bloody pushed him off a cliff"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "It'\u2019'him"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "his means is thathe'\u2019'a bloody police officer"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "oh, he'\u2019'into hiking"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 7,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 6,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 3,
+                "type": "support"
+            }
+        ]
+    },
+    "29807": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "What is the report?"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "The will"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "the boots are in the back of his car"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "this might just be random extra stuff earlier in the night"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "he was pushed off"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": " I think it was him."
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "there doesn\u2019t seem to be anything about her car"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "But that one is Donna\u2019s car"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Unless there\u2019s another one"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "he doesn\u2019t really need a means other than being there"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 3,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 6,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 5,
+                "type": "support"
+            }
+        ]
+    },
+    "29827": null,
+    "29846": null,
+    "29909": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "she would have kept the bar going"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "So should she fail to survive me"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "I then advise for the remainder of this estate to her sister"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "the wife has lost the bar"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 5,
+                "text": "So what was with the codes?"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "this is a letter from Thompson to Cherie"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "if he gave actual notice of warning"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "this one we can believe"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "'Any time wish it were just us without your older man in the way"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "this is a letter from Cherie to Chris"
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "Suzanne in the beginning inheritance and affair"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 11,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 10,
+                "type": "support"
+            }
+        ]
+    },
+    "27899": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "when did shit start happening?"
+            },
+            {
+                "reason": "Asks a question",
+                "id": 2,
+                "text": "Can we get his notes"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "First of September"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "July there were petty burglaries"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "And then on 18th October"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "he emails again November"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "he emailed to Webster directly"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "Dear Mr Webster"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "What is she thinking"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "So he found out."
+            },
+            {
+                "reason": "States a position",
+                "id": 11,
+                "text": "October 18th to [00:.00:.12]: [inaudible]."
+            },
+            {
+                "reason": "States a position",
+                "id": 12,
+                "text": "October 11th"
+            },
+            {
+                "reason": "States a position",
+                "id": 13,
+                "text": "October 11th"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 11,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 12,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29810": null,
+    "29884": null,
+    "29849": {
+        "argument_units": [
+            {
+                "reason": "States a position",
+                "id": 1,
+                "text": "She didn't do it"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "we think it's that one"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "she was trying to save him"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "it wouldn't make sense that she hires us"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "she would have hired better investigators"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "And we've solved it"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "it is him"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "we think it's her"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "Donna got a ticket at 4:45 for speeding"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 3,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 4,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 7,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 9,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "attack"
+            },
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 2,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 3,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 4,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 5,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 7,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 9,
+                "type": "support"
+            }
+        ]
+    },
+    "29834": null,
+    "29893": null,
+    "29920": {
+        "argument_units": [
+            {
+                "reason": "Posits a motive",
+                "id": 1,
+                "text": "Why was she killing, to sell the pub and run off with Chris?"
+            },
+            {
+                "reason": "Posits a motive",
+                "id": 2,
+                "text": "she might not have told him that bit"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "She could not be involved"
+            },
+            {
+                "reason": "Posits a question",
+                "id": 4,
+                "text": "How were you doing the letters Suzanne?"
+            },
+            {
+                "reason": "Posits a question",
+                "id": 5,
+                "text": "How many would you go back?"
+            },
+            {
+                "reason": "Posits a question",
+                "id": 6,
+                "text": "So if we were doing four, the same pattern as before?"
+            },
+            {
+                "reason": "Posits a question",
+                "id": 7,
+                "text": "Seven back from O?"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "So it\u2019s back to Cherie, all by herself"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "she\u2019s got no alibi"
+            },
+            {
+                "reason": "Posits a motive",
+                "id": 10,
+                "text": "he\u2019ll marry her thinking she\u2019s not a murderer"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 2,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            },
+            {
+                "source_id": 1,
+                "target_id": 1,
+                "type": "support"
+            }
+        ]
+    },
+    "29927": null,
+    "29915": {
+        "argument_units": [
+            {
+                "reason": "Asks a question",
+                "id": 1,
+                "text": "what was this about, just to prove the cat story?"
+            },
+            {
+                "reason": "States a position",
+                "id": 2,
+                "text": "This tells you when the protest was on"
+            },
+            {
+                "reason": "States a position",
+                "id": 3,
+                "text": "gives her an alibi, 'cause she had a woman there at"
+            },
+            {
+                "reason": "States a position",
+                "id": 4,
+                "text": "Cherie, apparently was with her friend, so she apparently has an alibi"
+            },
+            {
+                "reason": "States a position",
+                "id": 5,
+                "text": "It was just for drinks"
+            },
+            {
+                "reason": "States a position",
+                "id": 6,
+                "text": "Up to you"
+            },
+            {
+                "reason": "States a position",
+                "id": 7,
+                "text": "Donna doesn\u2019ts have an alibi, she was there at"
+            },
+            {
+                "reason": "States a position",
+                "id": 8,
+                "text": "I can\u2019 t see Donna\u2019 s motive"
+            },
+            {
+                "reason": "States a position",
+                "id": 9,
+                "text": "other than the inheritance thing, but it\u2019 s not clear that she knew about it"
+            },
+            {
+                "reason": "States a position",
+                "id": 10,
+                "text": "Do you want to pick a suspect, just from the list of suspects, or going to say it\u2019 s Carmen?"
+            }
+        ],
+        "relations": [
+            {
+                "source_id": 4,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 5,
+                "target_id": 8,
+                "type": "support"
+            },
+            {
+                "source_id": 8,
+                "target_id": 10,
+                "type": "support"
+            },
+            {
+                "source_id": 10,
+                "target_id": 8,
+                "type": "support"
+            }
+        ]
+    }
+}

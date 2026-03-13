@@ -1,0 +1,1655 @@
+2026-01-17 20:10:01,020 - INFO - Experiment directory created at: experiments/ms_deepseek_qt_0_42_42_20260117_201001 with seed: 42
+2026-01-17 20:10:01,020 - INFO - Loaded config: {'experiment': {'name': 'ms_llm', 'seed': 42, 'log_level': 'INFO', 'data_path': '', 'do_inference': True, 'do_train': False, 'run_name': 'ms_deepseek_qt_0_42_42_20260117_201001'}, 'model': {'do_fine_tuning': False, 'save_model_path': '', 'args_model_name_or_path': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-14B', 'rels_model_name_or_path': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-14B', 'model_name_or_path': 'deepseek-ai/DeepSeek-R1-Distill-Qwen-14B'}, 'inference': {'data_path': '/app/Data/QT30_test.csv', 'context_examples_path': '/app/Data/qt30_context_examples.json', 'num_context_examples': 0, 'max_attempts': 2, 'max_tokens': 4096, 'temperature': 0, 'repetition_penalty': 1.0, 'repeat_instructions': False}}
+2026-01-17 20:10:01,020 - WARNING - num_context_examples > 0 but no context_examples_path provided; running zero-shot.
+2026-01-17 20:13:45,893 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2026-01-17 20:13:54,182 - INFO - AUE Model loaded successfully.
+2026-01-17 20:13:54,189 - INFO - Inference file loaded with length: 168
+2026-01-17 20:13:54,190 - INFO - --- [Conversation 23695] START ---
+2026-01-17 20:13:55,065 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:14:21,541 - INFO - SUCCESS on attempt 1. Total tokens: 962
+2026-01-17 20:14:22,715 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:14:30,110 - INFO - SUCCESS on attempt 1. Total tokens: 1152
+2026-01-17 20:14:30,150 - INFO - Prediction 0 took 35.9598 seconds
+2026-01-17 20:14:30,150 - INFO - --- [Conversation 19767] START ---
+2026-01-17 20:14:31,096 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:14:48,703 - INFO - SUCCESS on attempt 1. Total tokens: 789
+2026-01-17 20:14:49,878 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:14:51,361 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:14:51,366 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:14:53,126 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:14:53,126 - ERROR - All attempts failed; returning None.
+2026-01-17 20:14:53,161 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:14:53,162 - INFO - --- [Conversation 18977] START ---
+2026-01-17 20:14:54,042 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:15:18,985 - INFO - SUCCESS on attempt 1. Total tokens: 937
+2026-01-17 20:15:20,154 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:15:25,259 - INFO - SUCCESS on attempt 1. Total tokens: 1088
+2026-01-17 20:15:25,303 - INFO - Prediction 2 took 32.1408 seconds
+2026-01-17 20:15:25,304 - INFO - --- [Conversation 25424] START ---
+2026-01-17 20:15:26,216 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:15:45,365 - INFO - SUCCESS on attempt 1. Total tokens: 885
+2026-01-17 20:15:46,523 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:15:49,220 - INFO - SUCCESS on attempt 1. Total tokens: 995
+2026-01-17 20:15:49,260 - INFO - Prediction 3 took 23.9563 seconds
+2026-01-17 20:15:49,261 - INFO - --- [Conversation 23576] START ---
+2026-01-17 20:15:50,137 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:16:05,993 - INFO - SUCCESS on attempt 1. Total tokens: 873
+2026-01-17 20:16:07,145 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:16:09,837 - INFO - SUCCESS on attempt 1. Total tokens: 983
+2026-01-17 20:16:09,873 - INFO - Prediction 4 took 20.6116 seconds
+2026-01-17 20:16:09,873 - INFO - --- [Conversation 26068] START ---
+2026-01-17 20:16:10,744 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:16:19,466 - INFO - SUCCESS on attempt 1. Total tokens: 607
+2026-01-17 20:16:20,624 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:16:23,215 - INFO - SUCCESS on attempt 1. Total tokens: 717
+2026-01-17 20:16:23,252 - INFO - Prediction 5 took 13.3786 seconds
+2026-01-17 20:16:23,252 - INFO - --- [Conversation 23627] START ---
+2026-01-17 20:16:24,136 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:16:38,333 - INFO - SUCCESS on attempt 1. Total tokens: 966
+2026-01-17 20:16:39,480 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:16:42,202 - INFO - SUCCESS on attempt 1. Total tokens: 1076
+2026-01-17 20:16:42,241 - INFO - Prediction 6 took 18.9888 seconds
+2026-01-17 20:16:42,242 - INFO - --- [Conversation 21569] START ---
+2026-01-17 20:16:43,119 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:17:04,275 - INFO - SUCCESS on attempt 1. Total tokens: 749
+2026-01-17 20:17:05,427 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:17:17,422 - INFO - SUCCESS on attempt 1. Total tokens: 1020
+2026-01-17 20:17:17,460 - INFO - Prediction 7 took 35.2177 seconds
+2026-01-17 20:17:17,460 - INFO - --- [Conversation 17921] START ---
+2026-01-17 20:17:18,336 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:17:37,876 - INFO - SUCCESS on attempt 1. Total tokens: 733
+2026-01-17 20:17:39,101 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:17:40,582 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:17:40,587 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:17:42,265 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:17:42,266 - ERROR - All attempts failed; returning None.
+2026-01-17 20:17:42,309 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:17:42,309 - INFO - --- [Conversation 19310] START ---
+2026-01-17 20:17:43,183 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:18:03,043 - INFO - SUCCESS on attempt 1. Total tokens: 701
+2026-01-17 20:18:04,201 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:18:14,953 - INFO - SUCCESS on attempt 1. Total tokens: 951
+2026-01-17 20:18:14,989 - INFO - Prediction 9 took 32.6797 seconds
+2026-01-17 20:18:14,990 - INFO - --- [Conversation 19219] START ---
+2026-01-17 20:18:15,865 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:18:29,870 - INFO - SUCCESS on attempt 1. Total tokens: 795
+2026-01-17 20:18:31,008 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:18:32,490 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:18:32,497 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:18:34,222 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:18:34,222 - ERROR - All attempts failed; returning None.
+2026-01-17 20:18:34,258 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:18:34,259 - INFO - --- [Conversation 18322] START ---
+2026-01-17 20:18:35,169 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:18:59,262 - INFO - SUCCESS on attempt 1. Total tokens: 862
+2026-01-17 20:19:00,386 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:19:01,884 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:19:01,890 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:19:03,634 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:19:03,634 - ERROR - All attempts failed; returning None.
+2026-01-17 20:19:03,670 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:19:03,671 - INFO - --- [Conversation 23972] START ---
+2026-01-17 20:19:04,656 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:19:17,691 - INFO - SUCCESS on attempt 1. Total tokens: 699
+2026-01-17 20:19:18,799 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:19:21,520 - INFO - SUCCESS on attempt 1. Total tokens: 809
+2026-01-17 20:19:21,558 - INFO - Prediction 12 took 17.8872 seconds
+2026-01-17 20:19:21,559 - INFO - --- [Conversation 23573] START ---
+2026-01-17 20:19:22,452 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:19:45,032 - INFO - SUCCESS on attempt 1. Total tokens: 898
+2026-01-17 20:19:46,172 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:19:47,686 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:19:47,694 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:19:49,469 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:19:49,469 - ERROR - All attempts failed; returning None.
+2026-01-17 20:19:49,507 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:19:49,508 - INFO - --- [Conversation 25545] START ---
+2026-01-17 20:19:50,373 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:20:09,980 - INFO - SUCCESS on attempt 1. Total tokens: 782
+2026-01-17 20:20:11,137 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:20:13,783 - INFO - SUCCESS on attempt 1. Total tokens: 892
+2026-01-17 20:20:13,820 - INFO - Prediction 14 took 24.3124 seconds
+2026-01-17 20:20:13,821 - INFO - --- [Conversation 21474] START ---
+2026-01-17 20:20:14,706 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:20:33,160 - INFO - SUCCESS on attempt 1. Total tokens: 677
+2026-01-17 20:20:34,326 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:20:35,777 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:20:35,782 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:20:37,591 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:20:37,591 - ERROR - All attempts failed; returning None.
+2026-01-17 20:20:37,627 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:20:37,628 - INFO - --- [Conversation 18841] START ---
+2026-01-17 20:20:38,494 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:21:03,747 - INFO - SUCCESS on attempt 1. Total tokens: 949
+2026-01-17 20:21:04,905 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:21:08,793 - INFO - SUCCESS on attempt 1. Total tokens: 1079
+2026-01-17 20:21:08,829 - INFO - Prediction 16 took 31.2016 seconds
+2026-01-17 20:21:08,830 - INFO - --- [Conversation 24042] START ---
+2026-01-17 20:21:09,729 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:21:30,698 - INFO - SUCCESS on attempt 1. Total tokens: 831
+2026-01-17 20:21:31,838 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:21:33,371 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:21:33,376 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:21:35,121 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:21:35,121 - ERROR - All attempts failed; returning None.
+2026-01-17 20:21:35,156 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:21:35,157 - INFO - --- [Conversation 23106] START ---
+2026-01-17 20:21:36,023 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:21:50,987 - INFO - SUCCESS on attempt 1. Total tokens: 724
+2026-01-17 20:21:52,105 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:21:55,958 - INFO - SUCCESS on attempt 1. Total tokens: 854
+2026-01-17 20:21:55,994 - INFO - Prediction 18 took 20.8372 seconds
+2026-01-17 20:21:55,995 - INFO - --- [Conversation 23696] START ---
+2026-01-17 20:21:56,864 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:22:21,383 - INFO - SUCCESS on attempt 1. Total tokens: 1013
+2026-01-17 20:22:22,501 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:22:24,076 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:22:24,083 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:22:26,005 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:22:26,005 - ERROR - All attempts failed; returning None.
+2026-01-17 20:22:26,041 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:22:26,041 - INFO - --- [Conversation 21372] START ---
+2026-01-17 20:22:26,923 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:22:46,637 - INFO - SUCCESS on attempt 1. Total tokens: 849
+2026-01-17 20:22:47,814 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:22:49,397 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:22:49,403 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:22:51,130 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:22:51,130 - ERROR - All attempts failed; returning None.
+2026-01-17 20:22:51,165 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:22:51,166 - INFO - --- [Conversation 23917] START ---
+2026-01-17 20:22:52,139 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:23:08,227 - INFO - SUCCESS on attempt 1. Total tokens: 815
+2026-01-17 20:23:09,374 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:23:12,043 - INFO - SUCCESS on attempt 1. Total tokens: 925
+2026-01-17 20:23:12,079 - INFO - Prediction 21 took 20.913 seconds
+2026-01-17 20:23:12,079 - INFO - --- [Conversation 21660] START ---
+2026-01-17 20:23:12,948 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:23:37,241 - INFO - SUCCESS on attempt 1. Total tokens: 928
+2026-01-17 20:23:38,388 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:23:46,896 - INFO - SUCCESS on attempt 1. Total tokens: 1138
+2026-01-17 20:23:46,934 - INFO - Prediction 22 took 34.8545 seconds
+2026-01-17 20:23:46,935 - INFO - --- [Conversation 22947] START ---
+2026-01-17 20:23:47,869 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:24:12,996 - INFO - SUCCESS on attempt 1. Total tokens: 950
+2026-01-17 20:24:14,113 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:24:16,841 - INFO - SUCCESS on attempt 1. Total tokens: 1060
+2026-01-17 20:24:16,878 - INFO - Prediction 23 took 29.9432 seconds
+2026-01-17 20:24:16,878 - INFO - --- [Conversation 23368] START ---
+2026-01-17 20:24:17,887 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:24:33,543 - INFO - SUCCESS on attempt 1. Total tokens: 676
+2026-01-17 20:24:34,663 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:24:36,097 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:24:36,102 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:24:37,778 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:24:37,778 - ERROR - All attempts failed; returning None.
+2026-01-17 20:24:37,815 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:24:37,815 - INFO - --- [Conversation 23767] START ---
+2026-01-17 20:24:38,699 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:24:59,505 - INFO - SUCCESS on attempt 1. Total tokens: 833
+2026-01-17 20:25:00,637 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:25:03,328 - INFO - SUCCESS on attempt 1. Total tokens: 943
+2026-01-17 20:25:03,364 - INFO - Prediction 25 took 25.5487 seconds
+2026-01-17 20:25:03,365 - INFO - --- [Conversation 20515] START ---
+2026-01-17 20:25:04,272 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:25:23,879 - INFO - SUCCESS on attempt 1. Total tokens: 798
+2026-01-17 20:25:24,979 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:25:32,271 - INFO - SUCCESS on attempt 1. Total tokens: 988
+2026-01-17 20:25:32,310 - INFO - Prediction 26 took 28.9452 seconds
+2026-01-17 20:25:32,311 - INFO - --- [Conversation 23959] START ---
+2026-01-17 20:25:33,227 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:25:53,938 - INFO - SUCCESS on attempt 1. Total tokens: 859
+2026-01-17 20:25:55,314 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:25:57,991 - INFO - SUCCESS on attempt 1. Total tokens: 969
+2026-01-17 20:25:58,031 - INFO - Prediction 27 took 25.7198 seconds
+2026-01-17 20:25:58,032 - INFO - --- [Conversation 17932] START ---
+2026-01-17 20:25:58,922 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:26:32,163 - INFO - SUCCESS on attempt 1. Total tokens: 1160
+2026-01-17 20:26:33,354 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:26:34,962 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:26:34,969 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:26:36,836 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:26:36,836 - ERROR - All attempts failed; returning None.
+2026-01-17 20:26:36,875 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:26:36,876 - INFO - --- [Conversation 19077] START ---
+2026-01-17 20:26:37,771 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:27:07,577 - INFO - SUCCESS on attempt 1. Total tokens: 1029
+2026-01-17 20:27:08,750 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:27:10,312 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:27:10,318 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:27:12,123 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:27:12,124 - ERROR - All attempts failed; returning None.
+2026-01-17 20:27:12,159 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:27:12,160 - INFO - --- [Conversation 21678] START ---
+2026-01-17 20:27:13,033 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:27:35,700 - INFO - SUCCESS on attempt 1. Total tokens: 910
+2026-01-17 20:27:36,964 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:27:38,811 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:27:38,816 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:27:40,565 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:27:40,565 - ERROR - All attempts failed; returning None.
+2026-01-17 20:27:40,601 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:27:40,602 - INFO - --- [Conversation 23514] START ---
+2026-01-17 20:27:41,487 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:28:01,282 - INFO - SUCCESS on attempt 1. Total tokens: 755
+2026-01-17 20:28:02,483 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:28:05,123 - INFO - SUCCESS on attempt 1. Total tokens: 865
+2026-01-17 20:28:05,160 - INFO - Prediction 31 took 24.5576 seconds
+2026-01-17 20:28:05,160 - INFO - --- [Conversation 20510] START ---
+2026-01-17 20:28:06,043 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:28:18,727 - INFO - SUCCESS on attempt 1. Total tokens: 655
+2026-01-17 20:28:19,810 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:28:22,396 - INFO - SUCCESS on attempt 1. Total tokens: 765
+2026-01-17 20:28:22,437 - INFO - Prediction 32 took 17.2767 seconds
+2026-01-17 20:28:22,438 - INFO - --- [Conversation 20520] START ---
+2026-01-17 20:28:23,303 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:28:38,090 - INFO - SUCCESS on attempt 1. Total tokens: 666
+2026-01-17 20:28:39,251 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:28:44,197 - INFO - SUCCESS on attempt 1. Total tokens: 816
+2026-01-17 20:28:44,243 - INFO - Prediction 33 took 21.8055 seconds
+2026-01-17 20:28:44,245 - INFO - --- [Conversation 20485] START ---
+2026-01-17 20:28:45,372 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:29:08,904 - INFO - SUCCESS on attempt 1. Total tokens: 864
+2026-01-17 20:29:10,067 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:29:11,572 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:29:11,577 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:29:13,311 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:29:13,311 - ERROR - All attempts failed; returning None.
+2026-01-17 20:29:13,346 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:29:13,347 - INFO - --- [Conversation 23539] START ---
+2026-01-17 20:29:14,319 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:29:31,574 - INFO - SUCCESS on attempt 1. Total tokens: 828
+2026-01-17 20:29:32,738 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:29:34,242 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:29:34,248 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:29:36,002 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:29:36,002 - ERROR - All attempts failed; returning None.
+2026-01-17 20:29:36,042 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:29:36,043 - INFO - --- [Conversation 19756] START ---
+2026-01-17 20:29:36,908 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:29:54,531 - INFO - SUCCESS on attempt 1. Total tokens: 802
+2026-01-17 20:29:55,683 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:30:01,810 - INFO - SUCCESS on attempt 1. Total tokens: 972
+2026-01-17 20:30:01,853 - INFO - Prediction 36 took 25.8103 seconds
+2026-01-17 20:30:01,854 - INFO - --- [Conversation 23594] START ---
+2026-01-17 20:30:02,758 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:30:18,673 - INFO - SUCCESS on attempt 1. Total tokens: 745
+2026-01-17 20:30:19,761 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:30:23,547 - INFO - SUCCESS on attempt 1. Total tokens: 875
+2026-01-17 20:30:23,586 - INFO - Prediction 37 took 21.7322 seconds
+2026-01-17 20:30:23,587 - INFO - --- [Conversation 23307] START ---
+2026-01-17 20:30:24,517 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:30:45,171 - INFO - SUCCESS on attempt 1. Total tokens: 856
+2026-01-17 20:30:46,425 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:30:47,951 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:30:47,957 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:30:49,722 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:30:49,723 - ERROR - All attempts failed; returning None.
+2026-01-17 20:30:49,759 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:30:49,760 - INFO - --- [Conversation 17959] START ---
+2026-01-17 20:30:50,638 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:31:30,480 - INFO - SUCCESS on attempt 1. Total tokens: 1274
+2026-01-17 20:31:31,652 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:31:33,323 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:31:33,330 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:31:35,234 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:31:35,235 - ERROR - All attempts failed; returning None.
+2026-01-17 20:31:35,273 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:31:35,274 - INFO - --- [Conversation 19347] START ---
+2026-01-17 20:31:36,156 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:31:59,493 - INFO - SUCCESS on attempt 1. Total tokens: 855
+2026-01-17 20:32:00,880 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:32:02,390 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:32:02,396 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:32:04,111 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:32:04,111 - ERROR - All attempts failed; returning None.
+2026-01-17 20:32:04,147 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:32:04,148 - INFO - --- [Conversation 21604] START ---
+2026-01-17 20:32:05,038 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:32:32,383 - INFO - SUCCESS on attempt 1. Total tokens: 1022
+2026-01-17 20:32:33,607 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:32:39,904 - INFO - SUCCESS on attempt 1. Total tokens: 1193
+2026-01-17 20:32:39,940 - INFO - Prediction 41 took 35.7923 seconds
+2026-01-17 20:32:39,941 - INFO - --- [Conversation 25511] START ---
+2026-01-17 20:32:40,821 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:32:55,755 - INFO - SUCCESS on attempt 1. Total tokens: 808
+2026-01-17 20:32:56,886 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:32:58,386 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:32:58,392 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:33:01,360 - INFO - SUCCESS on attempt 2. Total tokens: 2002
+2026-01-17 20:33:01,396 - INFO - Prediction 42 took 21.455 seconds
+2026-01-17 20:33:01,397 - INFO - --- [Conversation 23715] START ---
+2026-01-17 20:33:02,273 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:33:23,947 - INFO - SUCCESS on attempt 1. Total tokens: 873
+2026-01-17 20:33:25,045 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:33:32,383 - INFO - SUCCESS on attempt 1. Total tokens: 1063
+2026-01-17 20:33:32,423 - INFO - Prediction 43 took 31.0264 seconds
+2026-01-17 20:33:32,424 - INFO - --- [Conversation 21026] START ---
+2026-01-17 20:33:33,330 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:33:58,278 - INFO - SUCCESS on attempt 1. Total tokens: 957
+2026-01-17 20:33:59,468 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:34:01,020 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:34:01,026 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:34:02,784 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:34:02,784 - ERROR - All attempts failed; returning None.
+2026-01-17 20:34:02,820 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:34:02,821 - INFO - --- [Conversation 23380] START ---
+2026-01-17 20:34:03,692 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:34:28,902 - INFO - SUCCESS on attempt 1. Total tokens: 908
+2026-01-17 20:34:30,055 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:34:31,563 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:34:31,569 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:34:33,341 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:34:33,341 - ERROR - All attempts failed; returning None.
+2026-01-17 20:34:33,377 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:34:33,378 - INFO - --- [Conversation 21745] START ---
+2026-01-17 20:34:34,246 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:34:57,632 - INFO - SUCCESS on attempt 1. Total tokens: 834
+2026-01-17 20:34:58,785 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:35:00,297 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:35:00,302 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:35:02,046 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:35:02,046 - ERROR - All attempts failed; returning None.
+2026-01-17 20:35:02,081 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:35:02,082 - INFO - --- [Conversation 19749] START ---
+2026-01-17 20:35:02,961 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:35:15,556 - INFO - SUCCESS on attempt 1. Total tokens: 595
+2026-01-17 20:35:16,635 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:35:19,237 - INFO - SUCCESS on attempt 1. Total tokens: 705
+2026-01-17 20:35:19,272 - INFO - Prediction 47 took 17.1898 seconds
+2026-01-17 20:35:19,273 - INFO - --- [Conversation 23818] START ---
+2026-01-17 20:35:20,149 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:35:42,950 - INFO - SUCCESS on attempt 1. Total tokens: 1028
+2026-01-17 20:35:44,076 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:35:49,147 - INFO - SUCCESS on attempt 1. Total tokens: 1178
+2026-01-17 20:35:49,191 - INFO - Prediction 48 took 29.9179 seconds
+2026-01-17 20:35:49,192 - INFO - --- [Conversation 23866] START ---
+2026-01-17 20:35:50,062 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:36:18,264 - INFO - SUCCESS on attempt 1. Total tokens: 1050
+2026-01-17 20:36:19,426 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:36:20,991 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:36:20,997 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:36:22,808 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:36:22,808 - ERROR - All attempts failed; returning None.
+2026-01-17 20:36:22,845 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:36:22,846 - INFO - --- [Conversation 23624] START ---
+2026-01-17 20:36:23,718 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:36:41,220 - INFO - SUCCESS on attempt 1. Total tokens: 753
+2026-01-17 20:36:42,378 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:36:45,016 - INFO - SUCCESS on attempt 1. Total tokens: 863
+2026-01-17 20:36:45,052 - INFO - Prediction 50 took 22.2062 seconds
+2026-01-17 20:36:45,053 - INFO - --- [Conversation 19216] START ---
+2026-01-17 20:36:45,923 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:37:03,266 - INFO - SUCCESS on attempt 1. Total tokens: 723
+2026-01-17 20:37:04,444 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:37:11,720 - INFO - SUCCESS on attempt 1. Total tokens: 913
+2026-01-17 20:37:11,757 - INFO - Prediction 51 took 26.7039 seconds
+2026-01-17 20:37:11,757 - INFO - --- [Conversation 21311] START ---
+2026-01-17 20:37:12,656 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:37:36,770 - INFO - SUCCESS on attempt 1. Total tokens: 934
+2026-01-17 20:37:37,938 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:37:39,466 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:37:39,473 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:37:41,318 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:37:41,318 - ERROR - All attempts failed; returning None.
+2026-01-17 20:37:41,360 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:37:41,361 - INFO - --- [Conversation 21450] START ---
+2026-01-17 20:37:42,261 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:38:02,431 - INFO - SUCCESS on attempt 1. Total tokens: 773
+2026-01-17 20:38:03,697 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:38:09,818 - INFO - SUCCESS on attempt 1. Total tokens: 943
+2026-01-17 20:38:09,854 - INFO - Prediction 53 took 28.4935 seconds
+2026-01-17 20:38:09,855 - INFO - --- [Conversation 23958] START ---
+2026-01-17 20:38:10,718 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:38:25,048 - INFO - SUCCESS on attempt 1. Total tokens: 827
+2026-01-17 20:38:26,214 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:38:30,077 - INFO - SUCCESS on attempt 1. Total tokens: 957
+2026-01-17 20:38:30,123 - INFO - Prediction 54 took 20.2679 seconds
+2026-01-17 20:38:30,124 - INFO - --- [Conversation 20505] START ---
+2026-01-17 20:38:31,013 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:38:51,089 - INFO - SUCCESS on attempt 1. Total tokens: 833
+2026-01-17 20:38:52,253 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:38:53,784 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:38:53,789 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:38:55,557 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:38:55,557 - ERROR - All attempts failed; returning None.
+2026-01-17 20:38:55,594 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:38:55,595 - INFO - --- [Conversation 21612] START ---
+2026-01-17 20:38:56,476 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:39:04,148 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentUnits
+2026-01-17 20:39:04,153 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:39:13,670 - INFO - SUCCESS on attempt 2. Total tokens: 1539
+2026-01-17 20:39:14,763 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:39:17,349 - INFO - SUCCESS on attempt 1. Total tokens: 756
+2026-01-17 20:39:17,386 - INFO - Prediction 56 took 21.791 seconds
+2026-01-17 20:39:17,387 - INFO - --- [Conversation 25728] START ---
+2026-01-17 20:39:18,252 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:39:33,680 - INFO - SUCCESS on attempt 1. Total tokens: 619
+2026-01-17 20:39:34,843 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:39:37,447 - INFO - SUCCESS on attempt 1. Total tokens: 729
+2026-01-17 20:39:37,483 - INFO - Prediction 57 took 20.0967 seconds
+2026-01-17 20:39:37,484 - INFO - --- [Conversation 23938] START ---
+2026-01-17 20:39:38,381 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:39:58,745 - INFO - SUCCESS on attempt 1. Total tokens: 871
+2026-01-17 20:39:59,911 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:40:01,420 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:40:01,425 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:40:04,393 - INFO - SUCCESS on attempt 2. Total tokens: 2128
+2026-01-17 20:40:04,429 - INFO - Prediction 58 took 26.945 seconds
+2026-01-17 20:40:04,430 - INFO - --- [Conversation 21305] START ---
+2026-01-17 20:40:05,305 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:40:26,200 - INFO - SUCCESS on attempt 1. Total tokens: 873
+2026-01-17 20:40:27,350 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:40:28,859 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:40:28,864 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:40:30,592 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:40:30,592 - ERROR - All attempts failed; returning None.
+2026-01-17 20:40:30,628 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:40:30,629 - INFO - --- [Conversation 23591] START ---
+2026-01-17 20:40:31,510 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:40:46,911 - INFO - SUCCESS on attempt 1. Total tokens: 600
+2026-01-17 20:40:48,037 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:40:50,626 - INFO - SUCCESS on attempt 1. Total tokens: 710
+2026-01-17 20:40:50,662 - INFO - Prediction 60 took 20.0332 seconds
+2026-01-17 20:40:50,663 - INFO - --- [Conversation 21652] START ---
+2026-01-17 20:40:51,538 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:41:14,690 - INFO - SUCCESS on attempt 1. Total tokens: 929
+2026-01-17 20:41:15,828 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:41:17,339 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:41:17,345 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:41:19,099 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:41:19,099 - ERROR - All attempts failed; returning None.
+2026-01-17 20:41:19,135 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:41:19,136 - INFO - --- [Conversation 23712] START ---
+2026-01-17 20:41:20,114 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:41:43,164 - INFO - SUCCESS on attempt 1. Total tokens: 897
+2026-01-17 20:41:44,425 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:41:45,934 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:41:45,940 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:41:47,711 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:41:47,711 - ERROR - All attempts failed; returning None.
+2026-01-17 20:41:47,750 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:41:47,751 - INFO - --- [Conversation 23544] START ---
+2026-01-17 20:41:48,649 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:42:08,050 - INFO - SUCCESS on attempt 1. Total tokens: 833
+2026-01-17 20:42:09,212 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:42:10,716 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:42:10,722 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:42:12,446 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:42:12,446 - ERROR - All attempts failed; returning None.
+2026-01-17 20:42:12,482 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:42:12,483 - INFO - --- [Conversation 21461] START ---
+2026-01-17 20:42:13,432 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:42:35,125 - INFO - SUCCESS on attempt 1. Total tokens: 803
+2026-01-17 20:42:36,286 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:42:37,768 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:42:37,773 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:42:39,494 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:42:39,494 - ERROR - All attempts failed; returning None.
+2026-01-17 20:42:39,534 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:42:39,534 - INFO - --- [Conversation 23533] START ---
+2026-01-17 20:42:40,614 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:42:42,195 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentUnits
+2026-01-17 20:42:42,199 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:42:43,882 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentUnits
+2026-01-17 20:42:43,882 - ERROR - All attempts failed; returning None.
+2026-01-17 20:42:43,918 - INFO - No arg units extracted. Proceed to next discussion.
+2026-01-17 20:42:43,919 - INFO - --- [Conversation 19327] START ---
+2026-01-17 20:42:44,796 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:43:00,836 - INFO - SUCCESS on attempt 1. Total tokens: 765
+2026-01-17 20:43:01,992 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:43:06,974 - INFO - SUCCESS on attempt 1. Total tokens: 915
+2026-01-17 20:43:07,010 - INFO - Prediction 66 took 23.0916 seconds
+2026-01-17 20:43:07,011 - INFO - --- [Conversation 23290] START ---
+2026-01-17 20:43:07,886 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:43:25,852 - INFO - SUCCESS on attempt 1. Total tokens: 740
+2026-01-17 20:43:26,946 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:43:29,593 - INFO - SUCCESS on attempt 1. Total tokens: 850
+2026-01-17 20:43:29,633 - INFO - Prediction 67 took 22.622 seconds
+2026-01-17 20:43:29,634 - INFO - --- [Conversation 19753] START ---
+2026-01-17 20:43:30,517 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:44:02,958 - INFO - SUCCESS on attempt 1. Total tokens: 1114
+2026-01-17 20:44:04,102 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:44:05,689 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:44:05,695 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:44:07,507 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:44:07,507 - ERROR - All attempts failed; returning None.
+2026-01-17 20:44:07,543 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:44:07,544 - INFO - --- [Conversation 21371] START ---
+2026-01-17 20:44:08,411 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:44:28,020 - INFO - SUCCESS on attempt 1. Total tokens: 847
+2026-01-17 20:44:29,115 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:44:30,616 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:44:30,621 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:44:32,352 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:44:32,352 - ERROR - All attempts failed; returning None.
+2026-01-17 20:44:32,389 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:44:32,390 - INFO - --- [Conversation 23836] START ---
+2026-01-17 20:44:33,288 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:45:01,648 - INFO - SUCCESS on attempt 1. Total tokens: 1112
+2026-01-17 20:45:02,882 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:45:11,547 - INFO - SUCCESS on attempt 1. Total tokens: 1322
+2026-01-17 20:45:11,584 - INFO - Prediction 70 took 39.1944 seconds
+2026-01-17 20:45:11,585 - INFO - --- [Conversation 21587] START ---
+2026-01-17 20:45:12,482 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:45:38,212 - INFO - SUCCESS on attempt 1. Total tokens: 941
+2026-01-17 20:45:39,424 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:45:42,213 - INFO - SUCCESS on attempt 1. Total tokens: 1052
+2026-01-17 20:45:42,253 - INFO - Prediction 71 took 30.6681 seconds
+2026-01-17 20:45:42,254 - INFO - --- [Conversation 19741] START ---
+2026-01-17 20:45:43,133 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:46:15,719 - INFO - SUCCESS on attempt 1. Total tokens: 1059
+2026-01-17 20:46:16,879 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:46:18,464 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:46:18,470 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:46:20,274 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:46:20,274 - ERROR - All attempts failed; returning None.
+2026-01-17 20:46:20,312 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:46:20,313 - INFO - --- [Conversation 18878] START ---
+2026-01-17 20:46:21,206 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:46:37,584 - INFO - SUCCESS on attempt 1. Total tokens: 741
+2026-01-17 20:46:38,761 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:46:42,571 - INFO - SUCCESS on attempt 1. Total tokens: 871
+2026-01-17 20:46:42,608 - INFO - Prediction 73 took 22.2951 seconds
+2026-01-17 20:46:42,609 - INFO - --- [Conversation 23476] START ---
+2026-01-17 20:46:43,506 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:47:05,619 - INFO - SUCCESS on attempt 1. Total tokens: 822
+2026-01-17 20:47:06,784 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:47:08,307 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:47:08,313 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:47:10,107 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:47:10,107 - ERROR - All attempts failed; returning None.
+2026-01-17 20:47:10,144 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:47:10,144 - INFO - --- [Conversation 23705] START ---
+2026-01-17 20:47:11,014 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:47:36,625 - INFO - SUCCESS on attempt 1. Total tokens: 953
+2026-01-17 20:47:37,787 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:47:42,844 - INFO - SUCCESS on attempt 1. Total tokens: 1103
+2026-01-17 20:47:42,885 - INFO - Prediction 75 took 32.7409 seconds
+2026-01-17 20:47:42,886 - INFO - --- [Conversation 18875] START ---
+2026-01-17 20:47:43,776 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:48:04,537 - INFO - SUCCESS on attempt 1. Total tokens: 906
+2026-01-17 20:48:05,688 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:48:11,865 - INFO - SUCCESS on attempt 1. Total tokens: 1076
+2026-01-17 20:48:11,902 - INFO - Prediction 76 took 29.0154 seconds
+2026-01-17 20:48:11,902 - INFO - --- [Conversation 23585] START ---
+2026-01-17 20:48:12,790 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:48:33,746 - INFO - SUCCESS on attempt 1. Total tokens: 860
+2026-01-17 20:48:34,882 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:48:36,398 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:48:36,403 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:48:42,827 - INFO - SUCCESS on attempt 2. Total tokens: 2166
+2026-01-17 20:48:42,866 - INFO - Prediction 77 took 30.9633 seconds
+2026-01-17 20:48:42,866 - INFO - --- [Conversation 23763] START ---
+2026-01-17 20:48:43,728 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:49:08,018 - INFO - SUCCESS on attempt 1. Total tokens: 1012
+2026-01-17 20:49:09,221 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:49:10,780 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:49:10,786 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:49:12,584 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:49:12,585 - ERROR - All attempts failed; returning None.
+2026-01-17 20:49:12,621 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:49:12,621 - INFO - --- [Conversation 25510] START ---
+2026-01-17 20:49:13,535 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:49:38,136 - INFO - SUCCESS on attempt 1. Total tokens: 924
+2026-01-17 20:49:39,301 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:49:47,821 - INFO - SUCCESS on attempt 1. Total tokens: 1134
+2026-01-17 20:49:47,866 - INFO - Prediction 79 took 35.2444 seconds
+2026-01-17 20:49:47,867 - INFO - --- [Conversation 20837] START ---
+2026-01-17 20:49:48,753 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:50:04,260 - INFO - SUCCESS on attempt 1. Total tokens: 645
+2026-01-17 20:50:05,446 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:50:08,036 - INFO - SUCCESS on attempt 1. Total tokens: 755
+2026-01-17 20:50:08,072 - INFO - Prediction 80 took 20.2049 seconds
+2026-01-17 20:50:08,073 - INFO - --- [Conversation 21711] START ---
+2026-01-17 20:50:08,946 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:50:26,535 - INFO - SUCCESS on attempt 1. Total tokens: 890
+2026-01-17 20:50:27,738 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:50:30,404 - INFO - SUCCESS on attempt 1. Total tokens: 1000
+2026-01-17 20:50:30,442 - INFO - Prediction 81 took 22.369 seconds
+2026-01-17 20:50:30,443 - INFO - --- [Conversation 20502] START ---
+2026-01-17 20:50:31,300 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:50:52,921 - INFO - SUCCESS on attempt 1. Total tokens: 840
+2026-01-17 20:50:54,095 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:50:55,600 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:50:55,606 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:50:57,367 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:50:57,368 - ERROR - All attempts failed; returning None.
+2026-01-17 20:50:57,404 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:50:57,405 - INFO - --- [Conversation 23445] START ---
+2026-01-17 20:50:58,279 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:51:24,343 - INFO - SUCCESS on attempt 1. Total tokens: 923
+2026-01-17 20:51:25,524 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:51:27,037 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:51:27,043 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:51:28,848 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:51:28,849 - ERROR - All attempts failed; returning None.
+2026-01-17 20:51:28,888 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:51:28,889 - INFO - --- [Conversation 23813] START ---
+2026-01-17 20:51:29,778 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:51:58,028 - INFO - SUCCESS on attempt 1. Total tokens: 992
+2026-01-17 20:51:59,206 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:52:04,527 - INFO - SUCCESS on attempt 1. Total tokens: 1146
+2026-01-17 20:52:04,565 - INFO - Prediction 84 took 35.6764 seconds
+2026-01-17 20:52:04,566 - INFO - --- [Conversation 18775] START ---
+2026-01-17 20:52:05,444 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:52:32,959 - INFO - SUCCESS on attempt 1. Total tokens: 1004
+2026-01-17 20:52:34,120 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:52:39,182 - INFO - SUCCESS on attempt 1. Total tokens: 1154
+2026-01-17 20:52:39,220 - INFO - Prediction 85 took 34.6544 seconds
+2026-01-17 20:52:39,221 - INFO - --- [Conversation 21342] START ---
+2026-01-17 20:52:40,102 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:52:53,330 - INFO - SUCCESS on attempt 1. Total tokens: 605
+2026-01-17 20:52:54,508 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:52:57,097 - INFO - SUCCESS on attempt 1. Total tokens: 715
+2026-01-17 20:52:57,136 - INFO - Prediction 86 took 17.9142 seconds
+2026-01-17 20:52:57,136 - INFO - --- [Conversation 23560] START ---
+2026-01-17 20:52:58,002 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:53:16,282 - INFO - SUCCESS on attempt 1. Total tokens: 798
+2026-01-17 20:53:17,378 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:53:23,500 - INFO - SUCCESS on attempt 1. Total tokens: 968
+2026-01-17 20:53:23,540 - INFO - Prediction 87 took 26.4036 seconds
+2026-01-17 20:53:23,541 - INFO - --- [Conversation 25497] START ---
+2026-01-17 20:53:24,438 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:53:49,199 - INFO - SUCCESS on attempt 1. Total tokens: 944
+2026-01-17 20:53:50,351 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:53:51,903 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:53:51,909 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:53:53,679 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:53:53,679 - ERROR - All attempts failed; returning None.
+2026-01-17 20:53:53,714 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:53:53,715 - INFO - --- [Conversation 23266] START ---
+2026-01-17 20:53:54,643 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:54:33,539 - INFO - SUCCESS on attempt 1. Total tokens: 1234
+2026-01-17 20:54:35,185 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:54:36,823 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:54:36,830 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:54:38,680 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:54:38,680 - ERROR - All attempts failed; returning None.
+2026-01-17 20:54:38,717 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:54:38,718 - INFO - --- [Conversation 23614] START ---
+2026-01-17 20:54:39,594 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:54:59,764 - INFO - SUCCESS on attempt 1. Total tokens: 853
+2026-01-17 20:55:00,937 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:55:03,617 - INFO - SUCCESS on attempt 1. Total tokens: 963
+2026-01-17 20:55:03,653 - INFO - Prediction 90 took 24.9347 seconds
+2026-01-17 20:55:03,654 - INFO - --- [Conversation 19091] START ---
+2026-01-17 20:55:04,554 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:55:27,195 - INFO - SUCCESS on attempt 1. Total tokens: 858
+2026-01-17 20:55:28,316 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:55:30,980 - INFO - SUCCESS on attempt 1. Total tokens: 968
+2026-01-17 20:55:31,017 - INFO - Prediction 91 took 27.3638 seconds
+2026-01-17 20:55:31,018 - INFO - --- [Conversation 19902] START ---
+2026-01-17 20:55:31,892 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:55:48,217 - INFO - SUCCESS on attempt 1. Total tokens: 781
+2026-01-17 20:55:49,336 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:56:03,649 - INFO - SUCCESS on attempt 1. Total tokens: 1091
+2026-01-17 20:56:03,694 - INFO - Prediction 92 took 32.6753 seconds
+2026-01-17 20:56:03,695 - INFO - --- [Conversation 21379] START ---
+2026-01-17 20:56:04,617 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:56:33,545 - INFO - SUCCESS on attempt 1. Total tokens: 964
+2026-01-17 20:56:34,711 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:56:47,066 - INFO - SUCCESS on attempt 1. Total tokens: 1239
+2026-01-17 20:56:47,111 - INFO - Prediction 93 took 43.416 seconds
+2026-01-17 20:56:47,112 - INFO - --- [Conversation 23009] START ---
+2026-01-17 20:56:48,000 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:57:08,797 - INFO - SUCCESS on attempt 1. Total tokens: 828
+2026-01-17 20:57:09,984 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:57:11,490 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:57:11,495 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:57:13,238 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:57:13,238 - ERROR - All attempts failed; returning None.
+2026-01-17 20:57:13,277 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:57:13,278 - INFO - --- [Conversation 21304] START ---
+2026-01-17 20:57:14,194 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:57:15,773 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentUnits
+2026-01-17 20:57:15,776 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:57:17,412 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentUnits
+2026-01-17 20:57:17,412 - ERROR - All attempts failed; returning None.
+2026-01-17 20:57:17,448 - INFO - No arg units extracted. Proceed to next discussion.
+2026-01-17 20:57:17,449 - INFO - --- [Conversation 21477] START ---
+2026-01-17 20:57:18,440 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:57:42,475 - INFO - SUCCESS on attempt 1. Total tokens: 923
+2026-01-17 20:57:43,649 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:57:45,168 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:57:45,174 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:57:46,939 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:57:46,939 - ERROR - All attempts failed; returning None.
+2026-01-17 20:57:46,976 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:57:46,976 - INFO - --- [Conversation 23967] START ---
+2026-01-17 20:57:47,841 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:58:00,657 - INFO - SUCCESS on attempt 1. Total tokens: 699
+2026-01-17 20:58:01,792 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:58:04,440 - INFO - SUCCESS on attempt 1. Total tokens: 809
+2026-01-17 20:58:04,476 - INFO - Prediction 97 took 17.4994 seconds
+2026-01-17 20:58:04,477 - INFO - --- [Conversation 21277] START ---
+2026-01-17 20:58:05,583 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:58:20,334 - INFO - SUCCESS on attempt 1. Total tokens: 723
+2026-01-17 20:58:21,511 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:58:24,191 - INFO - SUCCESS on attempt 1. Total tokens: 833
+2026-01-17 20:58:24,237 - INFO - Prediction 98 took 19.7602 seconds
+2026-01-17 20:58:24,238 - INFO - --- [Conversation 23587] START ---
+2026-01-17 20:58:25,130 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:58:44,889 - INFO - SUCCESS on attempt 1. Total tokens: 838
+2026-01-17 20:58:46,049 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:58:47,558 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:58:47,565 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 20:58:49,307 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 20:58:49,307 - ERROR - All attempts failed; returning None.
+2026-01-17 20:58:49,346 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 20:58:49,347 - INFO - --- [Conversation 23548] START ---
+2026-01-17 20:58:50,233 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:59:07,636 - INFO - SUCCESS on attempt 1. Total tokens: 728
+2026-01-17 20:59:08,798 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:59:13,749 - INFO - SUCCESS on attempt 1. Total tokens: 878
+2026-01-17 20:59:13,787 - INFO - Prediction 100 took 24.4407 seconds
+2026-01-17 20:59:13,788 - INFO - --- [Conversation 20516] START ---
+2026-01-17 20:59:14,698 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:59:35,748 - INFO - SUCCESS on attempt 1. Total tokens: 788
+2026-01-17 20:59:36,908 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:59:43,054 - INFO - SUCCESS on attempt 1. Total tokens: 958
+2026-01-17 20:59:43,098 - INFO - Prediction 101 took 29.3095 seconds
+2026-01-17 20:59:43,099 - INFO - --- [Conversation 20850] START ---
+2026-01-17 20:59:44,033 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 20:59:57,663 - INFO - SUCCESS on attempt 1. Total tokens: 625
+2026-01-17 20:59:58,955 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:00:02,763 - INFO - SUCCESS on attempt 1. Total tokens: 755
+2026-01-17 21:00:02,800 - INFO - Prediction 102 took 19.7008 seconds
+2026-01-17 21:00:02,800 - INFO - --- [Conversation 23782] START ---
+2026-01-17 21:00:03,682 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:00:25,615 - INFO - SUCCESS on attempt 1. Total tokens: 835
+2026-01-17 21:00:26,954 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:00:33,141 - INFO - SUCCESS on attempt 1. Total tokens: 1005
+2026-01-17 21:00:33,183 - INFO - Prediction 103 took 30.3825 seconds
+2026-01-17 21:00:33,184 - INFO - --- [Conversation 19165] START ---
+2026-01-17 21:00:34,067 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:00:49,582 - INFO - SUCCESS on attempt 1. Total tokens: 896
+2026-01-17 21:00:50,708 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:00:52,213 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:00:52,218 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:00:53,998 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:00:53,998 - ERROR - All attempts failed; returning None.
+2026-01-17 21:00:54,034 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:00:54,035 - INFO - --- [Conversation 21045] START ---
+2026-01-17 21:00:54,933 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:01:11,672 - INFO - SUCCESS on attempt 1. Total tokens: 706
+2026-01-17 21:01:12,797 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:01:18,894 - INFO - SUCCESS on attempt 1. Total tokens: 876
+2026-01-17 21:01:18,930 - INFO - Prediction 105 took 24.8957 seconds
+2026-01-17 21:01:18,931 - INFO - --- [Conversation 20748] START ---
+2026-01-17 21:01:20,022 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:01:48,014 - INFO - SUCCESS on attempt 1. Total tokens: 977
+2026-01-17 21:01:49,238 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:01:51,972 - INFO - SUCCESS on attempt 1. Total tokens: 1087
+2026-01-17 21:01:52,010 - INFO - Prediction 106 took 33.0786 seconds
+2026-01-17 21:01:52,011 - INFO - --- [Conversation 18274] START ---
+2026-01-17 21:01:52,912 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:02:05,156 - INFO - SUCCESS on attempt 1. Total tokens: 781
+2026-01-17 21:02:06,332 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:02:10,143 - INFO - SUCCESS on attempt 1. Total tokens: 911
+2026-01-17 21:02:10,179 - INFO - Prediction 107 took 18.1687 seconds
+2026-01-17 21:02:10,180 - INFO - --- [Conversation 25420] START ---
+2026-01-17 21:02:11,073 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:02:33,258 - INFO - SUCCESS on attempt 1. Total tokens: 949
+2026-01-17 21:02:34,417 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:02:37,302 - INFO - SUCCESS on attempt 1. Total tokens: 1059
+2026-01-17 21:02:37,342 - INFO - Prediction 108 took 27.1623 seconds
+2026-01-17 21:02:37,343 - INFO - --- [Conversation 19746] START ---
+2026-01-17 21:02:38,231 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:03:06,662 - INFO - SUCCESS on attempt 1. Total tokens: 1172
+2026-01-17 21:03:07,844 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:03:09,440 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:03:09,447 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:03:11,270 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:03:11,270 - ERROR - All attempts failed; returning None.
+2026-01-17 21:03:11,306 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:03:11,307 - INFO - --- [Conversation 20881] START ---
+2026-01-17 21:03:12,172 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:03:30,018 - INFO - SUCCESS on attempt 1. Total tokens: 699
+2026-01-17 21:03:31,406 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:03:32,893 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:03:32,899 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:03:34,580 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:03:34,581 - ERROR - All attempts failed; returning None.
+2026-01-17 21:03:34,617 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:03:34,618 - INFO - --- [Conversation 25491] START ---
+2026-01-17 21:03:35,497 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:03:53,397 - INFO - SUCCESS on attempt 1. Total tokens: 870
+2026-01-17 21:03:54,550 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:03:56,059 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:03:56,064 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:04:00,183 - INFO - SUCCESS on attempt 2. Total tokens: 2146
+2026-01-17 21:04:00,225 - INFO - Prediction 111 took 25.6076 seconds
+2026-01-17 21:04:00,227 - INFO - --- [Conversation 21052] START ---
+2026-01-17 21:04:01,107 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:04:18,416 - INFO - SUCCESS on attempt 1. Total tokens: 730
+2026-01-17 21:04:19,547 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:04:23,613 - INFO - SUCCESS on attempt 1. Total tokens: 860
+2026-01-17 21:04:23,660 - INFO - Prediction 112 took 23.4334 seconds
+2026-01-17 21:04:23,661 - INFO - --- [Conversation 23772] START ---
+2026-01-17 21:04:24,555 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:04:53,181 - INFO - SUCCESS on attempt 1. Total tokens: 977
+2026-01-17 21:04:54,311 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:04:55,868 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:04:55,875 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:04:57,649 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:04:57,649 - ERROR - All attempts failed; returning None.
+2026-01-17 21:04:57,689 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:04:57,690 - INFO - --- [Conversation 21268] START ---
+2026-01-17 21:04:58,574 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:05:09,752 - INFO - SUCCESS on attempt 1. Total tokens: 598
+2026-01-17 21:05:10,867 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:05:14,610 - INFO - SUCCESS on attempt 1. Total tokens: 728
+2026-01-17 21:05:14,647 - INFO - Prediction 114 took 16.9571 seconds
+2026-01-17 21:05:14,648 - INFO - --- [Conversation 23558] START ---
+2026-01-17 21:05:15,733 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:05:28,960 - INFO - SUCCESS on attempt 1. Total tokens: 669
+2026-01-17 21:05:30,119 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:05:36,237 - INFO - SUCCESS on attempt 1. Total tokens: 839
+2026-01-17 21:05:36,283 - INFO - Prediction 115 took 21.6348 seconds
+2026-01-17 21:05:36,284 - INFO - --- [Conversation 20763] START ---
+2026-01-17 21:05:37,177 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:05:56,270 - INFO - SUCCESS on attempt 1. Total tokens: 784
+2026-01-17 21:05:57,446 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:05:58,933 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:05:58,938 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:06:00,688 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:06:00,688 - ERROR - All attempts failed; returning None.
+2026-01-17 21:06:00,725 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:06:00,726 - INFO - --- [Conversation 23388] START ---
+2026-01-17 21:06:01,596 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:06:14,703 - INFO - SUCCESS on attempt 1. Total tokens: 735
+2026-01-17 21:06:15,795 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:06:19,581 - INFO - SUCCESS on attempt 1. Total tokens: 865
+2026-01-17 21:06:19,618 - INFO - Prediction 117 took 18.8924 seconds
+2026-01-17 21:06:19,619 - INFO - --- [Conversation 19187] START ---
+2026-01-17 21:06:20,493 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:06:36,218 - INFO - SUCCESS on attempt 1. Total tokens: 862
+2026-01-17 21:06:37,380 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:06:40,088 - INFO - SUCCESS on attempt 1. Total tokens: 972
+2026-01-17 21:06:40,134 - INFO - Prediction 118 took 20.5153 seconds
+2026-01-17 21:06:40,135 - INFO - --- [Conversation 20307] START ---
+2026-01-17 21:06:41,025 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:07:08,354 - INFO - SUCCESS on attempt 1. Total tokens: 1159
+2026-01-17 21:07:09,515 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:07:11,108 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:07:11,115 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:07:12,980 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:07:12,980 - ERROR - All attempts failed; returning None.
+2026-01-17 21:07:13,019 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:07:13,020 - INFO - --- [Conversation 23015] START ---
+2026-01-17 21:07:13,893 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:07:40,891 - INFO - SUCCESS on attempt 1. Total tokens: 966
+2026-01-17 21:07:42,151 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:07:43,719 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:07:43,725 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:07:45,482 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:07:45,482 - ERROR - All attempts failed; returning None.
+2026-01-17 21:07:45,522 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:07:45,522 - INFO - --- [Conversation 23688] START ---
+2026-01-17 21:07:46,454 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:08:07,353 - INFO - SUCCESS on attempt 1. Total tokens: 781
+2026-01-17 21:08:08,541 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:08:10,018 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:08:10,023 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:08:11,734 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:08:11,735 - ERROR - All attempts failed; returning None.
+2026-01-17 21:08:11,770 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:08:11,771 - INFO - --- [Conversation 18864] START ---
+2026-01-17 21:08:12,663 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:08:45,580 - INFO - SUCCESS on attempt 1. Total tokens: 1037
+2026-01-17 21:08:46,741 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:09:04,542 - INFO - SUCCESS on attempt 1. Total tokens: 1404
+2026-01-17 21:09:04,581 - INFO - Prediction 122 took 52.8107 seconds
+2026-01-17 21:09:04,583 - INFO - --- [Conversation 18281] START ---
+2026-01-17 21:09:05,515 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:09:20,876 - INFO - SUCCESS on attempt 1. Total tokens: 671
+2026-01-17 21:09:21,971 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:09:28,063 - INFO - SUCCESS on attempt 1. Total tokens: 841
+2026-01-17 21:09:28,103 - INFO - Prediction 123 took 23.5205 seconds
+2026-01-17 21:09:28,104 - INFO - --- [Conversation 19085] START ---
+2026-01-17 21:09:29,003 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:09:45,065 - INFO - SUCCESS on attempt 1. Total tokens: 691
+2026-01-17 21:09:46,175 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:09:51,121 - INFO - SUCCESS on attempt 1. Total tokens: 841
+2026-01-17 21:09:51,160 - INFO - Prediction 124 took 23.056 seconds
+2026-01-17 21:09:51,161 - INFO - --- [Conversation 21324] START ---
+2026-01-17 21:09:52,045 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:10:17,095 - INFO - SUCCESS on attempt 1. Total tokens: 933
+2026-01-17 21:10:18,227 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:10:19,738 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:10:19,744 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:10:21,489 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:10:21,489 - ERROR - All attempts failed; returning None.
+2026-01-17 21:10:21,527 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:10:21,527 - INFO - --- [Conversation 23855] START ---
+2026-01-17 21:10:22,453 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:10:46,416 - INFO - SUCCESS on attempt 1. Total tokens: 1027
+2026-01-17 21:10:47,586 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:10:49,146 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:10:49,152 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:10:50,982 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:10:50,982 - ERROR - All attempts failed; returning None.
+2026-01-17 21:10:51,019 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:10:51,020 - INFO - --- [Conversation 23384] START ---
+2026-01-17 21:10:51,935 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:11:07,266 - INFO - SUCCESS on attempt 1. Total tokens: 714
+2026-01-17 21:11:08,364 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:11:12,150 - INFO - SUCCESS on attempt 1. Total tokens: 844
+2026-01-17 21:11:12,189 - INFO - Prediction 127 took 21.1693 seconds
+2026-01-17 21:11:12,190 - INFO - --- [Conversation 23787] START ---
+2026-01-17 21:11:13,289 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:11:44,369 - INFO - SUCCESS on attempt 1. Total tokens: 1193
+2026-01-17 21:11:45,525 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:11:47,122 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:11:47,129 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:11:48,962 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:11:48,962 - ERROR - All attempts failed; returning None.
+2026-01-17 21:11:48,998 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:11:48,999 - INFO - --- [Conversation 18286] START ---
+2026-01-17 21:11:49,931 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:12:15,816 - INFO - SUCCESS on attempt 1. Total tokens: 997
+2026-01-17 21:12:16,933 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:12:26,690 - INFO - SUCCESS on attempt 1. Total tokens: 1227
+2026-01-17 21:12:26,730 - INFO - Prediction 129 took 37.7313 seconds
+2026-01-17 21:12:26,731 - INFO - --- [Conversation 19087] START ---
+2026-01-17 21:12:27,621 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:12:50,856 - INFO - SUCCESS on attempt 1. Total tokens: 880
+2026-01-17 21:12:51,993 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:12:53,523 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:12:53,530 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:12:55,263 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:12:55,263 - ERROR - All attempts failed; returning None.
+2026-01-17 21:12:55,308 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:12:55,309 - INFO - --- [Conversation 23874] START ---
+2026-01-17 21:12:56,195 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:13:16,989 - INFO - SUCCESS on attempt 1. Total tokens: 789
+2026-01-17 21:13:18,321 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:13:25,611 - INFO - SUCCESS on attempt 1. Total tokens: 979
+2026-01-17 21:13:25,652 - INFO - Prediction 131 took 30.3431 seconds
+2026-01-17 21:13:25,653 - INFO - --- [Conversation 23398] START ---
+2026-01-17 21:13:26,529 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:13:45,741 - INFO - SUCCESS on attempt 1. Total tokens: 842
+2026-01-17 21:13:46,857 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:13:48,379 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:13:48,385 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:13:50,105 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:13:50,105 - ERROR - All attempts failed; returning None.
+2026-01-17 21:13:50,141 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:13:50,141 - INFO - --- [Conversation 23870] START ---
+2026-01-17 21:13:51,000 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:14:15,658 - INFO - SUCCESS on attempt 1. Total tokens: 935
+2026-01-17 21:14:16,828 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:14:18,362 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:14:18,368 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:14:20,121 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:14:20,121 - ERROR - All attempts failed; returning None.
+2026-01-17 21:14:20,163 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:14:20,164 - INFO - --- [Conversation 20893] START ---
+2026-01-17 21:14:21,057 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:14:37,555 - INFO - SUCCESS on attempt 1. Total tokens: 706
+2026-01-17 21:14:38,803 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:14:42,591 - INFO - SUCCESS on attempt 1. Total tokens: 836
+2026-01-17 21:14:42,634 - INFO - Prediction 134 took 22.4706 seconds
+2026-01-17 21:14:42,636 - INFO - --- [Conversation 23820] START ---
+2026-01-17 21:14:43,523 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:15:05,800 - INFO - SUCCESS on attempt 1. Total tokens: 926
+2026-01-17 21:15:07,012 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:15:08,548 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:15:08,554 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:15:10,303 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:15:10,303 - ERROR - All attempts failed; returning None.
+2026-01-17 21:15:10,339 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:15:10,340 - INFO - --- [Conversation 17957] START ---
+2026-01-17 21:15:11,237 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:15:46,490 - INFO - SUCCESS on attempt 1. Total tokens: 1240
+2026-01-17 21:15:47,662 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:15:49,306 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:15:49,312 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:15:51,135 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:15:51,136 - ERROR - All attempts failed; returning None.
+2026-01-17 21:15:51,171 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:15:51,172 - INFO - --- [Conversation 18456] START ---
+2026-01-17 21:15:52,040 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:16:14,251 - INFO - SUCCESS on attempt 1. Total tokens: 903
+2026-01-17 21:16:15,389 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:16:20,398 - INFO - SUCCESS on attempt 1. Total tokens: 1053
+2026-01-17 21:16:20,434 - INFO - Prediction 137 took 29.2624 seconds
+2026-01-17 21:16:20,435 - INFO - --- [Conversation 23481] START ---
+2026-01-17 21:16:21,305 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:16:51,340 - INFO - SUCCESS on attempt 1. Total tokens: 1052
+2026-01-17 21:16:52,505 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:16:56,522 - INFO - SUCCESS on attempt 1. Total tokens: 1184
+2026-01-17 21:16:56,560 - INFO - Prediction 138 took 36.1252 seconds
+2026-01-17 21:16:56,562 - INFO - --- [Conversation 19896] START ---
+2026-01-17 21:16:57,680 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:17:12,926 - INFO - SUCCESS on attempt 1. Total tokens: 711
+2026-01-17 21:17:14,108 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:17:16,731 - INFO - SUCCESS on attempt 1. Total tokens: 821
+2026-01-17 21:17:16,767 - INFO - Prediction 139 took 20.2055 seconds
+2026-01-17 21:17:16,768 - INFO - --- [Conversation 21414] START ---
+2026-01-17 21:17:17,969 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:17:35,075 - INFO - SUCCESS on attempt 1. Total tokens: 681
+2026-01-17 21:17:36,247 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:17:43,489 - INFO - SUCCESS on attempt 1. Total tokens: 871
+2026-01-17 21:17:43,531 - INFO - Prediction 140 took 26.7631 seconds
+2026-01-17 21:17:43,532 - INFO - --- [Conversation 21303] START ---
+2026-01-17 21:17:44,386 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:18:08,559 - INFO - SUCCESS on attempt 1. Total tokens: 932
+2026-01-17 21:18:09,704 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:18:11,220 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:18:11,226 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:18:12,988 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:18:12,988 - ERROR - All attempts failed; returning None.
+2026-01-17 21:18:13,025 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:18:13,026 - INFO - --- [Conversation 20841] START ---
+2026-01-17 21:18:13,892 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:18:25,220 - INFO - SUCCESS on attempt 1. Total tokens: 571
+2026-01-17 21:18:26,435 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:18:29,405 - INFO - SUCCESS on attempt 1. Total tokens: 681
+2026-01-17 21:18:29,451 - INFO - Prediction 142 took 16.4255 seconds
+2026-01-17 21:18:29,452 - INFO - --- [Conversation 19084] START ---
+2026-01-17 21:18:30,356 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:18:56,300 - INFO - SUCCESS on attempt 1. Total tokens: 979
+2026-01-17 21:18:57,487 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:19:09,558 - INFO - SUCCESS on attempt 1. Total tokens: 1249
+2026-01-17 21:19:09,603 - INFO - Prediction 143 took 40.151 seconds
+2026-01-17 21:19:09,604 - INFO - --- [Conversation 18454] START ---
+2026-01-17 21:19:10,492 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:19:31,407 - INFO - SUCCESS on attempt 1. Total tokens: 872
+2026-01-17 21:19:32,609 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:19:36,455 - INFO - SUCCESS on attempt 1. Total tokens: 1002
+2026-01-17 21:19:36,498 - INFO - Prediction 144 took 26.8935 seconds
+2026-01-17 21:19:36,499 - INFO - --- [Conversation 21297] START ---
+2026-01-17 21:19:37,409 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:20:06,913 - INFO - SUCCESS on attempt 1. Total tokens: 995
+2026-01-17 21:20:08,090 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:20:09,659 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:20:09,665 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:20:11,434 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:20:11,434 - ERROR - All attempts failed; returning None.
+2026-01-17 21:20:11,470 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:20:11,471 - INFO - --- [Conversation 23581] START ---
+2026-01-17 21:20:12,339 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:20:29,977 - INFO - SUCCESS on attempt 1. Total tokens: 793
+2026-01-17 21:20:31,160 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:20:33,817 - INFO - SUCCESS on attempt 1. Total tokens: 903
+2026-01-17 21:20:33,858 - INFO - Prediction 146 took 22.3869 seconds
+2026-01-17 21:20:33,858 - INFO - --- [Conversation 19225] START ---
+2026-01-17 21:20:34,806 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:21:02,456 - INFO - SUCCESS on attempt 1. Total tokens: 1019
+2026-01-17 21:21:03,622 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:21:05,191 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:21:05,197 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:21:07,011 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:21:07,011 - ERROR - All attempts failed; returning None.
+2026-01-17 21:21:07,055 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:21:07,056 - INFO - --- [Conversation 19317] START ---
+2026-01-17 21:21:07,964 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:21:35,343 - INFO - SUCCESS on attempt 1. Total tokens: 962
+2026-01-17 21:21:36,656 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:21:46,911 - INFO - SUCCESS on attempt 1. Total tokens: 1192
+2026-01-17 21:21:46,969 - INFO - Prediction 148 took 39.9124 seconds
+2026-01-17 21:21:46,971 - INFO - --- [Conversation 23849] START ---
+2026-01-17 21:21:47,896 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:22:08,942 - INFO - SUCCESS on attempt 1. Total tokens: 940
+2026-01-17 21:22:10,102 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:22:11,660 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:22:11,666 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:22:13,423 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:22:13,423 - ERROR - All attempts failed; returning None.
+2026-01-17 21:22:13,459 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:22:13,460 - INFO - --- [Conversation 23567] START ---
+2026-01-17 21:22:14,325 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:22:39,038 - INFO - SUCCESS on attempt 1. Total tokens: 917
+2026-01-17 21:22:40,399 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:22:45,416 - INFO - SUCCESS on attempt 1. Total tokens: 1067
+2026-01-17 21:22:45,459 - INFO - Prediction 150 took 31.9991 seconds
+2026-01-17 21:22:45,460 - INFO - --- [Conversation 19750] START ---
+2026-01-17 21:22:46,351 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:23:14,835 - INFO - SUCCESS on attempt 1. Total tokens: 1101
+2026-01-17 21:23:16,011 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:23:22,280 - INFO - SUCCESS on attempt 1. Total tokens: 1271
+2026-01-17 21:23:22,319 - INFO - Prediction 151 took 36.8595 seconds
+2026-01-17 21:23:22,320 - INFO - --- [Conversation 21458] START ---
+2026-01-17 21:23:23,188 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:23:50,593 - INFO - SUCCESS on attempt 1. Total tokens: 930
+2026-01-17 21:23:51,807 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:23:53,335 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:23:53,341 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:23:55,103 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:23:55,104 - ERROR - All attempts failed; returning None.
+2026-01-17 21:23:55,140 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:23:55,140 - INFO - --- [Conversation 23556] START ---
+2026-01-17 21:23:56,009 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:24:21,694 - INFO - SUCCESS on attempt 1. Total tokens: 896
+2026-01-17 21:24:22,803 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:24:24,325 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:24:24,332 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:24:26,099 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:24:26,100 - ERROR - All attempts failed; returning None.
+2026-01-17 21:24:26,137 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:24:26,138 - INFO - --- [Conversation 23777] START ---
+2026-01-17 21:24:27,042 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:24:58,234 - INFO - SUCCESS on attempt 1. Total tokens: 1151
+2026-01-17 21:24:59,387 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:25:00,988 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:25:00,995 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:25:02,821 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:25:02,821 - ERROR - All attempts failed; returning None.
+2026-01-17 21:25:02,857 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:25:02,858 - INFO - --- [Conversation 18290] START ---
+2026-01-17 21:25:03,736 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:25:22,315 - INFO - SUCCESS on attempt 1. Total tokens: 860
+2026-01-17 21:25:23,407 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:25:24,928 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:25:24,933 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:25:30,166 - INFO - SUCCESS on attempt 2. Total tokens: 2146
+2026-01-17 21:25:30,204 - INFO - Prediction 155 took 27.3458 seconds
+2026-01-17 21:25:30,204 - INFO - --- [Conversation 25693] START ---
+2026-01-17 21:25:31,085 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:25:50,395 - INFO - SUCCESS on attempt 1. Total tokens: 751
+2026-01-17 21:25:51,776 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:25:53,256 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:25:53,261 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:25:54,938 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:25:54,938 - ERROR - All attempts failed; returning None.
+2026-01-17 21:25:54,974 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:25:54,975 - INFO - --- [Conversation 20326] START ---
+2026-01-17 21:25:55,869 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:26:22,459 - INFO - SUCCESS on attempt 1. Total tokens: 923
+2026-01-17 21:26:23,568 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:26:25,077 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:26:25,084 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:26:26,835 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:26:26,835 - ERROR - All attempts failed; returning None.
+2026-01-17 21:26:26,875 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:26:26,876 - INFO - --- [Conversation 21400] START ---
+2026-01-17 21:26:27,749 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:26:46,384 - INFO - SUCCESS on attempt 1. Total tokens: 792
+2026-01-17 21:26:47,522 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:26:54,819 - INFO - SUCCESS on attempt 1. Total tokens: 982
+2026-01-17 21:26:54,857 - INFO - Prediction 158 took 27.9809 seconds
+2026-01-17 21:26:54,858 - INFO - --- [Conversation 18320] START ---
+2026-01-17 21:26:55,736 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:27:07,696 - INFO - SUCCESS on attempt 1. Total tokens: 718
+2026-01-17 21:27:08,785 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:27:10,251 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:27:10,255 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:27:11,927 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:27:11,927 - ERROR - All attempts failed; returning None.
+2026-01-17 21:27:11,963 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:27:11,964 - INFO - --- [Conversation 18295] START ---
+2026-01-17 21:27:12,844 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:27:27,533 - INFO - SUCCESS on attempt 1. Total tokens: 803
+2026-01-17 21:27:28,745 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:27:31,384 - INFO - SUCCESS on attempt 1. Total tokens: 913
+2026-01-17 21:27:31,424 - INFO - Prediction 160 took 19.4603 seconds
+2026-01-17 21:27:31,425 - INFO - --- [Conversation 23725] START ---
+2026-01-17 21:27:32,305 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:27:54,077 - INFO - SUCCESS on attempt 1. Total tokens: 867
+2026-01-17 21:27:55,219 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:27:57,883 - INFO - SUCCESS on attempt 1. Total tokens: 977
+2026-01-17 21:27:57,920 - INFO - Prediction 161 took 26.4956 seconds
+2026-01-17 21:27:57,921 - INFO - --- [Conversation 20849] START ---
+2026-01-17 21:27:58,820 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:28:19,198 - INFO - SUCCESS on attempt 1. Total tokens: 810
+2026-01-17 21:28:20,296 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:28:22,950 - INFO - SUCCESS on attempt 1. Total tokens: 920
+2026-01-17 21:28:22,987 - INFO - Prediction 162 took 25.0656 seconds
+2026-01-17 21:28:22,987 - INFO - --- [Conversation 19233] START ---
+2026-01-17 21:28:23,855 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:28:36,604 - INFO - SUCCESS on attempt 1. Total tokens: 648
+2026-01-17 21:28:37,955 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:28:41,706 - INFO - SUCCESS on attempt 1. Total tokens: 778
+2026-01-17 21:28:41,745 - INFO - Prediction 163 took 18.7574 seconds
+2026-01-17 21:28:41,745 - INFO - --- [Conversation 18307] START ---
+2026-01-17 21:28:42,635 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:28:51,596 - INFO - SUCCESS on attempt 1. Total tokens: 637
+2026-01-17 21:28:52,707 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:28:55,301 - INFO - SUCCESS on attempt 1. Total tokens: 747
+2026-01-17 21:28:55,338 - INFO - Prediction 164 took 13.5926 seconds
+2026-01-17 21:28:55,339 - INFO - --- [Conversation 23691] START ---
+2026-01-17 21:28:56,204 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:29:05,535 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentUnits
+2026-01-17 21:29:05,538 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:29:16,227 - INFO - SUCCESS on attempt 2. Total tokens: 1312
+2026-01-17 21:29:17,314 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:29:18,732 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:29:18,735 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:29:20,371 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:29:20,371 - ERROR - All attempts failed; returning None.
+2026-01-17 21:29:20,408 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:29:20,408 - INFO - --- [Conversation 25512] START ---
+2026-01-17 21:29:21,276 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:29:43,032 - INFO - SUCCESS on attempt 1. Total tokens: 787
+2026-01-17 21:29:44,146 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:29:45,631 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:29:45,637 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:29:47,354 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:29:47,354 - ERROR - All attempts failed; returning None.
+2026-01-17 21:29:47,393 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:29:47,394 - INFO - --- [Conversation 21454] START ---
+2026-01-17 21:29:48,263 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:30:12,595 - INFO - SUCCESS on attempt 1. Total tokens: 867
+2026-01-17 21:30:13,755 - INFO - 
+[Attempt 1/2] Generating...
+2026-01-17 21:30:15,261 - ERROR - Validation failed on attempt 1: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:30:15,267 - INFO - 
+[Attempt 2/2] Generating...
+2026-01-17 21:30:17,004 - ERROR - Validation failed on attempt 2: ValidationError: 1 validation error for ArgumentRelations
+2026-01-17 21:30:17,004 - ERROR - All attempts failed; returning None.
+2026-01-17 21:30:17,040 - INFO - No rels units extracted. Proceed to next discussion.
+2026-01-17 21:30:17,048 - INFO - Output graphs saved to experiments/ms_deepseek_qt_0_42_42_20260117_201001/ms_deepseek_qt_0_42_42_20260117_201001.json
+2026-01-17 21:30:17,048 - INFO - FINAL RUN STATS: Prompt: 49678, Completion: 29164, Rels Prompt: 91829, Rels Completion: 6041,  Total (collective): 176712

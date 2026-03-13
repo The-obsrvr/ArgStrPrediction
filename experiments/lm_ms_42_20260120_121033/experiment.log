@@ -1,0 +1,48 @@
+2026-01-20 12:10:33,922 - INFO - Experiment directory created at: experiments/lm_ms_42_20260120_121033 with seed: 42
+2026-01-20 12:10:33,953 - INFO - Task: AUE
+2026-01-20 12:10:44,027 - INFO - Data loaded
+2026-01-20 12:10:49,340 - INFO - Starting HPO for AUE
+2026-01-20 12:11:55,255 - INFO - Early stopping in trial 0 at epoch 5
+2026-01-20 12:12:36,581 - INFO - Early stopping in trial 1 at epoch 4
+2026-01-20 12:13:15,704 - INFO - Early stopping in trial 2 at epoch 4
+2026-01-20 12:13:37,490 - INFO - Trial 3 pruned at epoch 2 with val_loss=0.5592
+2026-01-20 12:14:18,955 - INFO - Early stopping in trial 4 at epoch 4
+2026-01-20 12:15:00,759 - INFO - Early stopping in trial 5 at epoch 4
+2026-01-20 12:15:21,051 - INFO - Trial 6 pruned at epoch 2 with val_loss=0.6004
+2026-01-20 12:15:41,469 - INFO - Trial 7 pruned at epoch 2 with val_loss=0.5520
+2026-01-20 12:15:41,470 - INFO - Best HPO params for AUE: {'learning_rate': 5.861903588697459e-05, 'batch_size': 8}
+2026-01-20 12:15:41,470 - INFO - Starting CV for AUE
+2026-01-20 12:16:37,982 - INFO - Early stopping ends at 5/20
+2026-01-20 12:16:37,982 - INFO - Time taken by Fold 1: 54.90153431892395
+2026-01-20 12:17:34,944 - INFO - Early stopping ends at 5/20
+2026-01-20 12:17:34,944 - INFO - Time taken by Fold 2: 55.247605085372925
+2026-01-20 12:18:42,575 - INFO - Early stopping ends at 6/20
+2026-01-20 12:18:42,575 - INFO - Time taken by Fold 3: 66.01537537574768
+2026-01-20 12:19:40,114 - INFO - Early stopping ends at 5/20
+2026-01-20 12:19:40,114 - INFO - Time taken by Fold 4: 55.92256474494934
+2026-01-20 12:20:37,478 - INFO - Early stopping ends at 5/20
+2026-01-20 12:20:37,479 - INFO - Time taken by Fold 5: 55.78294396400452
+2026-01-20 12:20:38,686 - INFO - Saved best model to experiments/lm_ms_42_20260120_121033/best_model_AUE.pt
+2026-01-20 12:20:38,689 - INFO - 
+FINISHED AUE. Avg Time: 18.72 sec
+2026-01-20 12:20:38,689 - INFO - Task: RTC
+2026-01-20 12:20:54,880 - INFO - Data loaded
+2026-01-20 12:20:56,843 - INFO - Starting HPO for RTC
+2026-01-20 14:25:03,661 - INFO - Trial 2 pruned at epoch 2 with val_loss=0.8697
+2026-01-20 14:58:19,556 - INFO - Trial 3 pruned at epoch 2 with val_loss=0.8218
+2026-01-20 15:27:52,282 - INFO - Trial 4 pruned at epoch 2 with val_loss=0.8139
+2026-01-20 15:27:52,283 - INFO - Best HPO params for RTC: {'learning_rate': 1.1287295668784868e-05, 'batch_size': 16}
+2026-01-20 15:27:52,283 - INFO - Starting CV for RTC
+2026-01-20 17:21:57,909 - INFO - Early stopping ends at 7/10
+2026-01-20 17:21:57,910 - INFO - Time taken by Fold 1: 6844.837887763977
+2026-01-20 19:16:05,630 - INFO - Early stopping ends at 7/10
+2026-01-20 19:16:05,631 - INFO - Time taken by Fold 2: 6846.869451522827
+2026-01-20 20:53:55,237 - INFO - Early stopping ends at 6/10
+2026-01-20 20:53:55,237 - INFO - Time taken by Fold 3: 5868.852659702301
+2026-01-20 23:04:18,859 - INFO - Early stopping ends at 8/10
+2026-01-20 23:04:18,859 - INFO - Time taken by Fold 4: 7822.878660202026
+2026-01-21 00:58:25,899 - INFO - Early stopping ends at 7/10
+2026-01-21 00:58:25,900 - INFO - Time taken by Fold 5: 6846.305384635925
+2026-01-21 00:58:27,983 - INFO - Saved best model to experiments/lm_ms_42_20260120_121033/best_model_RTC.pt
+2026-01-21 00:58:27,990 - INFO - 
+FINISHED RTC. Avg Time: 2281.98 sec

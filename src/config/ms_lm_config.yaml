@@ -1,0 +1,62 @@
+# run config
+experiment:
+  name: "ms_lm"
+  seed: 42
+  log_level: "INFO"
+  data_path: "Data/QT30_training.csv"
+  model_name_or_path: ""
+
+
+AUE:
+  model_name_or_path: "markussagen/xlm-roberta-longformer-base-4096"
+  backbone: "markussagen/xlm-roberta-longformer-base-4096"
+  max_length: 2048
+  optimizer: "AdamW"
+  batch_size: 4
+  learning_rate:
+  data_path: "Data/QT30_test.csv"         # path to AUE training file
+  do_hpo: True
+  do_CV: True
+  num_folds: 5
+  num_labels: 3         # O,B,I
+  class_weights: [1.0, 2.0, 2.0]
+  is_long_model: True
+
+RTC:                      # RTC task (relation classification)
+  model_name_or_path: "FacebookAI/xlm-roberta-large"
+  backbone: "FacebookAI/xlm-roberta-large"
+  max_length: 512
+  optimizer: "AdamW"
+  batch_size: 8
+  learning_rate:
+  data_path: "Data/QT30_training.csv"
+  do_hpo: True
+  do_CV: True
+  num_folds: 5
+  num_labels: 3           # support/attack/non
+  class_weights: [1.0, 2.0, 0.5]
+  window_size: 120
+  use_context: true
+  is_long_model: False
+  neg_per_pos: 2
+  hard_neg_per_pos: 1
+  hard_pool_k: 4
+  num_nonarg_spans: 2
+  nonarg_span_char_len: 80
+  max_pairs_conv: 35
+
+inference:
+  data_path: ""
+  model_name_or_path: ""
+  context_examples_path: ""
+  num_context_examples: 0
+  max_attempts: 3
+  max_tokens: 4096
+  temperature: 0
+  repetition_penalty: 1.0
+  repeat_instructions: false
+
+model:
+  args_model_name_or_path: ""
+  rels_model_name_or_path: ""
+  model_name_or_path: ""

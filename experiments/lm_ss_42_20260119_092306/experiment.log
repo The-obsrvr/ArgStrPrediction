@@ -1,0 +1,11 @@
+2026-01-19 09:23:06,785 - INFO - Experiment directory created at: experiments/lm_ss_42_20260119_092306 with seed: 42
+2026-01-19 09:23:06,785 - INFO - Loading Flair Embeddings...
+2026-01-19 09:23:50,674 - INFO - Loaded data set
+2026-01-19 09:27:07,257 - INFO - >> Best HPO Config Found: {'lr': 0.0001, 'batch_size': 16, 'patience': 3}
+2026-01-19 09:27:07,258 - INFO - --- Fold 1 ---
+2026-01-19 09:29:15,987 - INFO - --- Fold 2 ---
+2026-01-19 09:31:18,125 - INFO - --- Fold 3 ---
+2026-01-19 09:33:16,210 - INFO - --- Fold 4 ---
+2026-01-19 09:35:20,786 - INFO - --- Fold 5 ---
+2026-01-19 09:37:20,968 - INFO - >> Best Validation Loss: 0.1015
+2026-01-19 09:37:21,063 - INFO - >> Best model saved to experiments/lm_ss_42_20260119_092306/best_bilstm_er_model.pth

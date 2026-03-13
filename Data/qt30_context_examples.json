@@ -1,0 +1,522 @@
+[
+  {
+    "conversation_id": "23114",
+    "conversation_text": "Jeremy King[0:25:06] I do know and understand the concerns about civil liberties when it comes to COVID vaccines, but one of the things I do like about it, it's very egalitarian, the great successes of the vaccine programme is it doesn't matter who you are, how much money you have, whatever, you have a right. And it is one of the purest examples. I would love to see the passports used. I don't want to force anybody to have a vaccine, though. Fiona Bruce[0:25:36] When it comes to who is having the vaccine, Jeremy, younger people are going to get it much later on so you have the UK Hospitality Association saying it's not workable because young people won't be vaccinated until the autumn so they won't have a certificate to come into a restaurant like yours.Jeremy King[0:25:56] Absolutely. That is always going to be the shortcomings of it. But this is only for a short period. It could be the way through. I'm not advocating as such, I'm not against it.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "it, it's very egalitarian"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "the great successes of the vaccine programme is it doesn't matter who you are"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 2,
+          "text": "how much money you have"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "you have a right"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "I would love to see the passports used"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "I don't want to force anybody to have a vaccine"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "young people won't be vaccinated until the autumn"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "they won't have a certificate to come into a restaurant"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "this is only for a short period"
+        },
+        {
+          "reason": "States a position",
+          "id": 9,
+          "text": "It could be the way through"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "attack"
+        },
+        {
+          "source_id": 9,
+          "target_id": 8,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "23725",
+    "conversation_text": "Grant Shapps[0:25:37] Look, if I thought it would, I would do it. We already have six million Europeans with settled and pre-settled status, but if you go to Europe, Poland, 123 thousand shortage, Germany, 60 thousand shortage, the bottleneck is actually people getting tested, and also bringing people back into the market, and for some of the reasons that have been mentioned, Richard and other people have mentioned it, this is a market in which 99 per cent of lorry drivers are white male, average age 55 to 57, and it's because the conditions haven't been pleasant, but it's also because the pay hasn't been commensurate with the job being convenient, the long hours or the nights sleeping in the cab and things like that, and the conditions at truck stops. And these are things that we can do something about, and a higher salary is something that we are happy to see. We don't think peoplewe think people should be able to work a hard day's work and get paid a proper wage for it. This is something which will correct the systemic problem which has led to shortages for a long time, because it has been constantly undercut by people coming in who are prepared to do the work.Richard Walker[0:26:38] That will take time. I'm worried about Christmas before then.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "if I thought it would"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "I would do it"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "We already have six million Europeans with settled and pre-settled status"
+        },
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 3,
+          "text": "but if you go to Europe, Poland, 123 thousand shortage"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "Germany, 60 thousand shortage"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "the bottleneck is actually people getting tested"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 6,
+          "text": "and for some of the reasons that have been mentioned"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "this is a market in which 99 per cent of lorry drivers are white male, average age 55 to 57"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 8,
+          "text": "and it's because the conditions haven't been pleasant"
+        },
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 9,
+          "text": "but it's also because the pay hasn't been commensurate with the job being convenient"
+        },
+        {
+          "reason": "States a position",
+          "id": 10,
+          "text": "the long hours or the nights sleeping in the cab and things like that"
+        },
+        {
+          "reason": "States a position",
+          "id": 11,
+          "text": "and the conditions at truck stops"
+        },
+        {
+          "reason": "States a position",
+          "id": 12,
+          "text": "And these are things that we can do something about"
+        },
+        {
+          "reason": "States a position",
+          "id": 13,
+          "text": "and a higher salary is something that we are happy to see"
+        },
+        {
+          "reason": "States a position",
+          "id": 14,
+          "text": "think people should be able to work a hard day's work and get paid a proper wage for it"
+        },
+        {
+          "reason": "States a position",
+          "id": 15,
+          "text": "This is something which will correct the systemic problem which has led to shortages for a long time"
+        },
+        {
+          "reason": "Explains a reason",
+          "id": 16,
+          "text": "because it has been constantly undercut by people coming in who are prepared to do the work"
+        },
+        {
+          "reason": "States a position",
+          "id": 17,
+          "text": "That will take time"
+        },
+        {
+          "reason": "States a position",
+          "id": 18,
+          "text": "worried about Christmas before then"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 7,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 7,
+          "type": "support"
+        },
+        {
+          "source_id": 9,
+          "target_id": 8,
+          "type": "support"
+        },
+        {
+          "source_id": 10,
+          "target_id": 8,
+          "type": "support"
+        },
+        {
+          "source_id": 11,
+          "target_id": 8,
+          "type": "support"
+        },
+        {
+          "source_id": 12,
+          "target_id": 8,
+          "type": "support"
+        },
+        {
+          "source_id": 13,
+          "target_id": 9,
+          "type": "support"
+        },
+        {
+          "source_id": 14,
+          "target_id": 13,
+          "type": "support"
+        },
+        {
+          "source_id": 15,
+          "target_id": 14,
+          "type": "support"
+        },
+        {
+          "source_id": 16,
+          "target_id": 15,
+          "type": "support"
+        },
+        {
+          "source_id": 18,
+          "target_id": 17,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 2,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "21014",
+    "conversation_text": "Fiona Bruce[00:23:00] And Alan, you work in the oil and gas industry  what's your perspective? Alan Unknown[00:23:05] Yes, I do, I work in subsea sector. And we've had a number of challenges over the years, certainly in recent years, which has been exacerbated lately with the COVID-19 pandemic. But things seem to be stabling out a bit now but of course we now hear that the Green Party would like us to be ceasing production in the next ten years and potentially working alongside the SNP to support a majority there. Which is obviously a worry because it's a concern for people who work in the industry but also for further investment in the industry, which I think we need as a country. Lorna Slater[00:23:43] Can I come in on that one? I absolutely understand your concern and I share the same concern for workers in the oil and gas industry. I'm a renewables engineer, I'm an electro-mechanical engineer, I work for a company that makes tidal turbines.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "we now hear that the Green Party would like us to be ceasing production in the next ten years"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "potentially working alongside the SNP to support a majority there"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "Which is obviously a worry"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "I think we need as a country"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "I absolutely understand your concern and I share the same concern for workers in the oil and gas industry"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "a renewables engineer"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 0,
+          "type": "attack"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "19216",
+    "conversation_text": "FIONA BRUCE [00:23:42] But you are not responsible for that. What you are responsible for is making sure people can get it. MATT HANCOCK [00:23:46] Ill come on to that. But you have to think, they are hard to do the science. They are then hard to manufacture. This thing isnt a chemical thats made, this biological. Then it arrives and you have to keep it at -70. We have known that for some time too so the NHS has been getting hold of the serious deep freeze. Then you have to distribute it. It will be a huge effort from the NHS. They are supported by the armed services in doing that. Thankfully, the NHS is a very, very significant organisation that reaches into all parts of the country. So the reason I answered, when you said are you ready to do it, it is something we are working on every day. It will be complicated. It will be a huge challenge, but Im sure that the NHS is up to it. [DONE]",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 0,
+          "text": "But you are not responsible for that"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "What you are responsible for is making sure people can get it"
+        },
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 2,
+          "text": "But you have to think, they are hard to do the science"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "They are then hard to manufacture"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "This thing isnt a chemical thats made, this biological"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "Then it arrives and you have to keep it at -70"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "We have known that for some time too so the NHS has been getting hold of the serious deep freeze"
+        },
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 7,
+          "text": "Then you have to distribute it"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "It will be a huge effort from the NHS"
+        },
+        {
+          "reason": "States a position",
+          "id": 9,
+          "text": "They are supported by the armed services in doing that"
+        },
+        {
+          "reason": "States a position",
+          "id": 10,
+          "text": "Thankfully, the NHS is a very, very significant organisation that reaches into all parts of the country"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 4,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 9,
+          "target_id": 8,
+          "type": "support"
+        },
+        {
+          "source_id": 10,
+          "target_id": 9,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 7,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "23691",
+    "conversation_text": "Jon Ashworth [0:02:02] It's not good enough just to say, well he has paid for it and the taxpayer didn't, if this donor is winning contracts from the Government, if this donor is winning taxpayer contracts like we have seen with donors over PPE, and ultimately, we are all paying for it because they are getting something back. It cannot be one rule for Boris Johnson, and something for the rest of us, we do need everything out in the open now because otherwise, this scandal won't go away. Fiona Bruce [0:02:38] Anne-Marie?",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "the taxpayer"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "this donor is winning contracts from the Government"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "we are all paying for it"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "they are getting something back"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "It cannot be one rule for Boris Johnson, and something for the rest of us"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "we do need everything out in the open"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "this scandal won't go away"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        },
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  }
+]

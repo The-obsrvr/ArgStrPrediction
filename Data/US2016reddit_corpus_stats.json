@@ -1,0 +1,13 @@
+{
+  "total_conversations": 152,
+  "avg_conv_length": 158.19736842105263,
+  "total_argument_units": 1666,
+  "avg_argument_units_per_conversation": 10.960526315789474,
+  "total_supports": 895,
+  "avg_supports_per_conversation": 5.8881578947368425,
+  "total_attacks": 361,
+  "avg_attacks_per_conversation": 2.375,
+  "support_percentage": 71.25796178343948,
+  "attack_percentage": 28.74203821656051,
+  "total_dropped_units": 6
+}

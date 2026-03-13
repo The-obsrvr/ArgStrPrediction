@@ -1,0 +1,492 @@
+[
+  {
+    "conversation_id": "10402",
+    "conversation_text": "brent0935: Fact checkers are going to have a field day with this shit. Faoeoa: Is God Really Fair? We rate this mostly false. LicenseToILL-INI: I'll be hitting F5 on Politifact like it's the NBA offseason. brent0935: I really hope that they put up a picture of Trump with burning pants on his head, and that's all they say about him. atetuna: So much overtime... Chinchillacious: Politifact checkers are snorting adderall and taking espresso body shots. brent0935: Id just shoot myself at this point Redditor_exe: I believe I heard one of the candidate talking about how we are weak militarily and we need to spend a lot more money on it. You know despite the fact we have the largest and most technologically advanced Navy in the world (more Aircraft Carriers than the rest of the world combined, all of them about 2x as big as the rest of the worlds'). I also believe that I read somewhere that if you were to rank the Top 10 Air Forces in the world it goes a little something like: U.S. Air Force U.S. Navy Russia China U.S. Army (may not be totally right in terms of order, but it is true that the U.S. has 3 of the top 10 air forces in the world) Teh_Slayur: I'm pretty sure I heard Christie claim that 70% of spending is on entitlements. WHAAAAAAATTTT? 40% of spending is the military alone. Math doesn't check out. Furthermore, Social Security is a self-sustaining, non-discretionary program. The discretionary budget is the relevant portion, and 60% of it is the military!",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "we are weak militarily and we need to spend a lot more money on it"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "You know despite the fact we have the largest and most technologically advanced Navy in the world"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "more Aircraft Carriers than the rest of the world combined, all of them about 2x as big as the rest of the worlds"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "I also believe that I read somewhere that if you were to rank the Top 10 Air Forces in the world it goes a little something like: U.S. Air Force U.S. Navy Russia China U.S. Army"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "70% of spending is on entitlements"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "40% of spending is the military alone"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "Math doesn't check out"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "The discretionary budget is the relevant portion"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "60% of it is the military"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 7,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "attack"
+        },
+        {
+          "source_id": 6,
+          "target_id": 4,
+          "type": "attack"
+        },
+        {
+          "source_id": 3,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "attack"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "10607",
+    "conversation_text": "OliverQ27: Holy crap, he won't even let the moderator say anything. weaglebeagle: To be fair, Hillary did the same thing. kingssman: Neither of them. Lester, be quiet.... LOL CheeseGetsMeHard: Tbf, she did the exact same thing. OliverQ27:Not really to the same degree. She may not have even heard Lester over Trump's screaming. Trump isn't letting her finish a sentence. He needs to just be disqualified now. This is embarrassing. voldin91: Why aren't they muting mics at this point? Jesus",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "he won't even let the moderator say anything"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "Hillary did the same thing"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "Neither of them"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "Not really to the same degree"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "She may not have even heard Lester over Trump's screaming. Trump"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "He needs to just be disqualified now"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "This is embarrassing"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "attack"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "attack"
+        },
+        {
+          "source_id": 3,
+          "target_id": 1,
+          "type": "attack"
+        },
+        {
+          "source_id": 4,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "10410",
+    "conversation_text": "[deleted] Fox News is throwing softballs to everyone but Trump. They're going right for his throat and he's eating them up. Teh_Slayur Trump was also given the most speaking time. They gave him a chance to answer, early in the primaries game, to some of the biggest critiques against him. I feel like assuming Fox is trying to eliminate him may be somewhat naive. All the attention he's been receiving has made him shoot up in the Republican polls. He's gunning hard for the white male vote, and it's working fairly well. [deleted] They stopped throwing anything to Carson like half an hour in, though. TheNumberMuncher His answer to when he became a republican was his weakest response. [deleted] He's the turd in Roger Ailes punchbowl. SKS81 You really see his business side by the way he responds. He does not back down. He is kind of like an FDR. Full of shit, but the people like it at the time.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 0,
+          "text": "Fox News is throwing softballs to everyone but Trump"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "going right for his throat"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "eating them up"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "Trump was also given the most speaking time"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "They gave him a chance to answer, early in the primaries game, to some of the biggest critiques against him"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "assuming Fox is trying to eliminate him may be somewhat naive"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "All the attention he's been receiving has made him shoot up in the Republican polls"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "gunning hard for the white male vote"
+        },
+        {
+          "reason": "States a position",
+          "id": 8,
+          "text": "working fairly well"
+        },
+        {
+          "reason": "States a position",
+          "id": 9,
+          "text": "They stopped throwing anything to Carson like half an hour in"
+        },
+        {
+          "reason": "States a position",
+          "id": 10,
+          "text": "His answer to when he became a republican was his weakest response"
+        },
+        {
+          "reason": "States a position",
+          "id": 11,
+          "text": "the turd in Roger Ailes punchbowl"
+        },
+        {
+          "reason": "States a position",
+          "id": 12,
+          "text": "You really see his business side by the way he responds"
+        },
+        {
+          "reason": "States a position",
+          "id": 13,
+          "text": "He does not back down"
+        },
+        {
+          "reason": "States a position",
+          "id": 14,
+          "text": "He is kind of like an FDR"
+        },
+        {
+          "reason": "Contrasts a prior claim",
+          "id": 15,
+          "text": "Full of shit, but the people like it at the time"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 7,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 8,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 5,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 3,
+          "type": "support"
+        },
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 0,
+          "type": "attack"
+        },
+        {
+          "source_id": 10,
+          "target_id": 2,
+          "type": "attack"
+        },
+        {
+          "source_id": 15,
+          "target_id": 14,
+          "type": "support"
+        },
+        {
+          "source_id": 13,
+          "target_id": 12,
+          "type": "support"
+        },
+        {
+          "source_id": 9,
+          "target_id": 0,
+          "type": "attack"
+        },
+        {
+          "source_id": 11,
+          "target_id": 1,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "10317",
+    "conversation_text": "parduscat: \"Mr. Trump, I'm giving you 30 seconds to answer my question.\" Holy shit, Fox News is out for Trump's blood. dirtyfries: Yep, I hate the guy but it's clear this whole thing is about picking winners and losers. They want him gone. lolamp33: no one can accuse fox news of playing soft ball, thats for sure I dont think hillary is going to get the same treatment in the dem debates (shes the queen) liamliam1234liam: I really hope they pull no punches; despite everything, I think the only way Bernie has a chance is if the Democrats give him a chance.",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "Fox News is out for Trump's blood"
+        },
+        {
+          "reason": "States a position",
+          "id": 1,
+          "text": "clear this whole thing is about picking winners and losers"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "They want him gone"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "no one can accuse fox news of playing soft ball"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "I dont think hillary is going to get the same treatment in the dem debates"
+        },
+        {
+          "reason": "States a position",
+          "id": 5,
+          "text": "shes the queen"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "I really hope they pull no punches"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "the only way Bernie has a chance is if the Democrats give him a chance"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 2,
+          "target_id": 1,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 2,
+          "type": "support"
+        },
+        {
+          "source_id": 7,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 4,
+          "type": "attack"
+        }
+      ]
+    },
+    "dropped_units": 0
+  },
+  {
+    "conversation_id": "10592",
+    "conversation_text": "cwgoskins This dudes english and grammar level is below high school. I hate how he speaks like a 15 year old. He cant even sound smart if he tries. Damn Blue_5ive But he has the best words. mwagner1385 Thats insulting to a 15 year old. I would put him at 10 years old. DukeIsFast He is appealing to every level of American. There is a reason why he speaks this way. chillywaterphish And he happens to be tied in some states. Sometimes sounding smart doesn't win elections. Ask Mitt Romney... dontbeamaybe he's completely incapable of understanding the basics of how logic works",
+    "argument_objects": {
+      "argument_units": [
+        {
+          "reason": "States a position",
+          "id": 0,
+          "text": "This dudes english and grammar level is below high school"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 1,
+          "text": "I hate how he speaks like a 15 year old"
+        },
+        {
+          "reason": "States a position",
+          "id": 2,
+          "text": "He cant even sound smart if he tries"
+        },
+        {
+          "reason": "States a position",
+          "id": 3,
+          "text": "I would put him at 10 years old"
+        },
+        {
+          "reason": "States a position",
+          "id": 4,
+          "text": "He is appealing to every level of American"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 5,
+          "text": "There is a reason why he speaks this way"
+        },
+        {
+          "reason": "States a position",
+          "id": 6,
+          "text": "he happens to be tied in some states"
+        },
+        {
+          "reason": "States a position",
+          "id": 7,
+          "text": "Sometimes sounding smart doesn't win elections. Ask Mitt Romney"
+        },
+        {
+          "reason": "Asks a question",
+          "id": 8,
+          "text": "completely incapable of understanding the basics of how logic works"
+        }
+      ],
+      "relations": [
+        {
+          "source_id": 1,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 2,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 3,
+          "target_id": 0,
+          "type": "support"
+        },
+        {
+          "source_id": 5,
+          "target_id": 0,
+          "type": "attack"
+        },
+        {
+          "source_id": 5,
+          "target_id": 4,
+          "type": "support"
+        },
+        {
+          "source_id": 7,
+          "target_id": 6,
+          "type": "support"
+        },
+        {
+          "source_id": 6,
+          "target_id": 0,
+          "type": "attack"
+        },
+        {
+          "source_id": 8,
+          "target_id": 0,
+          "type": "support"
+        }
+      ]
+    },
+    "dropped_units": 0
+  }
+]

@@ -1,0 +1,46 @@
+########################################
+# Jupyter / IPython
+########################################
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+########################################
+# OS / editor noise
+########################################
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+########################################
+# Python basics
+########################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.pyc
+
+########################################
+# PyTorch / model checkpoints (CRITICAL)
+########################################
+# Standard PyTorch
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Safetensors
+*.safetensors
+
+# Quantized / sharded weights
+*.gguf
+*.onnx
+
+# Unsloth cache / compiled artifacts
+unsloth_compiled_cache/
+#
