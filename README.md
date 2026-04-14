@@ -1,7 +1,8 @@
 # Argument Structure Prediction in Conversations: A Systematic Evaluation
 
-This repository contains the documentation relating to the project "Argument Structure Prediction in Conversations" implemented under the Europe Horizon Project "HYBRIDS Project".
+This repository contains documentation on a project that forms part of a broader PhD research effort titled "Identifying the Stance of Argumentative Opinions in Political Discourse", conducted under the HYBRIDS Project within the Horizon Europe framework.
 
+The primary contributor and point of contact for this repository is Siddharth Bhargava (sbhargava@fbk.eu).
 ---
 
 ## Overview
