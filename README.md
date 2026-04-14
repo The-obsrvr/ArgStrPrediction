@@ -45,6 +45,12 @@ For detailed documentation on how the IAT annotations are processed into Bipolar
 
 ### Environment and Project Initialization
 
+Build the Docker Container using the following command
+```shell
+$ docker build --rm -t YOUR_CONTAINER_NAME . 
+```
+Thia builds a Docker container containing the project environment. All experiments have been executed on a Linux server with a 48GB NVIDIA Ampere A40 GPU, CUDA version: 12.4 and Python version: 3.11.
+
 
 ### Single-step Fine-tuning Deep Learning Models
 
