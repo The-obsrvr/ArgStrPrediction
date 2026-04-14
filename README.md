@@ -8,12 +8,9 @@ This repository contains the documentation relating to the project "Argument Str
 
 The main contributions of this work are as follows:
 
-- We introduce a systematic adaptation of IAT-based dialogical corpora into simplified bipolar argument structures, facilitating consistent benchmarking and computational modeling;
-- We develop an end-to-end pipeline for Argument Structure Prediction across multiple task architectures (single-step and multi-step) and modeling paradigms (fine-tuning and prompt-based approaches);
-- We propose a comprehensive evaluation framework for analyzing performance, generalization, schema compliance, and computational efficiency of argument structures across modeling configurations under shared schema.
-
-### Repository Organization
-
+- Introduces a systematic adaptation of IAT-based dialogical corpora into simplified bipolar argument structures, facilitating consistent benchmarking and computational modeling;
+- Develops an end-to-end pipeline for Argument Structure Prediction across multiple task architectures (single-step and multi-step) and modeling paradigms (fine-tuning and prompt-based approaches);
+- Proposes a comprehensive evaluation framework for analyzing performance, generalization, schema compliance, and computational efficiency of argument structures across modeling configurations under shared schema.
 
 ---
 
@@ -51,21 +48,29 @@ $ docker build --rm -t YOUR_CONTAINER_NAME .
 ```
 Thia builds a Docker container containing the project environment. All experiments have been executed on a Linux server with a 48GB NVIDIA Ampere A40 GPU, CUDA version: 12.4 and Python version: 3.11.
 
+### Execution Command
 
-### Single-step Fine-tuning Deep Learning Models
+The command is run in the docker environment as follows:
+```shell
+$ docker run   --gpus='"device=DEVICE_NUMBER"' --runtime=nvidia --rm -ti --shm-size=32gb -v $PWD:/app YOUR_CONTAINER_NAME ./exe.sh 
+```
 
-### Multi-step Fine-tuning Deep Learning Models
+The ```exe.sh``` for each configuration is defined as follows:
 
-### Single-step Prompting Large Language Models
+#### Single-step Fine-tuning Deep Learning Models
 
-### Multi-step Prompting Large Language Models
+#### Multi-step Fine-tuning Deep Learning Models
+
+#### Single-step Prompting Large Language Models
+
+#### Multi-step Prompting Large Language Models
 
 
 ---
 
 ## Evaluation 
 
-### Predictive Performance
+### Task Performance
 
 #### Generalization
 
