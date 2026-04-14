@@ -24,6 +24,7 @@ __pycache__/
 *.pyd
 *.so
 *.pyc
+.env
 
 ########################################
 # PyTorch / model checkpoints (CRITICAL)
@@ -44,3 +45,4 @@ __pycache__/
 # Unsloth cache / compiled artifacts
 unsloth_compiled_cache/
 #
+/experiments/
